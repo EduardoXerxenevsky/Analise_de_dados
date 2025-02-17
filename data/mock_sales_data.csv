@@ -1,0 +1,1001 @@
+order_id,date,customer_id,customer_age,customer_city,product_id,product_category,product_price,quantity,total_price,payment_method
+24c05029-399b-4b34-bc3a-d4825744157f,2024-07-25,4b66e2cd-a075-43dd-a3d6-f3f80236d558,42,da Rocha Grande,18,Roupas,56.53,2,113.06,Boleto
+bce52e5d-409b-43e2-80cc-214946d71e30,2024-05-02,32195421-19c9-4aa3-8584-a6a9ffa13278,38,Duarte da Serra,40,Livros,427.83,4,1711.32,Cartão de Débito
+17c3a0be-3a5a-4d81-a586-b9c52af98b49,2024-12-29,aeea52c6-a63c-4d6f-a899-b00dfcd88116,21,Ferreira das Flores,24,Esportes,495.6,4,1982.4,Cartão de Crédito
+15fc52ec-0b4a-49dc-a0ab-af780ba78814,2024-03-12,b8cbd67f-d568-4644-ba99-d2752f21def8,49,Silva dos Dourados,31,Eletrônicos,35.3,2,70.6,Pix
+58cb79bc-34ee-41d8-9022-e0318ddf4950,2025-01-16,77588258-88fc-487c-8b99-8eb116f98702,34,Santos de Santos,47,Esportes,132.19,3,396.57,Cartão de Débito
+7a68027d-5a96-4a9e-b3c6-496ab7b437f3,2024-12-28,6a2bb892-4bb9-42a6-a73a-8b2df79922f0,30,Ribeiro,32,Livros,214.06,2,428.12,Pix
+97f514c5-d7c2-47b4-a035-9f9ac1a0f63e,2024-06-08,199bc0c6-ef65-4a70-9543-6660f8ffbee9,58,Araújo,24,Esportes,495.6,1,495.6,Transferência Bancária
+d2b5e83c-aedb-45f7-aa2c-21a84ee69849,2024-09-21,f83ae3c4-2310-413f-9483-583f702b7b14,50,Novaes,39,Roupas,275.85,5,1379.25,Pix
+bbed07dc-7ae1-42c3-aa07-b4c9fc510859,2024-05-18,9a5edb54-370d-4eab-962a-90ab1f3b15cc,42,da Rosa,9,Roupas,486.11,3,1458.33,Boleto
+5dc27459-9f6a-4a2a-b1a9-bb70ba6f9089,2024-03-21,da67964d-debc-462d-a8d4-42b4674a8599,54,Ramos de Barros,48,Beleza,103.8,4,415.2,Boleto
+e162038c-83ba-4b5c-880e-87d0e37cf017,2024-08-14,49286c3a-13f1-465b-98e0-4933d1a488aa,33,das Neves das Flores,6,Livros,372.96,3,1118.88,Transferência Bancária
+77b2dbb3-18fb-4cb7-a9c3-242bef8305b3,2024-05-30,fadc3f01-1ac5-4a48-ba30-071f35144767,61,Fernandes,19,Roupas,214.44,4,857.76,Boleto
+1e0778ef-ad79-4b9b-902b-accc4955c1a5,2024-06-02,4ca440ae-9fef-435f-84e5-a3cd7ef0400a,64,Pereira,32,Livros,214.06,3,642.18,Boleto
+588ed6bd-586c-46c3-ae56-b3c370015aa0,2025-01-17,c546128e-b471-4f2c-9914-b65f150a3bcd,59,Oliveira,25,Beleza,349.23,1,349.23,Cartão de Débito
+dcdaab4e-d2b8-49f3-af30-8e1f88cb2f3f,2024-05-16,6659667b-2dd4-4db1-a3fa-5117710208e2,32,Viana do Sul,47,Esportes,132.19,2,264.38,Pix
+c414d9e5-65ae-4d28-a423-6a6f6d50968b,2024-04-03,ada13912-5723-45b2-a4c3-2bd61d86da98,48,da Conceição,46,Beleza,135.55,3,406.65,Pix
+b49da0ae-2973-44e1-8ca2-c660de572748,2024-10-14,d6745986-1b79-408c-8c73-d4ea6929c141,57,Teixeira das Pedras,26,Roupas,24.28,1,24.28,Pix
+02c69bc5-0d27-426e-ae86-3cf820038ead,2024-06-30,59d34309-956b-4e85-8b7b-3c47c27f9fc5,61,Dias,33,Roupas,203.62,1,203.62,Cartão de Débito
+0e8f7e8e-20f1-4901-9c0a-c63a9f3fa24b,2025-01-22,e7436d5f-66a6-4b9c-b93e-d359a57f1a81,47,Vieira,42,Esportes,156.52,5,782.6,Transferência Bancária
+a83bae49-ace5-41b0-832f-72b9dbb36d52,2024-12-07,41fb9308-9a5e-4bad-a579-91bf5d41b286,24,Campos,6,Livros,372.96,2,745.92,Transferência Bancária
+15e64498-736f-4ad9-9650-bad8536d0737,2024-10-06,4dc43846-838d-4994-bb54-18a562ef8fa0,63,Campos,13,Alimentos,12.53,4,50.12,Cartão de Débito
+0f777c2d-07ab-4a07-a054-426ec32ea535,2024-10-04,e1876464-cc18-4a3a-a64d-cf44a3c4eb76,18,Nunes do Galho,34,Beleza,192.75,5,963.75,Boleto
+24d5570f-51ab-4809-ad78-12910e942a80,2024-09-10,3794b3fd-a5b4-41f7-8428-890e451a742c,25,Gonçalves da Mata,22,Eletrônicos,22.63,5,113.15,Cartão de Crédito
+1c1998b3-5e20-4432-a1ff-3967a3188117,2024-05-18,58403b84-53f1-438d-aa5c-f01523600393,33,Sales de Aragão,5,Beleza,16.78,3,50.34,Pix
+aded17f3-2f0e-4f4c-80a3-9909be4c0104,2024-07-19,6557408b-955a-4105-ba63-4455fb15515d,28,da Mata,17,Beleza,223.41,5,1117.05,Pix
+2cd01bb7-265f-43bd-b0cb-3c8c77e17ffb,2024-07-11,a3932780-510c-4d39-af1b-e9de0f9b8814,41,Carvalho,34,Beleza,192.75,4,771.0,Transferência Bancária
+b968cc00-653d-42a7-8120-173a2baacb9c,2024-06-22,c49d1417-e756-4939-aed3-a2a5b158b9ca,59,Lima da Prata,18,Roupas,56.53,1,56.53,Boleto
+efc148c0-fa1a-41d0-8c64-5052a143388e,2024-05-29,e2f9872a-40ce-41ce-9dc1-56974e4d5ec5,40,Rodrigues,14,Esportes,272.71,4,1090.84,Cartão de Débito
+4272c820-f887-4fb8-b07b-28467d8d8889,2024-12-11,5aebec3c-ccef-4429-ae0e-b86e325fc06d,51,Moreira,40,Livros,427.83,2,855.66,Transferência Bancária
+d7a733b9-b194-442b-8151-eac109ef14a7,2024-09-30,076961a8-637e-4131-bfcf-0ddeed793238,51,Dias do Sul,14,Esportes,272.71,2,545.42,Cartão de Débito
+15a822db-a6df-4bd8-a8e1-86699774b0e2,2024-03-03,5b7268c4-4c95-443b-9f3a-4a70c3fcb42f,26,Martins,30,Beleza,421.37,1,421.37,Pix
+3d3f16df-3f62-40dd-bc58-f255e88d9f57,2024-03-03,e2962209-9f03-4d28-9cb9-aa9c44a1fab3,65,Cunha de Minas,38,Beleza,296.32,3,888.96,Pix
+9fffaf26-5f60-44a7-bd0c-489be28139b9,2025-01-04,953d0a9e-dab4-4a56-9e31-0f3c21615a8a,30,Moreira,15,Beleza,367.19,2,734.38,Cartão de Débito
+2668d628-ee1c-4044-8323-0812d3f27496,2024-05-18,ddae685e-fda0-4370-ac8e-e84fd5c643b3,35,Nogueira,29,Esportes,363.33,3,1089.99,Cartão de Débito
+aa66386b-2ab2-4fe5-a643-f267d1af1ee1,2024-04-15,20b8b0c6-062b-458a-9780-3d7aa2154291,49,Peixoto,6,Livros,372.96,4,1491.84,Transferência Bancária
+baf134c0-5cd4-4d96-bf45-dcf659f297f9,2025-02-11,c7b62223-5c49-42bb-8763-8dd51b3065e2,30,Ribeiro,31,Eletrônicos,35.3,4,141.2,Boleto
+134de1a0-a137-4988-b240-b76d3add5e78,2024-08-11,8fad240a-4f2b-414a-aaac-753a0cd98dd2,63,Santos Grande,4,Livros,242.76,1,242.76,Cartão de Crédito
+9527f374-ee20-4d65-bcd8-cda6c6797c3d,2024-07-23,ebc9f5d2-e01e-4fb9-876a-8a61f84f2e8d,19,Carvalho,36,Eletrônicos,189.35,5,946.75,Boleto
+2814213b-6d8c-4dc7-beda-2f475ef3a0a0,2024-08-08,4de61dad-5915-4304-b909-085c45795685,25,Caldeira,14,Esportes,272.71,1,272.71,Transferência Bancária
+e0b95fa0-c8a7-4c88-b955-972f5e2bc2fc,2024-09-09,a3c78be6-0730-430c-b418-e01a19dc486f,41,da Paz,6,Livros,372.96,4,1491.84,Pix
+5c6957b9-9838-4703-988e-ba5cd4301a2f,2024-09-16,97afd9f9-706e-4c9e-8ec4-827fb29e91bf,27,Porto do Oeste,13,Alimentos,12.53,1,12.53,Boleto
+5555fb58-98fe-412c-bd7c-4db43f948118,2024-05-30,78759247-be8a-46f1-9cf4-b0f95ffca21c,29,Almeida,9,Roupas,486.11,4,1944.44,Boleto
+17b3b394-f33d-4d75-95cc-5efb40dd04b1,2024-07-28,8befa63c-58c3-4b90-a6f2-73c19f841bc7,41,da Luz de Moreira,17,Beleza,223.41,4,893.64,Boleto
+b98f6a52-645a-4bdf-8554-0d11e0d098b9,2024-11-09,2e5e96ae-bbaf-4df1-a3d1-22a6e34e07a5,36,Jesus das Flores,8,Alimentos,476.04,3,1428.12,Cartão de Crédito
+0f59d038-209e-4746-bcef-735b326548f1,2024-03-09,bea0c5ed-83f1-4970-9c8b-c5a165bc98c2,42,Viana,34,Beleza,192.75,1,192.75,Transferência Bancária
+658aa6fa-edbd-4294-8fa0-03029ba97dff,2024-12-19,e1969e98-6cbb-4809-bd6c-aed2320b71d8,18,da Rocha Grande,7,Eletrônicos,112.96,2,225.92,Cartão de Crédito
+d051a926-44fd-4a32-a017-77db37ea7c4c,2024-02-29,89840ee2-6184-4525-972e-b49be9ffa047,26,Cardoso,49,Eletrônicos,368.59,2,737.18,Pix
+aa27878e-7722-464b-ad67-9a5c9c5ff194,2024-02-28,3e264979-65e2-4495-938b-d77f60a4e91e,55,Moreira,42,Esportes,156.52,1,156.52,Pix
+f0ccc845-5f15-45e3-8261-89aa883b0ebb,2024-05-26,f1928b07-55d3-49ab-872d-ac82a6fd828b,52,da Rosa,38,Beleza,296.32,4,1185.28,Cartão de Crédito
+74b987a4-74e8-4cb3-9de4-107b715ba767,2024-07-18,652c918d-5cf3-4025-92e4-6864558eec26,63,Araújo do Sul,2,Esportes,244.18,5,1220.9,Pix
+737bd38d-0a08-4beb-88bd-71f6720a9c53,2024-08-06,45b71315-f7bd-4336-8775-5c1d745bc7b2,30,da Conceição das Flores,39,Roupas,275.85,2,551.7,Transferência Bancária
+84f53266-cd20-48fc-a837-a8a443ef5d94,2024-06-11,e1c669f6-40eb-4881-9003-a826fdb33e45,27,Jesus da Praia,47,Esportes,132.19,3,396.57,Cartão de Débito
+0b49bdd6-24f3-48d9-9a75-7f3681972e6b,2024-06-20,f463dd9e-3689-4864-8304-8878c2974449,60,da Cunha das Flores,33,Roupas,203.62,2,407.24,Transferência Bancária
+d45cb1a8-c0c4-4d09-9de6-99dacddcfe5d,2025-01-25,233677a9-6a6e-4d1c-8c80-ded8e78974b5,59,Almeida,12,Roupas,498.33,2,996.66,Pix
+67f5d1d9-9115-4f75-8a72-f0ddb3d394bc,2024-12-28,97a190e1-5d5a-4db9-b610-4a8eb3324193,35,Duarte de Azevedo,26,Roupas,24.28,3,72.84,Cartão de Débito
+517310ed-cc67-4a79-b923-6164b438f1f6,2025-01-19,00a88771-a5ad-45a9-9407-cfce8a6f0b48,19,Monteiro da Prata,46,Beleza,135.55,3,406.65,Boleto
+b269608d-bc7d-4888-98e3-9fe5ccc854df,2024-11-20,aaffca28-8755-4ae4-9800-e3fbc808fa8f,33,Barros,23,Esportes,201.01,5,1005.05,Boleto
+0c99efc9-7c28-43aa-83e8-89bcbbd9fbdd,2024-09-11,af5cf890-b647-400e-bd67-de54079ab5ed,61,da Conceição,47,Esportes,132.19,5,660.95,Cartão de Crédito
+1681a31a-7212-495a-8aee-962cb185349b,2024-06-11,842a88d4-397b-43b3-a054-c654d5424d24,64,da Costa de Caldeira,48,Beleza,103.8,2,207.6,Cartão de Crédito
+98074862-35a4-4279-a690-7168ffce5cae,2025-02-11,ef9ef085-c1eb-4227-96cf-0a9fdcf2fdb2,23,Alves de Barbosa,20,Alimentos,53.11,3,159.33,Transferência Bancária
+a703b737-d090-45b0-84ed-cc53bb415147,2024-11-06,1255a9c8-adb4-44e3-b5b1-472d6d1eaeac,54,Araújo da Mata,28,Alimentos,165.47,4,661.88,Pix
+4601d53d-1039-429d-acde-41dd59d5bc8f,2024-04-29,4246d976-bc83-47c8-be40-67fd63a3bd33,25,Viana de Minas,30,Beleza,421.37,1,421.37,Boleto
+871ed60a-24b1-4940-b6e1-ce90f2a46a55,2024-05-29,e529e9da-9e3c-4c6b-8e1e-d07bda1eea0e,25,Nogueira do Galho,1,Alimentos,220.3,1,220.3,Pix
+e3fb3050-0e56-4ada-a793-cfddd4236863,2024-07-25,6ad711cd-311f-4361-a3c8-0e3b39cee724,34,Pinto de Goiás,43,Alimentos,255.56,5,1277.8,Transferência Bancária
+f2bc5e88-1935-4a84-8486-2938ad63fb5a,2024-07-02,763330f8-0392-4e38-a9d2-917f19b90aa5,36,Cardoso,5,Beleza,16.78,1,16.78,Cartão de Crédito
+8215ad20-610f-46f9-bc1d-c9e5f6824f6f,2025-02-16,cf9852e3-66a3-4198-9d0c-4bd95aea04b2,40,Costa,38,Beleza,296.32,2,592.64,Transferência Bancária
+e54a2c70-898b-4446-92c4-c8a9d0068d75,2024-06-07,324ebacc-9258-45ec-8f8e-41fe147972a8,18,Duarte do Norte,4,Livros,242.76,5,1213.8,Pix
+9dcb9f57-7e29-4dd0-ae00-2300a93529c5,2024-10-05,9c0d65d3-66de-41ff-a2bd-84b6ef8c1c80,41,da Cruz do Campo,18,Roupas,56.53,2,113.06,Boleto
+f9c322fd-facb-4a82-9df7-08bf2aeed0dc,2024-04-20,e884e6ac-6149-442d-b606-ca6f821b4645,50,Ribeiro,27,Alimentos,406.38,5,2031.9,Cartão de Débito
+96d00c92-8ca0-4bba-aa65-269add114a1c,2024-03-29,420279db-ba27-4b2b-b45e-8428485f45f5,38,Costela de da Conceição,14,Esportes,272.71,3,818.13,Cartão de Débito
+ed47264c-790c-4851-8582-82da488c75c9,2024-11-17,aaebf2cb-b158-439d-b38b-100526496a53,55,Ramos do Campo,42,Esportes,156.52,4,626.08,Cartão de Débito
+01effd53-aa05-4e2e-b010-cc09da3c9b3a,2024-02-20,7d97babd-02ef-49fe-a6bb-47f792036697,40,Moraes de da Rosa,7,Eletrônicos,112.96,5,564.8,Boleto
+4051c88b-9b18-4392-a7fd-33b8a4eaa6ce,2024-11-25,45b25a19-eba3-4dd4-aa28-79f516b25a01,63,Jesus,46,Beleza,135.55,4,542.2,Cartão de Crédito
+d4feb394-8e0f-40ef-9789-36b6ecfc9c31,2024-06-09,bf9e9915-30d4-4541-80e9-53a9fc9afbee,60,Viana de da Conceição,45,Livros,467.68,5,2338.4,Cartão de Crédito
+6ab92911-d8b3-4638-bb96-e41a8471bdb2,2024-05-28,9f23a079-ffb1-4fa6-a6a1-bf2d99765dd4,65,Souza do Campo,36,Eletrônicos,189.35,4,757.4,Pix
+4475892c-5f57-4846-9db5-0e4f0ac666fc,2024-04-05,ec990224-fa2d-47cf-a170-e3b11dab8a84,65,Costa,7,Eletrônicos,112.96,3,338.88,Cartão de Débito
+06682779-9c98-4b99-9c43-793620525ecf,2024-05-13,628ae797-9414-4ab7-9f19-93754bbc96b0,40,Jesus da Prata,18,Roupas,56.53,4,226.12,Cartão de Débito
+fe3b291b-3fe0-4fa7-a0fa-f44a9db48ec7,2024-03-15,4a6efaae-6b77-42ef-aa9c-47b5c9beb15c,48,Alves Alegre,20,Alimentos,53.11,1,53.11,Transferência Bancária
+16dfaba2-bd37-416d-a363-a90e5655ef66,2024-04-07,f85cd86b-970a-4e82-a5c3-cf61c9ab1f1c,51,Farias,43,Alimentos,255.56,5,1277.8,Cartão de Débito
+d9f5389c-0064-4927-825f-1c2efce8cb05,2024-03-03,808caf67-2fd4-4731-b666-050a1100ff51,49,Nascimento,32,Livros,214.06,5,1070.3,Boleto
+30ae80a8-e5bd-45b5-8fe3-28b7bc25c1fd,2024-05-22,cb4161f7-faee-47d1-b16f-a3d437ef255e,38,Nascimento de Cunha,9,Roupas,486.11,1,486.11,Boleto
+c4752b2d-b808-471e-83f1-b8db8b6be749,2024-09-26,acb0cf55-e45e-4b8e-8e6f-35be323a2798,54,Carvalho,26,Roupas,24.28,1,24.28,Cartão de Crédito
+cb406cd1-5ef6-414b-b3f5-aa638620c648,2024-04-17,e1e809e4-ad36-4c7e-aea0-5ab775203a2f,35,Barros dos Dourados,6,Livros,372.96,3,1118.88,Cartão de Débito
+3fffdffc-c28e-4e49-b3eb-f5f11702736b,2024-12-11,e370df47-686b-48e3-a2a7-77c6304018d4,50,Melo de Araújo,22,Eletrônicos,22.63,4,90.52,Transferência Bancária
+c9cf83b3-67f7-46d2-9747-e994340df268,2024-05-24,5c610c9b-38ad-4842-9433-82f3390e631f,30,Gonçalves de Nogueira,17,Beleza,223.41,2,446.82,Transferência Bancária
+42258128-1394-4b00-829a-68601c6e9f4d,2024-03-07,0683069e-3168-4e83-89e2-55bbe530b6d4,20,Novaes do Norte,24,Esportes,495.6,3,1486.8,Cartão de Crédito
+501f8674-667c-4d6b-b3e2-f808cd16c000,2024-12-30,61b26c55-6a95-454d-81fa-2cf601732ff1,55,Nascimento da Serra,9,Roupas,486.11,1,486.11,Boleto
+669f35b5-ffb1-472e-a576-eb939fc2178b,2024-09-24,6ccfd8f3-9c47-4df6-af91-4634e06afcac,61,Sales dos Dourados,47,Esportes,132.19,1,132.19,Transferência Bancária
+c843ccd9-03dd-45df-b012-457f91fde227,2024-04-12,47bf74b4-effb-4c29-9cb2-a5897c3388e2,18,Martins,28,Alimentos,165.47,2,330.94,Pix
+0b3b422c-d199-495b-836d-723804a197b0,2024-06-03,b667e6a6-ebbf-4168-ac5c-97954ded0bbf,55,Ribeiro de Nunes,45,Livros,467.68,5,2338.4,Transferência Bancária
+3b91e745-86d1-49e7-858a-68563731d2f5,2024-08-14,f9b76e4f-644c-49e7-9eb9-1389cbcad75f,22,Novaes,47,Esportes,132.19,5,660.95,Boleto
+687fd1d6-13b9-4e29-91cf-a3108c7ea259,2024-08-17,5a9f0b27-b446-404b-b637-617357c1c444,33,Vieira do Norte,49,Eletrônicos,368.59,2,737.18,Pix
+fba232a1-4edb-4a3f-8e33-3d4632059953,2024-08-02,0ce2a42c-a106-4586-baf7-f19c8d4727fb,54,Castro do Norte,6,Livros,372.96,2,745.92,Transferência Bancária
+1b7e9e3a-2a02-4bcc-901d-8a59a864ddc7,2024-07-09,30f05ccc-53cc-401c-b846-356b01e0b320,27,Teixeira Paulista,35,Esportes,282.62,4,1130.48,Pix
+dcb6ad25-bcee-4650-b846-801c046eebe2,2024-05-06,04334b57-30b4-478e-a767-528f82340f9a,48,Dias de Melo,19,Roupas,214.44,1,214.44,Boleto
+031b8758-ed4f-4e83-84c5-239c86873548,2024-08-21,030ea484-fe96-4e30-9ff3-e4956ffa95d1,52,Porto de Oliveira,42,Esportes,156.52,4,626.08,Boleto
+daf0de63-d65b-439b-a970-729afd13afcc,2024-08-25,23ca747e-922c-42e7-bfc5-fad1c624dd6d,54,Novaes,11,Beleza,116.28,4,465.12,Boleto
+c1698557-cf8c-4237-ae66-fea59854bde5,2024-07-22,ebcb897f-938f-4f93-91f8-b78b682af505,23,Alves do Oeste,9,Roupas,486.11,5,2430.55,Pix
+1752087a-1cc4-418e-92ef-c92f9ee3cf99,2024-06-10,513b9dd0-fbbf-4e23-b6ae-915d58f9b759,61,Costela do Sul,21,Beleza,28.07,2,56.14,Transferência Bancária
+793dbe20-0e5f-4807-8191-8b463b9889ad,2024-11-08,9b181dea-a81e-4bee-8709-5c3a05cd8667,44,Pires de Gonçalves,14,Esportes,272.71,1,272.71,Pix
+30a79b8f-0951-4f9c-97b0-db38004540cd,2024-10-18,b07af8e4-1384-40ba-9a1e-0a06cdc63547,21,Azevedo do Oeste,8,Alimentos,476.04,1,476.04,Pix
+71508f50-19f3-490c-ad9d-b3f3b539896d,2024-03-28,a0603e86-3901-4e1c-a60d-0ee94546d667,20,Fernandes Verde,47,Esportes,132.19,2,264.38,Cartão de Crédito
+2a08bcb9-d28f-4d5b-bde2-b7563749173d,2024-08-19,101bd05a-3769-4b18-a058-7789d6a8d073,28,Nogueira,41,Roupas,74.54,4,298.16,Pix
+c6fbf251-0f2c-4e17-88b0-400ec10d1fb2,2025-02-03,ee36190f-aede-432d-8202-6593177f25e8,42,Pinto,5,Beleza,16.78,3,50.34,Cartão de Débito
+a5b65292-90b2-4468-8bb0-cec37e544765,2024-08-22,28174eb3-d6ad-4690-bb7f-9ee97e7c68aa,18,Mendes de Rodrigues,4,Livros,242.76,1,242.76,Transferência Bancária
+ec95c62c-763c-491c-94cb-51369f569ee4,2024-07-09,0c93b70d-9351-43c4-b99b-fe47596301e8,54,das Neves Verde,31,Eletrônicos,35.3,4,141.2,Cartão de Crédito
+f4f00ebd-179d-4907-bd1b-524fa5535063,2024-02-29,c59039ef-da25-45b2-84f6-f53fc22bd2c3,46,Novaes do Galho,7,Eletrônicos,112.96,5,564.8,Pix
+4a508ff2-b7f0-47ef-9d6d-852c7bac8739,2024-04-03,02d3653f-d429-47e3-983e-8cd788472121,64,Peixoto,17,Beleza,223.41,4,893.64,Cartão de Débito
+3414bda8-ab02-4f70-bae7-11113184bc01,2025-01-16,0d27abee-2c39-46ee-a275-a62d593351ed,22,Sales dos Dourados,16,Roupas,167.91,2,335.82,Cartão de Crédito
+c0f48fba-a78e-497f-9ead-4805e6534ca0,2024-03-22,4070bd19-58e9-4f8f-a885-44da1d4ff5cc,45,Farias,39,Roupas,275.85,5,1379.25,Cartão de Crédito
+9bf6d3f1-db65-4341-b08e-28f1766a819a,2024-07-07,f8874f49-6162-4786-9c8d-b80e24531c7f,22,Pinto Alegre,47,Esportes,132.19,2,264.38,Transferência Bancária
+26469ad9-0517-434e-8976-ceb8af121262,2024-06-21,85781d75-a472-41bc-9791-bb7d9ae45543,27,Santos,45,Livros,467.68,5,2338.4,Pix
+ffe1dd94-2c58-4170-ac00-be2b35c62335,2024-06-07,87def9e1-25a4-4cec-8d79-447d700c21d8,45,da Mota,22,Eletrônicos,22.63,3,67.89,Pix
+d346df54-23a6-4b7d-856b-0b20a40a2f53,2024-05-30,05e40451-a6ed-4c77-bae5-8a177326ebf3,38,Sales,25,Beleza,349.23,5,1746.15,Boleto
+0d8fb5df-6361-4c8d-a549-c85d77a1c60e,2024-11-04,04008ba0-5eeb-4ea0-924e-bb3c976a221e,38,da Costa,50,Esportes,185.85,3,557.55,Boleto
+3c192330-fc8a-4cab-919a-3cead237c526,2024-06-30,72ff0a8e-4de1-4610-9adf-8e817a14e116,44,Jesus da Praia,16,Roupas,167.91,4,671.64,Cartão de Crédito
+1522e97c-b5c9-432f-809e-f7982567b1ee,2024-10-22,94d1a0b2-f7e1-4eaa-bbb0-16daf6a9b691,48,Moreira,31,Eletrônicos,35.3,4,141.2,Cartão de Débito
+18fc787f-e4ac-4021-a284-559ac87f35d3,2024-12-15,b93b6151-716c-459c-a8e4-253ef8496d10,35,Souza,24,Esportes,495.6,3,1486.8,Boleto
+23b4055e-0365-4d91-b615-e66dda879deb,2024-03-26,4fe4fac4-8eeb-48d2-81fd-f2bd86795428,34,Santos,17,Beleza,223.41,5,1117.05,Cartão de Débito
+6fa609e4-911d-4de4-a03f-c152bcb34d00,2024-08-11,4e71514f-51f9-4344-83c2-4143388d60e4,23,Cavalcanti de Azevedo,44,Eletrônicos,127.27,1,127.27,Pix
+5339c721-f2fb-40e3-988b-360733994759,2024-08-04,e1b86b64-294a-46e3-b647-c884b6aac96c,36,Fogaça,28,Alimentos,165.47,2,330.94,Boleto
+7ac7eabb-e6d4-49ed-92a2-af6b3bcab578,2024-03-01,e4857327-e57a-49f6-86d6-04ddf3058302,40,Ramos do Norte,25,Beleza,349.23,1,349.23,Pix
+e0348699-12ae-4cf8-b098-98dfefab526d,2024-10-28,ab50032c-6db7-4ed0-9c5f-05de995dae15,53,Caldeira,14,Esportes,272.71,3,818.13,Cartão de Crédito
+aa6240fb-841b-4dc6-a91c-121f4416ff56,2024-06-17,5e3e8324-f16b-4da2-aa48-690a1f2eaed4,45,Jesus de Correia,34,Beleza,192.75,5,963.75,Cartão de Crédito
+2d9ddab1-2743-44fc-9836-0e3ece01b928,2024-08-07,c05320e3-2755-4357-b726-93c9312907b7,53,Caldeira,28,Alimentos,165.47,4,661.88,Boleto
+55a1f088-3f1a-46c4-bbb9-235d0a5a3b85,2025-01-22,cb4590cf-6d51-4bea-8acf-7fa29bd7b75c,32,Gomes,3,Livros,425.62,1,425.62,Boleto
+6c83f353-97a1-4b53-89f7-29e5b50e20b6,2024-02-26,5810589d-8dfd-4b84-90a8-4a2476a000c5,62,Araújo,32,Livros,214.06,5,1070.3,Pix
+43ecdfd9-6094-4489-a1f0-97168930af4c,2024-04-20,9d06529f-f41b-4293-8b1a-1e427f61ee6e,54,Silveira,7,Eletrônicos,112.96,3,338.88,Pix
+3654c23e-f01d-455d-b24a-229b395933f7,2024-06-12,9cb46e34-50f2-4c97-8b8b-0042fe8d3861,40,Cavalcanti do Amparo,39,Roupas,275.85,5,1379.25,Cartão de Crédito
+4a869bd9-c953-4e4f-98ac-bc3fb7fd33b8,2024-11-14,7d47f8de-7c80-4ced-805a-30a095552d7f,36,Moraes,5,Beleza,16.78,3,50.34,Boleto
+5728aaa9-b4d0-4048-8748-77aca122de01,2024-08-10,7c09f95d-cd52-4486-bd62-7576436ebe2f,61,Pereira das Flores,19,Roupas,214.44,5,1072.2,Cartão de Débito
+65393fb5-e579-49b5-95d8-1147de246db6,2024-11-13,06db01b5-f92a-4471-9652-57c1efeb3fcb,64,das Neves de Cavalcanti,17,Beleza,223.41,1,223.41,Cartão de Crédito
+1142c294-f7f3-438f-96b7-edbf26ffff61,2024-07-17,c669f584-eeb2-439e-bcf3-86b6484e4e5a,55,Silveira,28,Alimentos,165.47,2,330.94,Cartão de Crédito
+dae40048-70b5-4710-8372-e1a58fefdb99,2024-12-04,1c406112-2b4c-4474-9e6d-27edd63f3edb,63,Almeida,38,Beleza,296.32,5,1481.6,Pix
+ccfa0079-d1a4-4634-b717-bff53e71cb19,2024-12-29,72d629a5-c10c-4b41-aedc-f322bfdd6abf,50,Porto de Minas,29,Esportes,363.33,2,726.66,Pix
+e79c2ad5-ad98-49f7-9910-fbfcf76772d3,2025-01-21,ea30a640-15ce-47c6-990d-4e50a2a89131,41,Aragão da Praia,10,Eletrônicos,457.68,3,1373.04,Pix
+56b1acd0-1254-495c-8990-5ed067fcecd6,2025-01-10,5c85ce0d-0814-40e5-9261-f6f7f328e7a9,55,Mendes da Praia,22,Eletrônicos,22.63,5,113.15,Transferência Bancária
+8762fcf1-bed7-466c-96ca-5b1d099931c9,2024-07-10,7cf7ceae-5a5b-4279-b78b-9a73c6375724,47,Farias,37,Beleza,244.22,1,244.22,Pix
+d8b02552-3c84-48e8-a033-ba3e15ecfc21,2024-11-10,6661503d-c4f2-4555-a057-932658965ec2,59,da Rocha do Galho,18,Roupas,56.53,5,282.65,Pix
+99c8ae13-d22b-411e-b6c4-8d30be93d0dd,2024-07-25,ba62be5c-38b8-409c-8dfe-588aa6629611,25,Vieira do Amparo,2,Esportes,244.18,1,244.18,Cartão de Débito
+f7ed549c-448f-465f-a25c-e15e1cc48a1c,2024-10-05,2c4ec7d1-d4ce-4841-bdf8-c46083bbfe71,52,Jesus de Mendes,10,Eletrônicos,457.68,1,457.68,Boleto
+c2a723ce-9174-4321-abad-a24dde678e5e,2024-08-04,c8a21ee0-e577-41d5-82fb-ce0e1f018a01,38,Caldeira,44,Eletrônicos,127.27,5,636.35,Pix
+167e048e-b85b-4941-8c93-6227f3c520f6,2025-02-07,02d7c74f-976e-4217-bf8c-6d184d0e9cf0,41,Duarte,25,Beleza,349.23,4,1396.92,Cartão de Débito
+4595e43a-7b81-4eb8-97b1-9935aa0bd35e,2024-05-12,61f70825-bce2-4353-a295-19c23027b126,62,Fogaça,43,Alimentos,255.56,4,1022.24,Cartão de Débito
+a592c636-9606-4ab4-97e6-2af570dd6ae3,2024-04-11,2c8002ae-a069-4e2c-abed-29e51fdff9f7,65,Almeida,41,Roupas,74.54,2,149.08,Pix
+43a0d464-93d3-4ae0-af39-59ff1d61846a,2025-02-14,308dc683-f4d4-4c2f-825d-185d5d821af8,30,Melo,9,Roupas,486.11,2,972.22,Transferência Bancária
+ad596f93-5771-40b6-840e-73bf4b8c21cf,2024-09-28,f70bf793-4a8e-4926-9990-8381e28fbe00,26,da Cunha,28,Alimentos,165.47,2,330.94,Boleto
+ded00b90-f1ac-4694-96d9-ec284dd97dae,2024-12-23,2deb3e35-d734-4c02-98e3-04d6a5b3b741,26,Gomes do Norte,23,Esportes,201.01,1,201.01,Cartão de Crédito
+629be4ca-956f-487b-b2bf-eb2670f5b748,2024-12-21,0391ea75-a86f-4eef-9fe7-8882b2adfbaf,47,Moreira de da Rocha,36,Eletrônicos,189.35,2,378.7,Cartão de Crédito
+435b0b25-48a4-4ef8-9032-3ef25d5e3580,2024-07-18,aea1dccc-0b50-43c5-b006-af13c88f91e2,20,Gonçalves,36,Eletrônicos,189.35,5,946.75,Cartão de Débito
+bc0e326f-0d31-4d8b-966a-5f50a8bccd2f,2024-11-20,be62de9f-fa5e-439f-baae-0e11f871d4a4,30,Cardoso,37,Beleza,244.22,4,976.88,Transferência Bancária
+a3154caf-6172-4dbf-9361-d2ae96a3ef25,2024-07-19,40f22f22-d082-4e70-a0e5-5bf32841faa7,22,Oliveira das Pedras,7,Eletrônicos,112.96,2,225.92,Boleto
+492e2e9d-946d-43cc-8af2-d5ae85c00f0f,2025-01-28,c825f6b8-15a1-4e32-8e7a-a4ad5be43ffd,52,da Rocha,18,Roupas,56.53,3,169.59,Pix
+2e3ff542-e67c-438c-a9e0-463e3105428b,2024-02-20,09592d0a-081b-4622-9190-c2190c7fbc6d,64,Nascimento de Duarte,50,Esportes,185.85,4,743.4,Cartão de Débito
+70633a33-cab5-4334-8440-3fdc81acc208,2024-06-01,bb9e2b65-a4bc-4f8f-b65a-75f94c40507a,53,Carvalho de Freitas,22,Eletrônicos,22.63,4,90.52,Boleto
+c168b7a2-8401-40ae-8174-188aaa31e623,2024-10-17,9558a672-6e7e-4e9c-a2ab-b20751e52acb,59,Moreira do Galho,35,Esportes,282.62,1,282.62,Boleto
+43c74507-97a7-4a67-a522-222c3aeba408,2025-01-12,424a1f9a-4ec2-4ce1-aee6-3a501487bc23,60,da Rosa,43,Alimentos,255.56,1,255.56,Boleto
+ec4217fa-03f4-41e8-aa30-9d2451312dfc,2024-10-29,2801d119-503a-417d-8452-a7a0e09d1451,34,da Luz do Norte,10,Eletrônicos,457.68,4,1830.72,Cartão de Débito
+0ce771d0-67fe-44dd-ae62-39998ac341ff,2024-08-25,3eb8b6d5-6b58-48d2-aa99-3c521ffbe9dd,26,Aragão da Prata,30,Beleza,421.37,5,2106.85,Pix
+5f82b73a-a5cd-437e-8096-487297664d43,2024-03-10,67eec4e5-0c44-4064-a899-98c8463e57f6,50,Correia Paulista,27,Alimentos,406.38,4,1625.52,Cartão de Crédito
+1758a5f6-66b4-40f1-9c3d-930e65b11c3f,2024-02-28,00b1a870-1e59-48f9-a6bc-092a053a3201,28,Moreira de Moreira,15,Beleza,367.19,4,1468.76,Pix
+399429d7-f79b-43be-9e14-599018292a47,2024-12-15,8a7e1753-a8e9-4893-af00-48345c892674,19,Duarte de Vieira,33,Roupas,203.62,5,1018.1,Cartão de Crédito
+ba17da3a-a8a8-4aab-a460-d52d9cd42847,2024-02-19,f5122daf-b293-4f20-9f7a-585e809d35da,50,Nunes de Costa,9,Roupas,486.11,4,1944.44,Transferência Bancária
+da1242f0-e00f-451a-9aff-aff13b9350b9,2024-06-14,93a0dc4a-9857-4d6d-b960-8e1fa6bb0f1b,52,Almeida,20,Alimentos,53.11,2,106.22,Cartão de Crédito
+af0e2baf-4182-4aa5-ba00-0026db59db6a,2024-10-17,42bf4ad2-86c3-4aa9-8be7-47115212eec7,60,Barros,15,Beleza,367.19,1,367.19,Cartão de Crédito
+3941b553-f7db-4bf0-99b0-372ce051568e,2024-12-18,fdb52aca-f23f-40f0-993c-58777a9a6c98,26,Carvalho da Prata,17,Beleza,223.41,5,1117.05,Cartão de Débito
+b5467718-b582-4dab-9d04-60894082b3e1,2025-01-31,69311bc1-50a7-4ed4-a3f9-f9d9f38f3697,61,Sales,4,Livros,242.76,4,971.04,Cartão de Crédito
+1b56296b-9610-4e1c-834f-41c7009d1664,2024-04-02,23fc981a-8ae6-4841-bd75-00ca8c1594ca,45,da Cunha,8,Alimentos,476.04,4,1904.16,Transferência Bancária
+e81a2e08-0958-4440-a75a-a410c8e5aac5,2024-08-22,7fdadfef-5615-421e-b91a-83855d5df966,50,Freitas,15,Beleza,367.19,1,367.19,Pix
+1feac30a-1ab1-4758-a5c4-680ec5f37bdb,2024-04-28,8af525f0-6449-451b-8a16-37bfa76d438d,40,Moraes dos Dourados,28,Alimentos,165.47,3,496.41,Pix
+fec2d5cc-0ead-45c0-b641-aa17e64ae62e,2024-08-16,d378a841-a5a7-4b7f-8a14-0e0a8c005f20,38,Martins,35,Esportes,282.62,5,1413.1,Cartão de Débito
+2917fae6-413c-46ec-871b-a216186c2520,2024-11-04,3d6edb91-5291-4554-b63e-f8e07466cc22,38,Fernandes,17,Beleza,223.41,5,1117.05,Pix
+81044215-f2c4-44d7-b1b0-105adfd73efe,2024-10-13,4cfe454a-9191-41ba-a94b-6f1b0613f556,24,Moraes,36,Eletrônicos,189.35,2,378.7,Pix
+0f4ea393-51a7-4ad6-961d-93b0813bd19b,2024-04-21,2381a0af-cf4e-473d-afca-8e627fa5ae04,57,Gonçalves do Galho,15,Beleza,367.19,1,367.19,Pix
+d68ac22e-b7d0-449e-bafb-ae22c859cbbf,2024-10-08,ed3f4fe6-9272-408e-9a1b-094a637bd4a1,61,Fernandes,18,Roupas,56.53,5,282.65,Boleto
+23503d3a-d7a4-4fd8-98e3-cd3987039867,2024-09-19,d1c79977-eb8f-478f-aa74-7d7f901ebe80,33,Rocha de Pinto,35,Esportes,282.62,5,1413.1,Boleto
+dd039b40-83e9-4a57-b93a-8de7d36e6463,2024-07-02,b2ae640a-b2a8-4337-a9ff-46df0ec591e8,49,Lopes,8,Alimentos,476.04,3,1428.12,Pix
+8a5cf076-a83d-4a04-833b-a90799a82131,2025-02-12,f3bb2878-c2e6-490a-ad6f-0e40dc807679,43,da Mota de Mendes,36,Eletrônicos,189.35,5,946.75,Boleto
+11afc146-286e-4aa3-840a-1cb61e5154a5,2024-03-05,881d370f-0c16-401c-8fbb-ae1f05c8cc51,33,Correia do Sul,17,Beleza,223.41,1,223.41,Cartão de Crédito
+a447952f-2cd8-4f60-8a2d-6a9de65d0785,2024-12-23,6a24c9b9-1a11-47c9-a9da-0b2e4702636e,55,Aragão do Galho,21,Beleza,28.07,1,28.07,Cartão de Crédito
+913f34af-bc94-47ba-be3a-9e2bb890ddbb,2024-06-17,fe7e2321-8770-4a29-be5a-d156066e27b5,40,Fogaça,50,Esportes,185.85,3,557.55,Boleto
+81d9a7b4-e163-4377-838d-1be0b9d84153,2024-04-22,5e64dd94-eeb2-4852-a4e1-1e08c0885276,44,Rodrigues,1,Alimentos,220.3,4,881.2,Cartão de Crédito
+70b5ce3d-644a-4343-9867-d9a94c22c96b,2024-12-02,75ad7268-b949-4913-b80b-092a27fe1d21,55,Costa de Gomes,43,Alimentos,255.56,2,511.12,Boleto
+d6623a4c-bc05-4ea6-8c32-827d366b02f2,2024-08-16,9cc8ed1e-8a55-4360-942b-30d9566aa07e,57,Costa,23,Esportes,201.01,1,201.01,Transferência Bancária
+8661fe05-1074-49df-965b-116cea5a8624,2024-05-27,d50dcf12-9afa-4846-9253-3751c2b4a295,56,Moura,20,Alimentos,53.11,2,106.22,Cartão de Crédito
+0a178b76-8e75-4b30-8dd0-ecd15710af92,2024-05-09,7e46cf4c-ed28-43c3-9764-aaa58feaaac0,25,Pinto,24,Esportes,495.6,1,495.6,Transferência Bancária
+27795205-1d7c-4549-a610-4ad411b39d7e,2024-09-21,648ae31a-e91a-4be3-b0fd-5573685f5522,21,Nascimento,18,Roupas,56.53,1,56.53,Cartão de Crédito
+97070bef-20a7-47b7-984c-b2372489888c,2024-08-24,830a7879-ac4c-4ce6-9767-2be35deb1199,27,Gomes do Oeste,32,Livros,214.06,5,1070.3,Boleto
+882e959e-c58e-4c1b-a64d-cf9362788ee8,2024-04-05,e4c63562-6575-40af-8402-4b2cf199415a,20,Fernandes,16,Roupas,167.91,3,503.73,Pix
+94ed0ebc-484d-40c2-b97b-caa16d5af942,2024-07-30,1e1184b3-72ed-4636-a005-362be7f9bca4,47,Santos,6,Livros,372.96,2,745.92,Pix
+5249f650-a019-4bda-b949-9f9be4d46e7a,2024-10-03,62953233-b956-47ed-8414-dc14542f0b34,54,Viana Paulista,20,Alimentos,53.11,5,265.55,Transferência Bancária
+88c4cb00-c424-4902-8cb4-560bf63b2583,2024-12-14,30915d32-f7b1-458f-915a-77d367f364b1,28,Silveira das Flores,7,Eletrônicos,112.96,3,338.88,Boleto
+348666f0-420d-40ea-a4c9-ef628ac026d7,2025-01-06,3be4e8e1-0a77-4a83-b04a-a7cdd820daf8,58,da Mata,18,Roupas,56.53,5,282.65,Cartão de Débito
+7790f42c-038a-4a39-8834-25985ee12590,2024-07-13,10c0790f-0a8b-4b85-849a-8f364f5f4ed5,63,Ferreira do Campo,13,Alimentos,12.53,4,50.12,Pix
+165add34-fac1-481d-b654-6693fc673fc0,2024-11-13,1f29e356-d2b7-4ba1-8d58-3aa74ed35c68,45,Nogueira do Sul,14,Esportes,272.71,4,1090.84,Boleto
+f9dcfba1-bdec-409e-9112-b935e5951271,2024-07-26,87dcf13f-e9c2-4876-9ac6-f5531e5c10eb,34,Jesus de Peixoto,9,Roupas,486.11,4,1944.44,Transferência Bancária
+4c1e2452-6e8c-43b4-a940-2ed0ee46e209,2024-12-29,1f31506e-17f5-4535-b78d-bd83c9b03a3a,28,Teixeira,3,Livros,425.62,3,1276.86,Boleto
+6bf2f39f-1821-4f7b-833c-e1d04970a21c,2024-07-18,ce991572-5a68-418f-ba6b-5b7fde1946d6,37,Jesus,5,Beleza,16.78,5,83.9,Pix
+da7927ea-1c64-4603-bc30-b0f38be499ad,2024-11-19,a2da00b2-8b93-478d-aae0-bccccc162c44,38,Castro,16,Roupas,167.91,1,167.91,Pix
+12aa271e-836a-4c56-8a79-c1eaa4b62624,2024-10-05,343a4582-123d-418a-9a16-ce4f895211e6,38,Novaes,6,Livros,372.96,3,1118.88,Cartão de Débito
+a0749d68-f345-4021-93be-efea0c6d7996,2024-12-20,5db16e47-44dd-48ee-b15c-4b2412bec310,45,Ferreira do Sul,45,Livros,467.68,2,935.36,Pix
+bfa94783-c6c2-4730-ac4c-002a86425aa9,2024-03-18,8d2e3455-c2c8-4345-a3b7-8cc482bb304b,35,Cardoso,14,Esportes,272.71,4,1090.84,Pix
+d7c8769b-a87e-4dfe-9f8d-3800455e1038,2025-02-16,f0cfb6c4-e44a-4149-9d32-fc81eecd8e7c,57,Pereira das Flores,25,Beleza,349.23,5,1746.15,Transferência Bancária
+8d65ff7f-9c26-4b93-a6a1-382a9bcff54d,2024-06-16,0863e508-86d5-4ec6-8c74-69d90176cfba,26,Porto Verde,50,Esportes,185.85,1,185.85,Cartão de Crédito
+2fa5afa6-9f11-46f9-bd64-7dd69c9a1da3,2025-02-10,59d94373-ced9-4f72-9f0c-0d84b5906ba0,60,da Costa,43,Alimentos,255.56,4,1022.24,Cartão de Débito
+dcd0e56a-fdcf-463f-bb15-a1495b9bd640,2024-12-15,90300fcc-70dd-4c50-9134-450149b339d5,60,Castro de Cunha,23,Esportes,201.01,1,201.01,Pix
+fd0e7f39-7658-446b-b51c-a26e96120413,2025-01-01,fa6d9039-4650-4014-b7fb-f3c03e793d6d,45,Teixeira,31,Eletrônicos,35.3,3,105.9,Pix
+0ac27254-0e5a-4320-9332-7c0a0c455f3e,2024-10-26,eb4c983a-0dc5-46ea-be41-e16719b2232a,60,Almeida de Minas,25,Beleza,349.23,2,698.46,Cartão de Débito
+8e0042fc-71a0-469a-8dda-b2d5be661b23,2025-01-20,fef654ab-3740-44b8-9353-088bd69f37dd,60,Vieira,6,Livros,372.96,2,745.92,Boleto
+41ba9100-03d2-40ca-abcc-277c670391f4,2024-06-07,3206f3f3-65b9-48de-b1b3-f468794d1b74,51,Farias,3,Livros,425.62,5,2128.1,Pix
+7f0ae47d-7327-41dc-8109-d597a35c4729,2024-03-14,e097dec9-1b77-454f-b2d4-4c7f8982853c,24,Moreira,31,Eletrônicos,35.3,1,35.3,Cartão de Crédito
+92103a49-020b-462b-b572-14560ff7b4dc,2024-07-11,9626d176-0057-4db1-9598-e3f9f78e8e57,53,das Neves,9,Roupas,486.11,3,1458.33,Pix
+e7f5c0b4-93e9-4618-9c1b-1f271ac2e09d,2024-12-29,9c4a9f01-bc09-4e2a-8edb-7b8973debb4e,50,Novaes Grande,32,Livros,214.06,4,856.24,Pix
+b0f75bc5-b222-4efe-8390-3c4bde323959,2024-10-18,fa09080a-4803-437b-b044-46515457a94e,45,Viana,13,Alimentos,12.53,2,25.06,Cartão de Crédito
+7c961afe-9fe6-4145-8242-bf68df93b3f8,2024-09-22,b2896d60-c62d-4d18-92c0-7e9f5021222a,58,Azevedo de Cardoso,50,Esportes,185.85,5,929.25,Boleto
+381e5f25-9806-4d90-a5bf-a9c405595097,2024-09-11,c72efe6f-6dba-4472-b0fd-21e95b1afeab,51,da Mota,45,Livros,467.68,1,467.68,Boleto
+10f52c9b-3148-4295-89be-dbb4fd643e7d,2024-06-01,bdcfcc0c-553c-47a3-9477-dc4be1803437,46,Moraes Paulista,24,Esportes,495.6,2,991.2,Boleto
+17cdbf0a-5dd5-4eec-8c0d-87d07081453f,2024-12-06,b05541f0-116e-4865-9e22-2b0ccfc7ca86,20,Rodrigues de Minas,36,Eletrônicos,189.35,4,757.4,Cartão de Débito
+b17c1c39-ad81-4eef-b9f3-3d0cfa653b8a,2025-01-10,18ef3ce4-7c07-404a-8742-ea1e6c721023,21,Nogueira,16,Roupas,167.91,4,671.64,Transferência Bancária
+759bc7c5-ea90-47ee-af54-6741aa9a0291,2025-01-11,eeff517d-5e57-449b-8d3a-4f80562ed2bb,53,Azevedo,36,Eletrônicos,189.35,5,946.75,Transferência Bancária
+8460542d-b47e-4565-afe0-88adee8c3688,2024-03-10,3e45483e-d735-4fb1-8812-6eb111c05dfd,44,Novaes,50,Esportes,185.85,5,929.25,Cartão de Débito
+20991a21-70ba-4a45-9c2f-6271a712b9db,2024-06-22,934662d8-7154-4d44-a84c-fd2e7ba5b0d7,24,da Rocha,27,Alimentos,406.38,5,2031.9,Cartão de Crédito
+3818ba92-5b00-496a-b9a3-18281a85e4f1,2024-12-21,c33561cb-21ac-4f31-ba07-9696489b4dba,61,Martins de Minas,23,Esportes,201.01,5,1005.05,Cartão de Débito
+1719acbc-1008-4c77-8e3f-b46f2d04b568,2024-03-12,cabd737a-8a60-4385-b3a9-61d7aafe49dd,36,Rodrigues,16,Roupas,167.91,3,503.73,Pix
+478cfc50-895c-414b-b901-55a23f318c75,2024-06-03,3c4df124-6885-4d1e-8b62-e8041e599970,38,Fernandes do Campo,11,Beleza,116.28,4,465.12,Cartão de Crédito
+84b4b824-f15a-42e2-bccf-2dcf92f52052,2024-04-24,22d18cb9-66fc-48e8-b396-5db00e2461f7,19,Vieira,48,Beleza,103.8,4,415.2,Boleto
+739b656b-3151-47eb-b38b-08f67ac6669b,2024-10-31,3b46313c-7bd8-465d-a093-5524ca967f3d,24,Cavalcanti,27,Alimentos,406.38,4,1625.52,Cartão de Crédito
+8078b334-9207-4049-88bd-461d891828a0,2025-01-21,30afe95c-d478-443b-813d-104b8a49df09,50,da Rocha da Serra,6,Livros,372.96,5,1864.8,Cartão de Débito
+56ae6e26-1c3c-4262-9793-90d1e5f302ab,2024-07-03,7f25398b-f360-4d8c-9677-80f2d182d5ea,46,Santos,10,Eletrônicos,457.68,5,2288.4,Transferência Bancária
+9b6f7586-895d-47af-9f7f-83eba5472154,2025-02-14,89c10a37-f014-412c-a8bb-07aff0fa00cd,47,Pires,32,Livros,214.06,1,214.06,Pix
+e26db396-a6ca-4f57-9443-e74ea72262f5,2024-03-13,368ffc17-99db-4ce9-ac3f-4a661999cead,61,da Rosa,40,Livros,427.83,4,1711.32,Cartão de Débito
+5eec3406-ad4c-40d7-a380-f52c5679c98f,2024-10-01,55cecea7-2fe7-443d-990e-612a5338d300,58,Rezende,30,Beleza,421.37,3,1264.11,Boleto
+e0fe2586-4967-40dd-8c63-f1a7408c154a,2024-06-15,8e0e258e-846a-4f84-8298-a4fda2b05785,57,Costa do Campo,10,Eletrônicos,457.68,2,915.36,Cartão de Débito
+f6e23bb9-a744-4579-abed-1e24a15fb78b,2025-01-01,9466d9d7-a72f-4654-84a4-a49dc8580b12,57,Nogueira,44,Eletrônicos,127.27,5,636.35,Cartão de Débito
+4945a408-4024-4c95-ad5e-afd81452b3ba,2024-08-28,a8846fc5-0dbb-4bd2-b256-de4ff43804ab,37,Mendes de da Cruz,19,Roupas,214.44,2,428.88,Transferência Bancária
+5fb14d2d-e5bf-464d-b119-0fe0d8d0cd6b,2024-06-06,ee400444-0dec-42b7-8381-e2ed800a9f0c,24,Aragão da Praia,1,Alimentos,220.3,4,881.2,Transferência Bancária
+359b461f-ff2f-4f68-9915-a9e0d98e01cb,2024-07-28,89ade238-ad11-4482-a9cd-717111d2dc21,30,Farias do Norte,40,Livros,427.83,2,855.66,Pix
+008cdc99-ee94-4bf0-86fe-f892aab997de,2024-10-22,c39fcf19-ba11-4956-844a-5c78f0e4e480,37,Lopes de Moura,26,Roupas,24.28,5,121.4,Boleto
+5db8edbb-e4a0-495b-8d3b-54939e477b26,2025-01-15,14dc1863-5f22-461b-93bc-3573ab82821b,63,Alves,12,Roupas,498.33,2,996.66,Pix
+b04aad1a-7e73-4d21-8f81-7a8c6e4da805,2024-09-11,635672e2-cb1e-4479-b4b5-d28236964a60,52,Cunha,42,Esportes,156.52,3,469.56,Pix
+3a627914-5c6c-4b44-a542-63239dc1d496,2024-06-26,f700b75b-5089-47da-a0ae-04503f1b5d4b,35,Gonçalves,32,Livros,214.06,5,1070.3,Cartão de Crédito
+25513c1e-a7f7-4d20-a3bc-8ba0556e1436,2025-02-05,0ed3f8e7-bc40-4030-a6a3-5bedffb18e31,28,Moraes,20,Alimentos,53.11,5,265.55,Boleto
+47875ab3-3cd0-4de7-aa83-af85cb0547ef,2025-02-05,ade08198-5a0d-42aa-a005-7d4b788a611f,38,Cunha,15,Beleza,367.19,3,1101.57,Cartão de Débito
+43324d5b-5ab8-42f2-a3d2-54965aabeac7,2024-04-08,2051d8e2-276d-47df-98e1-c8fd85058e79,49,Almeida da Praia,2,Esportes,244.18,3,732.54,Cartão de Débito
+6052fae5-8a0d-4c09-a4b5-cd266b9e0912,2025-02-08,bc22df3e-cb95-401d-97d1-686bef37b24f,32,Teixeira de Pereira,43,Alimentos,255.56,2,511.12,Cartão de Crédito
+ad0bf1ed-61ab-4261-baa9-eff092a31669,2024-06-20,8d589952-93f5-4ff4-a25f-89284e135c1b,55,Fernandes das Flores,16,Roupas,167.91,5,839.55,Transferência Bancária
+7e0a4a1d-b4e1-44f4-905e-dd78bfbc7750,2024-09-23,b016c6aa-b01f-4dfd-9cf6-897a994cfe8e,46,Novaes,23,Esportes,201.01,2,402.02,Pix
+7d5c1631-a4a6-4f95-95b5-9ab6c51883c9,2024-10-02,669eb541-11ac-4355-a79e-b4557c7fe58c,50,Duarte,24,Esportes,495.6,3,1486.8,Pix
+0f6aa19c-2760-47e7-9404-9290085ecec9,2024-08-13,b0aa70cb-ab31-4ef6-9615-7e48eec972cc,40,Barros de Oliveira,39,Roupas,275.85,1,275.85,Boleto
+c8322b0c-0a56-4441-8913-30866941f0ef,2024-04-27,2c839b4c-f82c-4f8e-82cb-4a713536f8a6,42,Fogaça,3,Livros,425.62,2,851.24,Cartão de Débito
+5e2893ac-06e5-4ab1-93b3-20afbbb2517b,2024-05-24,e2ef0c8b-1ab2-4367-96b8-dfaf749ee517,53,Azevedo de Carvalho,37,Beleza,244.22,4,976.88,Cartão de Débito
+0bb2c636-96de-42b1-acb2-56bdce127a7a,2024-07-02,0d84ee83-167c-46b9-99aa-72687a3aa464,28,Lima de Moreira,24,Esportes,495.6,5,2478.0,Transferência Bancária
+af658ea6-f67e-49e0-8bd7-df4510e71961,2024-10-20,b49114f0-a5a5-4541-98e7-fc5002c65f7a,41,Dias,45,Livros,467.68,2,935.36,Boleto
+5c8b05a5-7702-4faf-8089-6374d752a59b,2024-04-03,20a52f9f-dafa-47af-89fe-3c34c11c855a,31,Mendes,42,Esportes,156.52,3,469.56,Boleto
+3f123977-bc6c-46d9-a428-f6fbed210e57,2024-10-13,afedafbe-b933-4b40-8745-30b9f8b72e53,41,Carvalho,42,Esportes,156.52,2,313.04,Cartão de Crédito
+99a93cec-e46c-4025-8438-5b927a4fae4b,2025-01-19,72e7c9c8-02b6-4add-845c-b1f739f609c8,57,Campos,32,Livros,214.06,5,1070.3,Cartão de Crédito
+ad199724-f84a-4884-8c26-11a9f9825c84,2024-09-18,93c0195e-28d5-4416-9b01-8f709b36fdf9,26,Carvalho,41,Roupas,74.54,4,298.16,Cartão de Crédito
+f6aa7e5a-9c4c-4008-bdb5-0c01159b5d8b,2024-03-17,9f47e1df-af7d-48b7-9a1c-45041053b3c7,35,Costela,45,Livros,467.68,1,467.68,Cartão de Débito
+f29b6bc3-3efb-41c7-88e0-ce014b86e057,2024-12-27,e7698bfa-c568-4f10-a87a-e4589070b142,55,Alves,10,Eletrônicos,457.68,1,457.68,Cartão de Crédito
+dde2bc91-5bb9-423a-9cd2-cb988cd03cb1,2024-10-17,a7f6d15f-83be-4348-8018-6993614a19b6,57,da Mota das Pedras,2,Esportes,244.18,5,1220.9,Cartão de Crédito
+285fb5b2-c0cf-4ee7-9a43-05e2a6617a26,2024-02-22,f9215c19-f2bc-43ec-a6b9-9c75c65333cd,46,Cardoso do Galho,33,Roupas,203.62,1,203.62,Boleto
+b78ceff5-9590-4e58-98b4-c36b4d87f7d7,2024-05-31,b759bce0-9a5f-4626-b025-b668f42618a8,36,Monteiro do Norte,8,Alimentos,476.04,3,1428.12,Transferência Bancária
+6b886399-48b3-4a12-89fb-b69fc3892a68,2024-05-08,2a89db67-9ba5-49ee-b38c-5e2b1f7dcbb3,23,da Conceição de Goiás,38,Beleza,296.32,3,888.96,Transferência Bancária
+f69fd835-8b23-4542-a6b6-8890f904aa28,2024-11-28,a7213f47-9dcf-4a20-9b8c-ea6f7d70ac15,26,Barros,22,Eletrônicos,22.63,3,67.89,Boleto
+1ea97bc9-f36f-4cd0-bd2d-2524396ad7c0,2024-11-18,ad54b04b-d96f-42e7-9d0a-2c33a2e70a72,20,Freitas Verde,29,Esportes,363.33,2,726.66,Transferência Bancária
+ba2435de-5ae3-4fa5-a0d1-99b24452ba74,2024-10-29,162e6cd8-0ecf-4bda-a6a1-86126382acc1,20,Teixeira de Porto,1,Alimentos,220.3,2,440.6,Transferência Bancária
+48c60d18-0f2f-48e2-8d77-c245cb82379d,2024-07-16,ced19f3c-1a72-45e7-8ab5-df88bf353ca8,65,Ferreira,23,Esportes,201.01,1,201.01,Pix
+b05b9c18-9acc-4d25-a8e1-22f69ed58e00,2024-12-19,3f1e8283-ef3c-41e3-8ad5-fe2f0b9c89bc,63,da Rocha,41,Roupas,74.54,1,74.54,Cartão de Débito
+889941f0-962e-4893-9324-b330ed646443,2024-04-03,f5c18deb-e8bc-4897-a821-95cf41f1389f,65,Alves,45,Livros,467.68,3,1403.04,Pix
+9fb5bd47-0879-42ea-b6e0-8a1be5a36a44,2024-11-23,d4ff1263-2a7d-4cd8-abe3-c6cc2496f69c,64,Gomes de Moura,28,Alimentos,165.47,4,661.88,Boleto
+c7e13a5e-f984-4f26-8c59-57dcfc0691d3,2024-07-09,9764f9e1-6bcc-4d20-ab07-271c324ca814,47,Ferreira do Sul,50,Esportes,185.85,2,371.7,Cartão de Débito
+3612b532-a10a-4800-9664-d50b8cd5523c,2024-07-14,503e978b-9b16-45f6-9592-4418f78c5967,60,da Luz Paulista,47,Esportes,132.19,4,528.76,Pix
+86d6320b-c53c-4278-83ca-d5ed0676dde4,2024-02-26,d4f3ea58-c431-4e55-8686-e5be48690a6d,58,Carvalho,50,Esportes,185.85,1,185.85,Boleto
+9b5b809c-8237-4e7a-8809-b7b03446e686,2025-02-04,be9bfbb9-5590-4a7a-baf6-975abd302e73,22,da Rosa,23,Esportes,201.01,1,201.01,Cartão de Débito
+ac90914c-2fc0-4595-9840-fb1df0638abc,2024-09-27,de72ec67-6c71-4fae-97ab-07394e093568,36,Santos de Nunes,37,Beleza,244.22,5,1221.1,Boleto
+2941e454-47e7-43c7-abd2-b5ad9c194fe0,2024-07-10,430cf6d7-6c98-48b2-84af-40517cf2eef0,61,Correia,47,Esportes,132.19,3,396.57,Transferência Bancária
+9aca9096-8e9d-477b-ac3a-f8fd2ed8b97d,2024-02-23,c206c7a8-d6de-4da7-8b49-83c8452ef45d,19,Dias da Prata,43,Alimentos,255.56,4,1022.24,Transferência Bancária
+f9387451-f6fa-4899-bdf6-d04fd83ea2e7,2024-07-26,c2f45177-087b-4013-afb4-df67a584fdf9,32,Rezende de da Paz,49,Eletrônicos,368.59,5,1842.95,Transferência Bancária
+1e7194bb-f038-4877-a4c1-5d126a673e0f,2024-03-25,9a6411e1-7f1b-4f35-a0b2-a9921a9616dd,28,Azevedo do Galho,25,Beleza,349.23,2,698.46,Pix
+48d30470-55e9-428f-9002-69b1b4949dca,2024-07-24,ad5fc189-7cb0-437e-b50f-3466adb29cd7,20,Duarte Paulista,48,Beleza,103.8,1,103.8,Cartão de Débito
+c1c38f67-18f8-4c92-8bd4-473ebfc70a81,2024-03-24,2193438d-de93-4cb1-8f03-a5f637ff3d33,38,Rezende do Oeste,46,Beleza,135.55,4,542.2,Transferência Bancária
+66af8895-b598-4fef-b26e-57f6648bdf7a,2024-07-04,4c16bbea-c062-4d1f-a7b3-443d46dccc69,28,Peixoto da Prata,35,Esportes,282.62,1,282.62,Pix
+9fb9a593-4ffa-4936-a35d-2ce824b2dfcb,2024-03-04,8a53e13a-f6e7-4155-bc57-14d560ced7c6,62,Mendes,9,Roupas,486.11,2,972.22,Cartão de Crédito
+3fc7f376-d479-4b09-88c0-b44cc1350551,2025-01-17,3c20391b-67e8-4b31-8698-9ef1c54a4571,31,da Conceição,2,Esportes,244.18,1,244.18,Boleto
+6a0c420a-f10f-4738-8b99-ee8353ef23eb,2024-08-22,14df7f5c-3691-4128-9a4a-c4110d41c3cd,61,Gomes de Goiás,26,Roupas,24.28,3,72.84,Cartão de Débito
+f3a8dadf-0483-4014-a5e8-5ede0b603230,2024-12-11,ccec3d55-efbe-4bae-8b61-a7867b9fe5cd,44,Castro Paulista,9,Roupas,486.11,3,1458.33,Cartão de Crédito
+1f615f7b-d5aa-4d40-b7c7-3b958a9fdaf0,2024-03-15,09149307-47ec-4687-9130-a2c2b4bc6fd0,34,da Mata do Galho,21,Beleza,28.07,4,112.28,Cartão de Crédito
+891b8ce6-8846-41a2-8dbc-8e529d2bf556,2024-12-05,95bf0274-23a8-41da-8185-3712ed48b172,57,Peixoto,45,Livros,467.68,5,2338.4,Pix
+f57ed6da-1fdf-45ec-850d-cc12ac5b2e91,2024-04-22,095e85da-f5f3-4b35-9102-5d1d0e9e269f,41,Mendes Alegre,44,Eletrônicos,127.27,2,254.54,Cartão de Crédito
+aa183f5e-ad71-495b-a16c-24308378dbc6,2024-06-22,9dc660a6-e350-4def-b056-7298d56829b5,37,Melo de Cardoso,18,Roupas,56.53,2,113.06,Transferência Bancária
+6db7968a-91ee-4032-aaf1-82e485320c9d,2024-05-22,cf6c699e-1029-4ccd-9832-b7feb0638dbf,40,Gomes,7,Eletrônicos,112.96,5,564.8,Cartão de Crédito
+3ba001eb-fb04-425e-96f1-4c59814c29fe,2024-03-02,d875fcd3-6a32-4e16-b978-add9bb45cbbe,48,da Cruz da Praia,44,Eletrônicos,127.27,2,254.54,Boleto
+19089cb9-693f-4825-b478-8eef620de5a4,2024-12-18,0ce70a88-2733-4745-8679-8e4d96994936,63,Ramos,48,Beleza,103.8,4,415.2,Boleto
+6c589ba0-6672-474b-8752-6ad4b1edd592,2025-01-05,7a3bbbbd-b101-468c-ba1b-30db327bcba0,62,Azevedo de Cunha,47,Esportes,132.19,1,132.19,Cartão de Crédito
+b26cc7d6-3b10-455e-b4c9-7145dfb5b5ec,2024-12-10,9d549cda-fd2b-4e61-9fcf-c15e56b5b910,58,Moreira,14,Esportes,272.71,1,272.71,Pix
+eb4247b8-0bbc-4d5e-9a17-cf974885ad6c,2024-05-27,58df9cd7-f2de-4e58-a807-205cce9a7c1d,53,Dias da Mata,1,Alimentos,220.3,3,660.9,Boleto
+56006ae5-2563-4d09-8a0b-a8793dec0055,2024-05-30,e638f1a0-d830-442f-a9f7-be02b5bfb055,52,da Mota,49,Eletrônicos,368.59,2,737.18,Boleto
+d2ed574f-0ddd-413c-ae54-a31c6ed68c9c,2024-02-26,79542a3f-32f1-4575-be0d-68de69dbd095,38,Nunes,22,Eletrônicos,22.63,5,113.15,Pix
+1e270851-3e7c-40ee-9724-6932edb2a4b7,2024-12-03,94eab1ab-5b3a-4d5b-8ac7-33028b894e00,24,da Costa,7,Eletrônicos,112.96,2,225.92,Transferência Bancária
+4d97a7b0-413b-482d-8809-ab6d583be00e,2024-08-04,f7d85ab1-144c-4e1a-b538-fd8dcbb692ae,53,Nascimento,45,Livros,467.68,4,1870.72,Transferência Bancária
+cc5064a2-45db-4c53-bc59-b7e47c5d38a1,2025-01-08,42d153d9-0332-4cd2-bc0f-2e7ead9ad295,46,Gomes,14,Esportes,272.71,5,1363.55,Cartão de Débito
+3e0ee329-a272-4891-a374-9b6807078d10,2024-11-28,02e90c8d-73ac-458e-9b87-55cb45774c61,32,Pires,12,Roupas,498.33,3,1494.99,Transferência Bancária
+53f5fe59-bc3f-4197-ba96-67863d65bfae,2024-09-15,994f73b8-0602-402a-999e-8acdaa8aae22,28,Alves das Pedras,43,Alimentos,255.56,3,766.68,Boleto
+d081fabd-9990-48b8-b969-581edb83c46c,2024-05-10,ef551643-a858-4a34-a18d-38afd7f2dbc7,38,Vieira de Minas,17,Beleza,223.41,3,670.23,Transferência Bancária
+e600a5f6-7bbc-4196-83e8-447c715c540a,2024-09-06,21763c49-7204-4f74-bb8a-18a668550dd9,57,Vieira da Mata,33,Roupas,203.62,5,1018.1,Pix
+9a8f5d2d-241b-4ac3-9e55-49578b77598e,2024-08-16,44d9ea73-94e2-4d2e-9f2f-6ccc1c2ee798,24,Lopes das Pedras,47,Esportes,132.19,3,396.57,Cartão de Crédito
+d3127979-3a78-4bc7-bfa7-e7e327161545,2024-11-16,5586505d-e19f-4d65-bff2-f279f9582d73,18,Farias,30,Beleza,421.37,4,1685.48,Cartão de Crédito
+bd376b78-08af-43fc-8218-7c4bac6a3f8c,2024-07-19,90fc942b-85bf-4f43-ae8a-d9a6765d4914,28,Castro de Moura,7,Eletrônicos,112.96,5,564.8,Cartão de Crédito
+33d53c70-0f00-4484-98bc-fd82650b0127,2024-07-13,33638a11-d02e-488d-b742-38e338b4aad7,46,Freitas,7,Eletrônicos,112.96,3,338.88,Transferência Bancária
+87765538-9a44-42c1-8dab-c0423235fa3b,2024-08-03,c9a48957-ed60-4e19-9c0b-faf945c3a53e,32,Cunha,1,Alimentos,220.3,3,660.9,Boleto
+f4a8fe04-c6d0-4d7f-a0d4-0a6651c4e818,2024-09-30,aa8aa464-25d4-494f-9805-649427efef06,50,Pereira de Goiás,4,Livros,242.76,3,728.28,Pix
+fd7faa59-93a8-447a-a874-f1dc9a4f979d,2024-08-26,cfae36d9-3ec2-48e4-ae09-672321fcf559,29,Moraes,21,Beleza,28.07,3,84.21,Transferência Bancária
+69f77682-a96e-493a-b52d-b3403d4eb582,2024-10-10,74883e6c-aec2-4c3f-a745-c1f2b8a79682,40,Silva Paulista,41,Roupas,74.54,3,223.62,Boleto
+89739f96-24bb-4f51-b7f5-08db7d1398e8,2024-04-03,abda5f9c-006a-4b65-b56c-f8cc7d539b0c,34,Novaes,34,Beleza,192.75,4,771.0,Cartão de Débito
+0f75193b-e4f4-4399-9f2d-ee4a261d5804,2024-05-12,e5ebabeb-3f5f-47a5-9698-cef6d7cfa20b,46,Costela Grande,14,Esportes,272.71,2,545.42,Cartão de Crédito
+e6ff7c51-d9c0-4079-87f4-7997959111a1,2024-06-11,79ab7e0c-108b-41a7-9e3f-67b0802481f8,41,da Cruz da Serra,45,Livros,467.68,2,935.36,Transferência Bancária
+388c4177-aa94-460a-a5ef-77501d2d6654,2024-10-20,9e8e06ce-2dc2-43c5-9202-32b01d487a2b,34,Duarte de da Mata,46,Beleza,135.55,1,135.55,Pix
+a38cb27d-0e7f-4b75-8ab2-3412e74f1ee1,2024-10-12,f1ac957b-ae30-47c7-a48f-f5fee4be0c28,42,da Rocha de Gonçalves,20,Alimentos,53.11,5,265.55,Transferência Bancária
+4c0f12dd-ad26-4f59-b83f-06ee916dfc89,2024-10-25,f6a2ee50-2ea5-40dd-b56a-857fd238d9af,32,da Rosa,41,Roupas,74.54,5,372.7,Pix
+325c72ec-47e8-4140-a9ec-b1f7aa343c76,2024-05-19,2843b114-341b-44b1-a886-7d5827ef0dae,47,Silva,21,Beleza,28.07,2,56.14,Boleto
+af1ed528-bae9-45b1-9570-7b996396957f,2024-04-16,55ac6612-0921-440e-8f09-c4c3b8639654,33,Caldeira,24,Esportes,495.6,1,495.6,Transferência Bancária
+d094282f-43c2-457f-a092-53f6111343d4,2024-08-06,33dcf022-47d7-4817-869c-425ca3c4cf4e,38,Novaes,36,Eletrônicos,189.35,3,568.05,Pix
+5b02dae6-f80c-46eb-bc33-dedeb66f2291,2024-07-30,56293bd6-d8c9-49a7-8fc5-2fbe3245da53,56,Pereira,35,Esportes,282.62,1,282.62,Pix
+ee3a219d-8302-4c2a-814a-f36aeb749a41,2024-11-17,1903a29b-efa5-4b43-8258-3b4c06c8f248,23,Duarte,41,Roupas,74.54,2,149.08,Transferência Bancária
+70829ba0-c13b-4dcc-b296-301f0b8a9221,2024-04-04,7717a9af-18aa-4618-8d6b-909169765d74,32,Freitas da Prata,50,Esportes,185.85,1,185.85,Cartão de Crédito
+c4d65642-f973-4283-b6f4-a92bad0da1b5,2025-01-13,e973658c-bd4d-4c14-840e-511477537d4c,19,Cardoso,18,Roupas,56.53,1,56.53,Cartão de Crédito
+ed1f4ebf-30d3-467c-95c5-8e1cc3926cfc,2024-05-04,61b92cd3-1438-4192-88ee-2676b32c5b53,25,Cardoso,1,Alimentos,220.3,2,440.6,Cartão de Débito
+ef8d05e1-429a-41b4-8a4c-0bba462432fa,2024-07-17,6d9555f7-bb71-4373-9950-1c7ecfdfe52b,61,das Neves de da Paz,13,Alimentos,12.53,4,50.12,Pix
+baa6bb72-9a51-45a0-8b0b-e71300749e58,2024-05-09,229820ca-c5bd-488e-a33e-4228f37db465,47,Monteiro,8,Alimentos,476.04,1,476.04,Cartão de Crédito
+14e5cb98-f1f0-428d-8c87-52e9ba6c3e43,2025-02-05,6a1367d3-4a29-459a-8e52-dc2b7152fb79,65,Rezende do Galho,9,Roupas,486.11,2,972.22,Cartão de Crédito
+e5b094bb-20a5-4cae-8f0f-047b84ea2a31,2025-02-07,9fc1d3e3-41e5-4cd1-845f-1af29d5f7b2f,59,Mendes,34,Beleza,192.75,4,771.0,Boleto
+d3aa9ce8-5d1e-42ad-a8ff-bba6b7652140,2024-05-22,34503941-7c4d-439e-b426-fa89eb7b616e,28,Cunha do Sul,19,Roupas,214.44,4,857.76,Boleto
+2ca2497e-730d-4456-87a7-4252993378ed,2024-10-14,02cb540f-b3c8-4d6b-abf3-d3cf8a952db6,50,da Cunha da Serra,22,Eletrônicos,22.63,3,67.89,Transferência Bancária
+1d46ca07-ab9e-4dcf-92ee-f0bf5dcc1f0c,2024-05-04,fa23c253-0728-4dea-ad7f-0250bcb88a85,60,da Mota,22,Eletrônicos,22.63,2,45.26,Pix
+9ee3629f-c04d-4cd9-9af5-846c3e9f4849,2024-08-01,4f704e44-7397-432f-aef0-b6a5be3baf29,65,Almeida da Serra,22,Eletrônicos,22.63,5,113.15,Pix
+6147dc76-021f-434e-a665-94b55123203d,2024-07-10,ff269972-6829-4444-8bd8-603694754307,65,da Conceição das Flores,10,Eletrônicos,457.68,4,1830.72,Cartão de Crédito
+1cd46bf5-215c-4ba2-920c-5d7ac64cd70c,2024-03-24,b70d8a23-7613-40e9-929b-e5afc662c7d1,56,Costela Alegre,13,Alimentos,12.53,2,25.06,Pix
+f17f8f8a-3cb3-4242-b3bb-a4ba845c786e,2025-01-01,420052e8-d3ea-457a-aea9-79588c27cc94,23,Moura de Moraes,23,Esportes,201.01,3,603.03,Boleto
+89cc7ad2-3b16-427c-9669-f935312d6f3e,2025-02-03,f809eb6f-f2c7-4bdc-8973-a7bbd8bea4bb,23,Mendes,29,Esportes,363.33,3,1089.99,Transferência Bancária
+8f23349c-8639-4767-9d74-ebb10c4ee064,2025-02-04,26027cc1-2076-4cd1-b46c-62013adeb9a0,30,da Cruz,41,Roupas,74.54,3,223.62,Boleto
+d1585400-bcbd-4d18-9f92-bc7acf6ef70c,2024-05-01,c1d0e76c-c2a9-466a-8346-3d72882a69d7,56,Martins de Minas,18,Roupas,56.53,4,226.12,Transferência Bancária
+d4c89572-74f6-464e-bea0-f0a34cedb8c6,2024-07-31,9bbdaff8-fce7-434e-907a-aae84060a407,65,Lopes,25,Beleza,349.23,1,349.23,Transferência Bancária
+8fd3bb12-79a0-4784-818c-52ff1ce6bb5c,2024-03-14,10058a83-d539-4f97-a320-be8d6afa95e6,43,Porto do Amparo,15,Beleza,367.19,4,1468.76,Cartão de Crédito
+45902a63-6228-4113-ba23-b92e97562273,2024-12-13,c046055f-c9b6-438b-9fb9-2b2cf4c48f5a,62,Vieira,39,Roupas,275.85,1,275.85,Cartão de Crédito
+e56f6179-a393-4d86-bc2e-245ff721c6f2,2024-10-15,7add8d37-8f60-45e9-a6ce-d9256169b9fc,56,Dias,2,Esportes,244.18,1,244.18,Pix
+4a6fda83-d30c-44aa-815d-c7912825c07a,2024-07-21,ae297d09-69b5-4979-ae48-5ff5e7bc1483,55,Castro do Norte,49,Eletrônicos,368.59,3,1105.77,Boleto
+8af7708f-c9bc-4aa0-803b-0747dcab66c1,2024-08-20,556d5ee5-a6ec-4281-a246-75b6c67db3f0,56,Rocha do Amparo,11,Beleza,116.28,3,348.84,Transferência Bancária
+543fe675-3a4c-4c6d-9e40-97d2268d05f9,2024-09-24,1b6289a6-df70-4f2a-9fe2-c0b4ce278819,64,da Luz,17,Beleza,223.41,5,1117.05,Pix
+461cf884-b6e2-484e-a039-fc1ed4c5818d,2024-08-26,72068fc1-5d7e-4c10-b849-744566ae7ec5,27,Farias,18,Roupas,56.53,2,113.06,Pix
+cd350c29-04be-47da-9669-e887e0ed7d82,2024-05-15,1c9b48ad-4df5-43e7-a528-f1f15dea80e2,34,Oliveira,27,Alimentos,406.38,2,812.76,Boleto
+37f1a571-ee45-4a4e-bdfb-3a0914c34c95,2024-04-27,76f8bfad-6678-4c1a-acd3-2fd4c9b81276,27,da Mata,47,Esportes,132.19,5,660.95,Boleto
+180ebc31-e878-4665-9a87-263d21847ce3,2024-09-11,5f3091bc-fb28-447e-a725-c2b331316229,53,Ribeiro de Minas,7,Eletrônicos,112.96,3,338.88,Cartão de Crédito
+d9859acb-51e7-4c47-a7b7-e45cce82c4b0,2024-06-22,1d1c52c8-9a92-4bee-a87f-3de34a9edf50,46,Pires de Moraes,28,Alimentos,165.47,2,330.94,Boleto
+1bbbe58b-b878-46b1-80b5-59fc667ade9d,2024-09-14,aa60a1f7-46db-43b1-b190-d3ddc551b4c4,40,Nascimento das Flores,42,Esportes,156.52,1,156.52,Boleto
+85943d31-d3dc-4082-becf-92f131fb9895,2024-07-31,f5088ef1-b424-4e1a-8bf1-dfeeb38b507b,29,Campos das Flores,34,Beleza,192.75,1,192.75,Pix
+987d1971-2d92-4d04-a0ba-11c83ccfd183,2025-01-13,fb571ab8-e41f-4726-abe8-d4fdb0c3a490,48,Carvalho,23,Esportes,201.01,5,1005.05,Cartão de Crédito
+26121992-7f36-4eaa-893a-3e54fc4850b8,2024-09-27,3b510adf-d6e3-475f-8ea6-d9cf8286e662,25,Fernandes da Praia,22,Eletrônicos,22.63,2,45.26,Boleto
+ff695fdf-bb7c-46a8-a9af-4925c161ca9e,2024-02-29,670523ec-a2ae-48da-ab39-79fcf58328bf,39,Jesus,38,Beleza,296.32,1,296.32,Pix
+5fe752ad-1efd-4a9c-ab7a-600e805132bc,2024-05-10,4256a039-73e7-4779-ab39-cbd93e780625,37,Azevedo,43,Alimentos,255.56,4,1022.24,Boleto
+750283d0-0df9-4cd4-a592-77438abbdaca,2024-06-08,67470b09-49d9-4321-84b2-aa30ac98eb46,40,da Mota de Goiás,35,Esportes,282.62,5,1413.1,Cartão de Débito
+6ecf820c-74c5-42d6-8227-8f967c4d94a1,2024-04-15,bcfc8bfb-9a7a-4029-9fe6-ce7a13a13edc,47,Mendes,46,Beleza,135.55,5,677.75,Transferência Bancária
+ea0a3656-dc7d-4d27-a805-941411ce1c63,2024-04-24,a6eae7dc-0d8f-4e93-a364-f75b5c2a341e,57,Carvalho,4,Livros,242.76,2,485.52,Transferência Bancária
+7e7ddc4d-12a1-4797-bcbd-a9c03ef94d78,2024-09-04,f1ce0941-57d6-4d7d-9f98-3fd4f7473a48,61,Pereira dos Dourados,1,Alimentos,220.3,2,440.6,Transferência Bancária
+c5a3c435-c757-42f8-876b-8022789a5ada,2024-06-26,55d49863-2887-4663-b2d1-f06c65d49fa7,25,Moreira dos Dourados,33,Roupas,203.62,5,1018.1,Boleto
+7532a50f-5e28-4d35-91b6-0fe6c5568d4d,2024-12-23,1c819fed-b1b7-495e-a330-b6027883c3e7,57,Mendes,43,Alimentos,255.56,4,1022.24,Pix
+76fc8a72-3f0c-49c6-baf6-db667007cd5e,2024-12-13,f16647c2-f9e5-4f4d-988a-5d83acf39c9f,34,da Paz,46,Beleza,135.55,4,542.2,Boleto
+adb82b41-a1f1-4264-bcd1-e62574f3bd74,2025-01-03,b3f33df2-ed67-4930-ae7f-dad5eff8855a,19,Rodrigues,32,Livros,214.06,2,428.12,Cartão de Crédito
+34725fc1-f1ad-4fb0-b3e7-72b1ca7ce031,2024-09-09,2fa4be17-e23d-456b-957e-7ee9d00a61b8,47,Sales da Prata,25,Beleza,349.23,3,1047.69,Boleto
+3d5a69d8-0a1f-47b3-a8db-a301b7c56c84,2024-11-29,c801c9cd-1e84-4515-a591-8e7bc8e81ecb,41,Lima,42,Esportes,156.52,1,156.52,Cartão de Crédito
+04096492-a1e2-4213-ac92-b67ea13d504b,2024-08-11,77bf76c8-e897-4aeb-887b-290d4c05ac88,39,Silva Grande,20,Alimentos,53.11,3,159.33,Cartão de Crédito
+5c266aef-53bc-48a9-b32d-c1afd854eb24,2024-04-18,2b7ec0e3-8166-439c-b918-70a986729ec1,19,Barbosa,43,Alimentos,255.56,5,1277.8,Pix
+c94d557d-55b3-4ef3-9f05-eb4f2b9128be,2024-08-05,ee4fb959-5255-4fa4-9421-3257ce61ab18,49,da Mata,24,Esportes,495.6,3,1486.8,Boleto
+f2166131-32f0-4a15-909e-be6d6edc5468,2024-10-26,edad25d4-9190-4549-84f1-ff5618f9f379,18,Lopes,42,Esportes,156.52,2,313.04,Cartão de Crédito
+65ef4927-8428-42d1-8a32-9ba70be8d7de,2024-05-27,cb7ae430-660d-4278-ba5f-5064792f651d,47,da Cruz das Flores,25,Beleza,349.23,4,1396.92,Cartão de Crédito
+2ecb5a64-5a6d-4844-8939-ca2be1aebf09,2024-11-06,d95e7d83-a75d-485c-af4e-457552dd3c80,18,Melo,4,Livros,242.76,1,242.76,Cartão de Débito
+df0678bc-5753-4b10-8c02-7a1c949f678b,2024-12-02,b0cff73b-ed70-4831-bd29-c893c78f9ba7,48,Alves,48,Beleza,103.8,2,207.6,Transferência Bancária
+bea6a7f3-e5c0-4dc1-9fc8-b387f757432f,2024-08-13,579003e6-4564-46bb-90ae-b82e47c17e56,45,Barbosa da Praia,9,Roupas,486.11,2,972.22,Boleto
+e9ec566f-a6ee-462e-aaba-2f05d8d9a416,2024-07-18,78e6a67f-b66f-45ec-8e15-5b5ea84bc4c8,45,Ramos do Galho,8,Alimentos,476.04,3,1428.12,Boleto
+59be68e2-2978-4b1d-ad8f-7b271456bc8f,2024-02-21,c5fe1c50-e6fd-4097-afe0-d0d19b0c7194,54,Araújo,44,Eletrônicos,127.27,4,509.08,Transferência Bancária
+4fba9764-ef61-4ece-b02c-7d9363569d42,2025-01-24,54b6d1a9-cbd0-4bff-a5a1-d9da3497fd7f,33,Cardoso,12,Roupas,498.33,3,1494.99,Boleto
+2d0bf4eb-3bc2-45e8-82a4-d07e9c7ca448,2024-11-15,4137d75c-6532-4e38-9d3d-91fcdb2e34ae,52,Aragão,45,Livros,467.68,3,1403.04,Transferência Bancária
+85949297-b1ae-46cd-905a-62af9f56be5e,2024-02-25,d2037161-3e91-4ec2-8f6a-cde666169f84,27,Vieira,27,Alimentos,406.38,3,1219.14,Cartão de Débito
+e4eca2db-2f9a-4900-9490-327fa12c0f4b,2024-12-19,22b28b2e-ae24-4faa-a0c0-0f55800fb71c,28,Correia,12,Roupas,498.33,5,2491.65,Boleto
+852eb87a-a3dd-4015-885c-1faa36fac6e2,2024-09-13,39661289-31cd-4acf-ab82-e1c97083a336,37,Novaes,31,Eletrônicos,35.3,1,35.3,Pix
+10004e38-3fea-43cc-a491-ffe9a9a0c6ac,2024-07-03,1c2d63db-d23b-4ff8-b9ad-2b6190895d7f,44,Rezende,40,Livros,427.83,3,1283.49,Transferência Bancária
+fc07e08c-e93d-414b-ba0f-83a49d4fc973,2024-09-22,6f2c510e-50c2-4bac-9823-f7a8cf1ae5c1,42,Caldeira,28,Alimentos,165.47,4,661.88,Transferência Bancária
+1285d0f3-0cba-44cd-8afe-067e2a965ccb,2024-10-12,0f1e0ba1-2158-4036-b381-9387cce11b4d,41,Pinto Paulista,9,Roupas,486.11,1,486.11,Transferência Bancária
+54470fab-25d6-4e7d-9373-adfe01d2ccd0,2024-08-20,4f5ffc4f-de88-40ba-9435-35f45685184d,19,Fogaça do Norte,10,Eletrônicos,457.68,2,915.36,Transferência Bancária
+abd87419-df3a-4ab6-ab18-0e389b5caa70,2024-12-11,46e26af5-4e8b-4e46-b8c0-6553cdf87b30,61,Ferreira,35,Esportes,282.62,2,565.24,Transferência Bancária
+e24c0110-89bf-4594-8334-5bd435fdf401,2024-06-29,0c82f5b3-9904-4efe-89b5-38620f3e6b7d,30,Vieira,21,Beleza,28.07,2,56.14,Cartão de Crédito
+e9f4437e-dbd3-4cd0-9821-13200f5d1052,2024-06-21,9599a243-3bad-4570-969d-49a757e199bf,54,da Rocha da Prata,15,Beleza,367.19,2,734.38,Cartão de Débito
+7c33501c-35d7-4aef-8604-37ff84abda74,2024-06-14,bb13593d-83f0-41ce-843f-844a47cdac65,36,Gonçalves,47,Esportes,132.19,5,660.95,Pix
+208754a3-058c-4540-baa8-35bd71f5989b,2024-03-01,214a57c4-e843-45b6-96c3-f1bd4caeba6c,63,Rodrigues,34,Beleza,192.75,5,963.75,Boleto
+4855ae7c-5e9c-4692-bf5c-afa1a0442561,2024-12-09,44e3d1b5-bcda-4cd5-8259-52ad25594a34,26,Araújo de Goiás,3,Livros,425.62,3,1276.86,Pix
+7899dc3e-1afb-4c6d-a402-c41386803070,2024-05-05,a7b037d4-a60c-4a57-85f8-68248910b5d6,43,Novaes de Moura,2,Esportes,244.18,4,976.72,Pix
+52ab0fb5-a391-47bb-a751-d2906ab021a5,2024-05-02,6b46f816-94bd-4938-926d-b327c39dbc87,40,Nogueira,12,Roupas,498.33,1,498.33,Cartão de Débito
+0626fe34-e7a9-4e02-9423-4e4b393119cc,2024-08-02,d55296ae-9186-4cb5-a0c1-0f0eea46feb2,63,Alves,26,Roupas,24.28,3,72.84,Pix
+c7fa19de-3ec1-45ad-851a-aaf6b2d47674,2024-10-31,34bf67dd-30fc-4ec1-9be2-e525345b48ef,25,Oliveira de Ramos,10,Eletrônicos,457.68,1,457.68,Cartão de Crédito
+fc9e7306-406e-49b4-b8a5-20735efc002b,2024-04-06,8d3cf1fc-813e-4189-aa0f-578b99299ea0,27,Sales do Oeste,42,Esportes,156.52,5,782.6,Pix
+fb2f32e5-ea04-45ac-960e-b39205f70a7c,2024-11-09,e88aecb5-2647-4856-b791-fbf3ed46c610,33,Porto Alegre,43,Alimentos,255.56,5,1277.8,Cartão de Crédito
+870623d6-6aee-4721-bfde-1634f3285fe3,2024-04-27,06e35146-7cb4-45b9-b695-33224b7ee235,47,Oliveira da Serra,29,Esportes,363.33,2,726.66,Cartão de Débito
+bb3e6fe8-da84-4463-8395-59fddcb73701,2024-05-14,5ef76381-0e48-4743-b485-cb764edb09cc,60,Viana,28,Alimentos,165.47,2,330.94,Transferência Bancária
+b0604d67-3c5a-4dd4-92db-6e2d3ef33f6d,2024-07-25,528e4e2b-4769-41e3-9e87-0fc66be38a48,23,Porto,6,Livros,372.96,1,372.96,Cartão de Débito
+54b15e34-d09a-4804-886f-6f9c060600ce,2024-12-24,947bad64-9bad-40dc-930c-04d408cb2b63,33,Rodrigues Verde,11,Beleza,116.28,4,465.12,Boleto
+a9d93ed4-ce12-4c51-b187-0e7d950d2e25,2024-06-01,61f6895e-abc0-4f8c-9e22-5004852d57c7,37,Dias,23,Esportes,201.01,2,402.02,Boleto
+6790b835-ccfc-4737-997c-101fc9480104,2025-02-03,fa10a202-b257-430b-b8f6-7393889f8f19,25,Silva,6,Livros,372.96,2,745.92,Pix
+a359770f-cf88-47d4-a281-1ea633c0d1dd,2024-04-17,49db9f6a-51ad-44d7-a3fd-de0b9de5bb9b,44,Barros,33,Roupas,203.62,3,610.86,Cartão de Débito
+d21622e5-654d-4ab3-81b5-f6106aaef2d5,2024-06-20,cce99ad7-c89b-4734-ba6f-20d8b0b3649f,37,Castro,9,Roupas,486.11,1,486.11,Cartão de Crédito
+9f4970ae-38a2-4218-bf5e-66a6d2da3d92,2024-07-03,4c5c3a1f-2276-4bd7-b136-ecc5c7488531,64,Oliveira das Pedras,27,Alimentos,406.38,5,2031.9,Transferência Bancária
+acc82ed5-3bb1-4f63-8552-10d2d6b18a2b,2024-10-11,c464882f-73f0-46fb-9bf7-984142586295,37,Moura,40,Livros,427.83,1,427.83,Cartão de Crédito
+dbfe0061-95d4-47cb-addf-cc02089e3839,2024-07-31,282b0d6c-14c1-414a-a1c0-8553def112d1,20,da Conceição,7,Eletrônicos,112.96,5,564.8,Transferência Bancária
+93a3f686-1c18-442e-991b-b7fd49279e48,2024-08-08,d88d4875-aec3-4c5f-b46c-ab1650e7a872,34,Lopes,14,Esportes,272.71,3,818.13,Cartão de Crédito
+bd5ef68d-26e5-4c96-a699-ed7f8a3c511d,2024-09-17,f5e0db0c-a90a-4b79-9831-e8210f64acfc,65,Melo,1,Alimentos,220.3,5,1101.5,Cartão de Débito
+ea760bca-ae85-403d-a06d-4af69f642c88,2024-10-06,9cbd1eb0-e995-40f9-81e8-284026be457e,31,Rocha de Goiás,41,Roupas,74.54,3,223.62,Cartão de Débito
+a938689c-bbb4-4698-b38d-eb1607f797fc,2024-05-24,a21fee5e-e993-4c0b-891f-c53292d3d9f8,34,Ribeiro dos Dourados,4,Livros,242.76,1,242.76,Cartão de Crédito
+7ac74783-6bab-4d3d-93f1-9681ab7b7c18,2024-06-07,c3acb46e-ec1b-4efb-8ca6-5fc7dacb61ce,37,da Rocha Paulista,43,Alimentos,255.56,5,1277.8,Cartão de Crédito
+51a7b052-6a19-4875-8cb3-0afd2bf4b17b,2025-01-31,f377958a-b001-427e-8b32-21e917e404b2,52,Araújo Verde,46,Beleza,135.55,5,677.75,Pix
+6830047d-5cc5-4059-9f49-b39a80410b5f,2024-12-31,0c8341b9-bf66-4c42-82f5-b15904113d64,41,Azevedo,28,Alimentos,165.47,2,330.94,Pix
+38923d1e-f1ef-4d5a-be41-3a9267e8f67e,2024-11-04,be93e158-8af9-4dcd-b5be-3f9210dc53cc,40,Martins,23,Esportes,201.01,4,804.04,Transferência Bancária
+61729d03-1332-427e-bdf3-ac870c77265b,2024-03-09,90476c87-53b8-4d9d-937b-d5aad4d31084,26,Caldeira do Norte,20,Alimentos,53.11,4,212.44,Pix
+d19e8d6b-2c38-46e6-b68b-5e2685f802b8,2024-07-24,fa03ca3c-fde4-4581-9764-63a896753bc5,65,Castro,49,Eletrônicos,368.59,3,1105.77,Transferência Bancária
+68cc6df5-795a-44f7-a86b-9ec56141eff8,2024-02-24,02479c8d-c8a8-48c3-86a2-6f24095a4c1f,33,Rocha de Minas,47,Esportes,132.19,4,528.76,Cartão de Crédito
+84618a74-a82e-40a8-bd8c-78fbb41f46b5,2025-01-04,d7c75933-7a97-48ac-a827-fddf888fd978,32,Oliveira,45,Livros,467.68,2,935.36,Pix
+59dbef62-03ca-408b-88d3-05921b3c0f3f,2024-07-14,04f14f6f-33c3-4df9-9e4b-1af030861618,40,Melo da Serra,36,Eletrônicos,189.35,2,378.7,Cartão de Débito
+00e14a8c-f4b5-40b6-98f6-ced1b4a553c8,2024-05-16,fc31edbc-985a-43e2-a5f9-5503cb784d0d,47,da Mata de Goiás,5,Beleza,16.78,3,50.34,Pix
+14020724-cea3-435f-b5c0-475fe7f43f82,2024-12-08,5211ee7e-7e1f-4891-802b-4ca5c2661d47,37,Melo de Mendes,6,Livros,372.96,2,745.92,Pix
+df6eb315-c629-42f5-ae71-45d28c213a6f,2024-07-11,02f14d99-c935-45da-b09d-683bcd5bcafa,19,Souza Paulista,17,Beleza,223.41,3,670.23,Pix
+a87843b4-5562-4fe4-80fa-60a26d168e0c,2024-04-21,26027314-d025-40a2-b6e1-ebe76a6a4d8b,28,Mendes de Cardoso,30,Beleza,421.37,2,842.74,Cartão de Crédito
+47781302-cb45-4ef6-80c5-64dc611c30dc,2024-07-28,eb807702-3d7b-4cee-b774-b00202277c84,51,das Neves,49,Eletrônicos,368.59,5,1842.95,Boleto
+529aa84d-ad4f-4204-87b8-cd0b8456ba75,2025-01-07,a2b53f57-f618-4dcf-b54d-da7993e195c3,43,da Costa,30,Beleza,421.37,1,421.37,Cartão de Crédito
+653beaa9-6b64-4817-96b4-8059b93dfd72,2024-10-24,de591ab6-b577-49ae-98f6-0e6ebf94d7c0,58,Oliveira Verde,33,Roupas,203.62,3,610.86,Pix
+41df5440-1414-4654-9081-59bf4ad4ccba,2024-04-11,7675ff74-5871-4817-90fc-aea8baee0ee8,52,Nogueira das Pedras,9,Roupas,486.11,3,1458.33,Cartão de Crédito
+afd2224e-c4af-4a50-a5a2-47dfa0e5e7a0,2024-03-14,92ed0a4f-361a-46f1-954a-3b7a3677f37d,36,Mendes Grande,33,Roupas,203.62,2,407.24,Pix
+66bc2bd2-5427-4c35-9182-e5b71174fd73,2024-06-06,d1924165-11b0-47a5-a85f-bf27b5dbc290,39,das Neves,43,Alimentos,255.56,1,255.56,Boleto
+e8e58a05-fe37-4412-b1cb-59dda317b4f9,2024-07-07,6cf8e8a6-6ff3-4202-be35-ecde4a3dc2d8,49,Moura,29,Esportes,363.33,2,726.66,Cartão de Crédito
+0bc580eb-d049-4447-8fe9-258d5701ad86,2024-02-18,9486ae0b-34ed-4a1c-937d-9df15cfc65cd,61,da Rosa de Souza,44,Eletrônicos,127.27,4,509.08,Transferência Bancária
+e055ae40-f417-4ddd-afff-41e1b14b841c,2025-01-20,dab268fe-ffe0-42e5-80bb-852a98c4f4f1,22,Rocha do Sul,20,Alimentos,53.11,3,159.33,Transferência Bancária
+18fa7454-1567-435b-b931-ef4a32760a7e,2024-03-09,eefb0434-b637-4df0-827e-e852bc8f2798,35,Araújo,14,Esportes,272.71,1,272.71,Cartão de Débito
+53650aea-571a-45d3-a44c-86feb206b356,2024-09-02,2badea71-a030-409a-b9b3-0b3bf6c24f8c,21,Campos de Novaes,19,Roupas,214.44,2,428.88,Boleto
+2bc37c26-371c-43b3-a78f-07ed18828f0f,2024-07-16,004f7106-2886-403f-884f-c27c78a7d4e3,40,Araújo,19,Roupas,214.44,1,214.44,Cartão de Débito
+ca149b35-00f9-41db-b902-69aae5359307,2024-08-15,a5a2aede-1712-4dd2-a11b-e6570f5dc9d8,23,Carvalho,23,Esportes,201.01,5,1005.05,Cartão de Crédito
+863e60e0-50ae-48d0-bd10-cf8990273939,2024-09-06,5350b04e-4ae2-4101-9808-cb24e2b525d1,19,Silveira da Mata,8,Alimentos,476.04,2,952.08,Boleto
+b8c58a78-bb58-4385-b25e-c3f03fc398d7,2024-05-01,13151d11-689f-4b6c-b09f-cfc2fa084ba6,29,Cunha,36,Eletrônicos,189.35,2,378.7,Transferência Bancária
+415fbdc2-591d-41a3-9a4f-42b496b9bd86,2024-08-26,ac972985-6d33-41be-9e8b-7034fe9ed0cc,44,Souza da Mata,5,Beleza,16.78,5,83.9,Transferência Bancária
+b3754b92-1ebf-4e89-b110-beff9189a3c6,2024-04-18,307eda54-db23-4689-acbf-5d8ddc01578b,42,Almeida de Goiás,47,Esportes,132.19,2,264.38,Boleto
+392bd855-f010-4c2b-9bcb-42f2ca031fa6,2024-03-10,fe370b00-5bd8-4c8f-b10a-355ada22cb87,60,da Conceição,12,Roupas,498.33,4,1993.32,Cartão de Débito
+c38436cd-61f9-4440-b749-29242b13b09a,2024-12-25,f4fa5eff-67d0-4953-aa7d-f33cba984d1a,42,da Rosa,45,Livros,467.68,2,935.36,Boleto
+1286d3d4-915d-44d3-9b41-bf162dc80f4b,2024-09-08,0ace6def-e38d-44b0-974b-c334f42dc1b9,60,Cardoso Verde,8,Alimentos,476.04,3,1428.12,Transferência Bancária
+cb45b005-f3a4-417e-9117-7cb209270a1f,2024-11-04,d054a8c2-b72b-4b3d-8186-ed738ddcc4a2,21,Jesus de Goiás,7,Eletrônicos,112.96,5,564.8,Transferência Bancária
+bb555d60-cec8-43af-9076-9dd45bedb927,2024-02-20,9fb58713-537b-4f7d-8503-1699d61a0fb7,28,Monteiro,12,Roupas,498.33,3,1494.99,Boleto
+e07b0fbd-d5eb-46c3-8f33-ea78dd83692b,2024-03-15,95ab73f2-ff28-4f00-ae17-71ec9d39910d,45,Campos,2,Esportes,244.18,1,244.18,Boleto
+ee87458f-697a-4da9-ad4f-82a82905a7c6,2024-08-08,6d6cd77a-2531-4307-9cca-9c474e932a0b,45,Alves Grande,26,Roupas,24.28,1,24.28,Cartão de Débito
+1c1fd724-8099-4650-90cd-896b909a95a9,2024-09-16,74b00045-ba02-4ee0-8d34-789b51ab5cb4,28,Araújo,47,Esportes,132.19,1,132.19,Pix
+304123cf-0cec-44f4-869b-62790674b415,2024-02-28,1d4b2b2b-9fcc-4162-aed6-d9c20b23bd59,50,da Conceição,42,Esportes,156.52,3,469.56,Transferência Bancária
+399c939a-a015-4e96-bac0-37af9caf4fe1,2024-05-06,9b85a93e-1c34-4578-85ed-1a4e1ded026c,53,da Cruz do Oeste,4,Livros,242.76,5,1213.8,Cartão de Débito
+706bd489-be09-4213-869e-83d6f5623dd6,2024-09-27,eb3bec86-358b-4a47-a127-9d9ac0d83efd,64,Vieira de Jesus,41,Roupas,74.54,5,372.7,Cartão de Débito
+e02b4b6b-a80e-425d-a4e1-905dc1360d18,2024-05-07,dfb3c2d2-59cd-4221-b4be-9458956c8e37,34,Fogaça do Amparo,48,Beleza,103.8,5,519.0,Cartão de Débito
+55546634-f849-49b3-9d03-e23455531efd,2024-06-08,223af071-a495-40bc-9aae-3efb52f56d35,34,Nogueira,45,Livros,467.68,2,935.36,Cartão de Crédito
+54b8c2a8-a1ba-40e5-8038-a35cf76aa757,2024-05-16,3f74e658-8ac1-42b4-a30c-9b7465077681,45,Campos,38,Beleza,296.32,3,888.96,Boleto
+d85f4dc5-b5fd-478c-891d-6db619a02d0c,2024-04-10,3b2ee49b-ce60-4e8f-a58b-2bbe7f741c80,56,da Luz de Novaes,26,Roupas,24.28,5,121.4,Transferência Bancária
+68e5c354-aa4b-4357-a2d2-6f29e0ac6a8b,2024-10-29,af222834-e708-4acd-ab98-2b07b19112ce,32,Fernandes,39,Roupas,275.85,2,551.7,Cartão de Crédito
+07547d98-6af5-4fe4-8d84-b74db9153181,2024-08-19,503ed5bc-adb5-40b1-a479-bb5d3cfd69b3,47,Mendes,20,Alimentos,53.11,3,159.33,Cartão de Crédito
+edda2fdf-982a-46ba-80ea-e2eea915e306,2024-04-11,4b0fd530-6941-4f0f-a959-3ac4281664c1,18,Pires,10,Eletrônicos,457.68,4,1830.72,Cartão de Débito
+30f7a029-45d2-4c3f-80f1-277a40be9549,2025-01-10,5c7ef5dd-ea67-4d01-8136-b7a0c6fbf802,25,Ribeiro,35,Esportes,282.62,3,847.86,Boleto
+09d68cf4-de73-4be9-8f31-3bd0278331e0,2025-02-14,f9a56d4f-6c06-4f3b-bd9f-5acc5bb081e8,33,Santos de Nunes,16,Roupas,167.91,3,503.73,Transferência Bancária
+8336c36c-f995-450d-844d-8be68dbb5c73,2024-12-31,984a37f0-784d-427b-9dc6-0ad7d0d0f167,62,Gomes do Galho,14,Esportes,272.71,5,1363.55,Pix
+9609eb12-6ed9-47d8-88d8-2c0e7fb08c0a,2024-12-08,da3b3ca3-f298-4638-84ad-02cef276a1c1,27,da Cruz da Serra,46,Beleza,135.55,3,406.65,Boleto
+240b51be-0ded-4b0e-ab66-32d59f71c223,2024-02-24,2dd0646e-a74c-43ef-a504-11d5275e77c3,46,da Mata,21,Beleza,28.07,4,112.28,Cartão de Débito
+ecd9c165-7051-4f9e-b5f9-0fa3bfcf0592,2025-01-23,809bef2f-ca03-497c-812b-c8c37f1cc1ce,18,Caldeira Paulista,24,Esportes,495.6,3,1486.8,Cartão de Débito
+918131c7-8426-4bb7-a80f-a1e7be3fe96c,2025-01-27,233fa88b-bfe6-4ae9-a092-7d5b94990c51,25,Cunha,50,Esportes,185.85,5,929.25,Cartão de Débito
+5c7efa92-eb4f-4375-9594-e17106fff81b,2024-07-01,1b2fea02-ff36-41c2-b929-f744dbba0b3f,24,Martins de Minas,39,Roupas,275.85,1,275.85,Transferência Bancária
+a8512142-edf4-4e7c-a06f-fc48b7dad320,2024-08-20,2a9cfe47-fa5f-42ae-81ad-2c35042527ca,39,Cavalcanti,40,Livros,427.83,5,2139.15,Cartão de Crédito
+be6892b8-550d-4e37-8eff-9f1877f5012b,2024-07-15,619ffe30-b7df-4124-bc64-c637a57c2b82,53,Ribeiro,36,Eletrônicos,189.35,2,378.7,Cartão de Débito
+60a7cd60-1f31-43e7-a792-cb1ccd887541,2024-05-04,f3a7a22e-4aab-4532-82dd-e413f404f36e,32,Castro de Minas,3,Livros,425.62,5,2128.1,Cartão de Débito
+818a9c2e-1632-4226-aa1c-fcf09a99d6dc,2024-09-29,782688c7-c41d-4e6f-8cbb-cfbfa3db93f5,20,Lima,6,Livros,372.96,2,745.92,Pix
+3040a9a4-9513-4794-8ba1-83e7acbdb612,2024-02-27,00de2362-96b0-45d3-90b0-fa9ee50fbe00,25,da Luz da Serra,4,Livros,242.76,2,485.52,Pix
+104ac9d3-38eb-45d9-9910-a1e155be3b5a,2024-10-21,a6f8a5d4-3ac3-494d-89ab-685f46e89387,63,Pereira de Dias,44,Eletrônicos,127.27,2,254.54,Cartão de Débito
+2ccdf4f0-2978-4d0c-9f65-a34868e3b8ba,2025-02-13,eed3a77a-500a-434c-9e31-8fdde5f86c36,40,Barbosa,50,Esportes,185.85,1,185.85,Transferência Bancária
+65d7d783-5387-4280-8ad9-4ae66ad5a3d5,2024-05-06,3218fe29-d33a-4299-a3db-d140cd8eeeac,26,Campos,27,Alimentos,406.38,2,812.76,Cartão de Débito
+65fc9817-fdb8-4461-8bfe-115090da5ac6,2024-06-25,941287df-3054-4dfb-9f3f-927ffcc679ab,19,Barros,48,Beleza,103.8,1,103.8,Transferência Bancária
+8b300c9b-d7cf-4ac9-aa4d-e561e1934c15,2024-07-03,db5ca971-db08-4f25-9d1e-9991f0288539,33,Nunes,1,Alimentos,220.3,4,881.2,Cartão de Débito
+417ec664-a944-40dc-9a02-0c127875389a,2025-01-29,b8ba3aa4-7d07-418a-ac34-2e9e9639b791,37,Cunha das Flores,23,Esportes,201.01,1,201.01,Cartão de Débito
+f51a7191-18b3-475a-8ed7-1eebbd458ce0,2024-12-20,00f8dd74-43ce-42f7-98d0-1129e5981a0f,42,Carvalho,15,Beleza,367.19,2,734.38,Pix
+3e5b5408-da20-4ec3-9a82-ef13e7080be2,2024-05-21,7adb2b17-ab54-4d14-802b-e1905fc3356b,29,Araújo,34,Beleza,192.75,4,771.0,Boleto
+7b391140-ac8c-40de-95a8-717702e6adb1,2024-11-19,7f92fc6e-ea22-48a1-aedb-bb36381f742a,24,Pinto do Oeste,9,Roupas,486.11,4,1944.44,Boleto
+03ea8b99-ac36-42d7-8747-8e55c88cc105,2024-07-07,ffe3b2d9-1900-48f3-8ecb-6895115f4af1,29,Pires Paulista,32,Livros,214.06,2,428.12,Transferência Bancária
+b24fa2f0-e681-487e-a88f-d8f70cbda25f,2024-06-18,59db122b-aab9-42d3-882c-5f89952001af,27,Nunes,12,Roupas,498.33,2,996.66,Transferência Bancária
+d47a72ad-46a6-44a0-8da5-51129d8854d3,2024-02-19,99f901f0-5321-47b6-b7a0-b7df7c0c3882,61,Rodrigues do Galho,16,Roupas,167.91,1,167.91,Pix
+a59e2ebe-7853-4293-a7e3-e51085e013e7,2024-09-06,af4dd1a4-4a56-4082-bd3a-3e6380e4a059,44,da Paz da Mata,7,Eletrônicos,112.96,2,225.92,Cartão de Crédito
+f3ffa0ee-7b85-4056-a629-17840027d1ee,2024-12-31,0d691c6f-1227-4f9b-aba8-01e500d6b51f,38,Silva Alegre,2,Esportes,244.18,2,488.36,Cartão de Débito
+1510f6db-34d5-4797-bf52-12738f22494e,2024-03-08,2d99972e-9aa1-4abe-95fe-57486c56a2f9,40,Fernandes,36,Eletrônicos,189.35,1,189.35,Cartão de Débito
+92efa926-c396-4319-b748-df95fb88bd05,2024-07-30,05afbf59-d4dd-4b79-b24b-ead418e0915f,65,da Rosa Verde,19,Roupas,214.44,2,428.88,Transferência Bancária
+facd71b7-bfcc-4215-8f90-83b0656ca108,2024-09-09,b67509be-07b9-41b6-a438-bac7a80c6030,56,da Rocha das Pedras,38,Beleza,296.32,3,888.96,Cartão de Crédito
+b6ee843b-051f-44e4-bcbb-498d1943a8fa,2024-08-28,5ec88a09-0009-4e60-9ab3-46f70351fa1e,60,Santos da Mata,46,Beleza,135.55,5,677.75,Boleto
+a695a9ad-5e10-4fa8-a6ad-24291506d04c,2024-07-12,ad7d12e9-deeb-4238-84b8-98d544625c12,50,da Cruz,8,Alimentos,476.04,4,1904.16,Boleto
+16f9c12e-d3c6-43d7-ad01-e8c886c08703,2024-12-13,8df78a21-77ba-478c-9dfd-8be6201a27c1,64,Jesus Alegre,29,Esportes,363.33,2,726.66,Boleto
+acce8c99-a011-453a-a998-d6f56cc39fb1,2025-01-01,bf463d9f-1a3e-47d5-b01d-8410e80b25e5,35,Azevedo,43,Alimentos,255.56,3,766.68,Cartão de Débito
+3d5a125a-60da-4502-b968-fd24341fb8b1,2024-06-02,f6896610-a547-48c5-8ec8-b4c5f930ed78,53,Nunes,23,Esportes,201.01,1,201.01,Cartão de Débito
+c96e7735-3db8-4cb4-84a2-81b881c1244c,2024-09-20,2528c60c-a7c3-4ccd-bcd4-0975bdd38300,31,Lopes,25,Beleza,349.23,5,1746.15,Cartão de Crédito
+51219516-0849-4dc9-ae7b-96d01e2c5cc0,2024-06-02,a18b1762-cdd2-4bc7-bc5e-ebc0d3402e54,21,Costa de Martins,32,Livros,214.06,5,1070.3,Cartão de Débito
+e6238214-b546-42c0-a50f-98ca17c95786,2024-04-14,70e007f4-2ae0-4f62-a14d-455c12fb2b60,33,Nogueira Paulista,22,Eletrônicos,22.63,1,22.63,Transferência Bancária
+328aaa08-f6e7-4f35-b351-d0c58b7daedf,2025-01-11,bde25619-c743-45be-9451-75f60903aa5f,60,Vieira,29,Esportes,363.33,4,1453.32,Pix
+00b8dfdb-bad6-4874-a3a8-c722f55e5ac6,2024-05-07,487333c5-2a8a-46e8-ae9c-d410aef56866,29,Ramos de Silva,38,Beleza,296.32,3,888.96,Pix
+b57d9172-96ef-4335-b4ab-351cca95e399,2024-04-12,64f88187-6236-4c48-8fd5-4ca766be2618,25,Aragão da Praia,3,Livros,425.62,1,425.62,Pix
+1de2c857-710b-4d05-848c-ecfa638fd40e,2024-12-01,e1e13339-b1e8-4f89-b4f4-d7343eaa6757,28,Alves,39,Roupas,275.85,4,1103.4,Pix
+bf37b6af-c483-4745-a7e1-98a0e9e73bdc,2024-08-11,47d3da7e-e4bf-4122-906d-088668447b7e,43,Teixeira da Prata,13,Alimentos,12.53,2,25.06,Transferência Bancária
+a76eb2bc-168e-44c7-97d0-2948f586054f,2024-02-29,da738021-95b6-4ec2-8bd5-9e6ffb1e187c,18,Pires,10,Eletrônicos,457.68,2,915.36,Cartão de Crédito
+2f288e4f-9c22-4d65-a419-924fdfd2ea8c,2024-02-22,7871f856-9a79-4e64-9cb4-3589c44bd581,41,Campos,49,Eletrônicos,368.59,5,1842.95,Transferência Bancária
+1582bf82-4e01-4744-aa7b-0827f0f88443,2024-04-27,df86e7e9-2c91-41a0-b99d-1589473a1f2b,23,Monteiro das Flores,40,Livros,427.83,5,2139.15,Cartão de Crédito
+e4b64b98-8e7e-45d9-808d-c4e2e1a2e1c2,2024-08-06,e073b012-035e-44ac-b580-beccf157241c,29,da Costa das Flores,25,Beleza,349.23,3,1047.69,Transferência Bancária
+05a9dadc-0381-4ff7-89e7-4b6f67caff7a,2024-11-23,9748203a-ab3e-4733-a202-9f4bba82c9e0,24,Campos,29,Esportes,363.33,1,363.33,Cartão de Débito
+a17068fe-b371-44b5-82e4-496ad7aa8b6c,2024-07-25,0f1d578d-7a48-45e2-9002-a74735b7636c,55,Martins,16,Roupas,167.91,2,335.82,Pix
+caa2e022-03f9-4600-8960-2e3610051b4b,2024-07-21,b6b391cc-13fe-445f-aaf3-b33b15f05d45,48,Gomes,30,Beleza,421.37,4,1685.48,Cartão de Débito
+021483f7-b4fa-4606-a688-8bf52ca4bb20,2025-01-02,48625eb1-5763-4067-aef5-289d904f6edf,63,Lima do Norte,18,Roupas,56.53,5,282.65,Transferência Bancária
+6a1ea61f-ade6-48e7-8fd7-670589872ddf,2024-10-25,f240d7e9-e95b-41dc-8208-63ff9eca1504,18,Araújo de Vieira,4,Livros,242.76,3,728.28,Cartão de Crédito
+9fe2424c-647d-450a-b679-049e78035d83,2024-11-17,d2e5aca4-9c59-4794-9faf-ddcd2aeaedd8,19,Rezende de Farias,6,Livros,372.96,1,372.96,Pix
+21bbba5d-7e09-469e-9603-e8807ac0da1a,2024-04-16,21b505e6-7e85-4946-b759-0eb9ce85f15a,49,Teixeira,3,Livros,425.62,2,851.24,Transferência Bancária
+5125e933-663c-45bf-9ef5-288bf8a6bc76,2024-04-26,79f26b12-c2e9-42de-a508-f11bba22966f,22,Freitas,40,Livros,427.83,4,1711.32,Cartão de Débito
+71d6dc50-ec18-4200-ab79-67b9fef21ab3,2024-04-19,4599653d-d842-486a-83b9-e23df940b957,65,Ferreira Paulista,34,Beleza,192.75,5,963.75,Boleto
+6359c5fd-17ce-40be-ad31-a78fe8db4e84,2024-11-07,4731882f-caa0-4ab5-82a6-0cf29d61729e,45,Pires das Flores,32,Livros,214.06,3,642.18,Cartão de Débito
+43a7830f-3c90-4d04-8ae6-8c696bbb2b21,2025-01-24,921bb8e9-a2d8-4a06-a368-9281d471236d,25,Rodrigues das Flores,19,Roupas,214.44,5,1072.2,Cartão de Crédito
+71e5753f-0c64-45b0-a00b-4ecdec3d538b,2024-04-11,9aea741d-2231-4790-9654-6823515fdef3,31,Freitas Verde,22,Eletrônicos,22.63,2,45.26,Pix
+edbaa1c1-b6b5-4452-b76f-4a4922aa5f51,2024-12-27,3946973c-e119-4881-b220-4ead99690e87,47,da Cruz,15,Beleza,367.19,2,734.38,Pix
+0c4e447f-ec37-491d-9117-103552f675a9,2024-06-09,6226075e-3cdd-4646-a0ba-832632a31e28,21,Rodrigues,42,Esportes,156.52,2,313.04,Cartão de Crédito
+d2fa0ed3-9c4c-46aa-8d46-8128233cb07a,2024-11-20,4214942b-b842-4fb5-a15a-0b861e14d45b,22,Farias,50,Esportes,185.85,1,185.85,Cartão de Crédito
+9664e675-38de-4ad2-b5e3-2888385866ea,2024-09-07,a77de625-4b99-4e59-83e4-a92397c48498,48,Araújo,36,Eletrônicos,189.35,1,189.35,Cartão de Débito
+02242716-486a-4559-9f7d-ad5367a25212,2024-10-11,fb2506c0-0938-4d0e-add0-91b0d0c01e80,33,Rocha,38,Beleza,296.32,4,1185.28,Pix
+7ede8069-372c-4029-be3a-98d077f299f4,2024-05-16,b52fa6fa-359f-4311-94f0-3c38efd0fde5,48,Pires,42,Esportes,156.52,5,782.6,Cartão de Débito
+f01f8d60-a2db-43a8-84b6-13ddcc261f66,2024-08-11,1b7f2093-140d-419b-8cdf-fb7fb9204e79,50,Lima,30,Beleza,421.37,1,421.37,Cartão de Crédito
+6da56468-8d8f-4619-91ae-a9328df60934,2025-02-07,9ec04ebf-54ac-4ed3-ba1a-5e0da00dc219,51,da Rosa,50,Esportes,185.85,5,929.25,Cartão de Crédito
+f4923015-6701-4fb1-9c83-90447aa499d0,2024-11-10,50a66509-3f1d-42b8-bd5e-40f7a5e25b76,64,Rezende,31,Eletrônicos,35.3,1,35.3,Transferência Bancária
+c4d9ac70-ea57-4bc1-ab7e-017924322591,2024-12-26,30a4c925-df60-4054-9f8f-27f03d41d2fd,63,Castro,33,Roupas,203.62,3,610.86,Boleto
+c6968886-e9f2-467a-9c2c-733b1b378060,2024-07-09,70636b02-8193-45e8-82b2-1bc12d29aca6,28,Freitas Verde,9,Roupas,486.11,5,2430.55,Pix
+94d4e41d-9860-40dc-bfdb-2eeda09dc994,2025-01-27,bbe752f9-71c3-47f4-9791-3433d32a24e4,39,Barros,11,Beleza,116.28,3,348.84,Pix
+4856dffe-56e4-4195-8399-948bf0e04c3b,2025-01-16,6f85706a-75b3-4176-95a2-55124938f6ed,44,Souza,7,Eletrônicos,112.96,1,112.96,Boleto
+a9701a62-3ce9-4533-aeec-944c8dd881be,2024-06-01,54bc2569-86a9-40c4-9cdb-472da3c5c2cc,57,Freitas,20,Alimentos,53.11,4,212.44,Boleto
+e9f91f71-dfc8-4f62-8e77-105978aa26a6,2024-06-09,63b9a74e-317b-42ae-80d2-9cea31093c41,41,Nogueira,29,Esportes,363.33,3,1089.99,Cartão de Crédito
+69cd4839-dc85-4eee-923f-71d25d60062b,2024-05-11,d2524db4-546a-4e1f-bd15-355631c3b311,30,Cardoso,34,Beleza,192.75,4,771.0,Boleto
+e9f67993-687e-48f7-b66c-fba4b0d4349f,2024-03-22,1b7e224c-a5ee-4a9e-b262-c9bc5af0c0ed,50,Gonçalves,21,Beleza,28.07,3,84.21,Cartão de Crédito
+031cbc76-cca4-400f-83f2-9cbcf550bfac,2024-06-14,5377f4e9-e9cc-413f-b379-de92f0e6930c,29,das Neves dos Dourados,23,Esportes,201.01,3,603.03,Boleto
+139a81c0-39bd-4948-9bdf-d015236167b3,2024-03-04,1c6a4496-f7d8-46fa-b307-9e1e6e3fd1f2,31,Barros,7,Eletrônicos,112.96,4,451.84,Transferência Bancária
+bd377ce5-3fd5-4e8e-9f38-a0f4306fded8,2024-03-16,3b5be3e2-bcfd-4796-beac-a4f3a7cd9d36,40,Jesus de Goiás,39,Roupas,275.85,4,1103.4,Boleto
+6e26d500-8abc-499d-ae71-8a49c8bc3679,2024-11-14,eb3dd6c1-1e12-4321-ab5d-eb9c6e1136f5,45,das Neves do Galho,32,Livros,214.06,4,856.24,Pix
+2b93f30c-6096-494a-b7d1-c7333c7a99e5,2024-04-02,2c66ed2f-7495-45f3-b8c2-33766fcb8cde,22,Oliveira,32,Livros,214.06,3,642.18,Boleto
+e0187e01-02cc-4171-88b8-b9e734e9cdc6,2025-01-15,908e1d36-ff87-434a-af2e-bbce2e5a06d8,34,Jesus,16,Roupas,167.91,2,335.82,Cartão de Débito
+299d5a43-fd8a-4ed3-bad7-aca4f4f30d94,2024-12-13,ff2eaecf-3b16-4b3d-ae50-88cf14fac938,56,Cardoso,7,Eletrônicos,112.96,1,112.96,Cartão de Crédito
+608cbfd0-9f5b-464b-82b1-a7cd29af2123,2024-05-20,b99ec70c-b9a1-4862-a75c-1d3456530de2,55,Duarte,29,Esportes,363.33,2,726.66,Cartão de Débito
+ffd047ba-9c7e-4c4f-af00-f913f0b52993,2025-01-16,638722f6-8d62-471a-9305-1b6b42819451,44,Viana,11,Beleza,116.28,3,348.84,Cartão de Crédito
+4d1fd9e7-55e2-4347-8d15-6a94918af26d,2024-05-23,48d38bc9-ff1c-4ce4-83dd-1eb11ad02bc6,19,Alves,30,Beleza,421.37,1,421.37,Pix
+a3eb9680-0697-4bec-b777-84b0c5978841,2024-06-06,bad88b44-fef6-4782-bca7-0a85cae95dee,58,Nunes de Aragão,42,Esportes,156.52,1,156.52,Cartão de Débito
+45bf76d0-7a5e-4ce5-a86b-15ba0697805c,2024-12-22,d73e4a31-a477-4e74-9485-8efe8f7976db,21,Rezende,7,Eletrônicos,112.96,1,112.96,Boleto
+046a1d7d-1f27-469e-8850-2450ba3cd205,2024-03-10,66435231-c2e3-448b-8f74-d24f44d25c08,65,Moreira,38,Beleza,296.32,5,1481.6,Pix
+2f2b3a56-bad6-416b-951c-5a340013242d,2024-04-01,dda93807-8e46-4e03-a6df-4964c11f1c94,55,Peixoto,29,Esportes,363.33,1,363.33,Transferência Bancária
+55d30b39-b6dd-41d1-b167-3c4ed0097379,2024-05-25,4667a6c4-4068-4d5c-9d2b-6c7851a926cd,25,Farias,13,Alimentos,12.53,4,50.12,Pix
+c0da900b-ed1f-4a1a-9709-6826c1f731cc,2024-08-28,74cb04dd-5339-4ea5-bf7a-3293b2f0f642,58,Pereira,40,Livros,427.83,5,2139.15,Transferência Bancária
+d17544b9-163c-4f6f-a454-0d9e98801fb1,2024-04-16,44cf9085-a44e-4a90-8ddf-e66bd506936e,51,Fogaça da Serra,1,Alimentos,220.3,1,220.3,Pix
+7968b879-6e39-4f31-b728-2d853efd59ab,2024-10-04,99be9c64-fb29-4b8e-a0c6-0680cc3b1f18,65,Cardoso,7,Eletrônicos,112.96,2,225.92,Pix
+cd00a86f-e871-49ed-884a-6c8318b7215e,2024-10-02,9a4087da-b138-43fd-ac31-06a7b06ade7b,50,Dias,26,Roupas,24.28,2,48.56,Boleto
+b47c66b7-3db6-4b40-95d8-1115784187cc,2024-09-12,54fd2f13-dca3-4781-9a21-7e24c4c1a7c8,41,Jesus,6,Livros,372.96,4,1491.84,Transferência Bancária
+b401f1e2-e51d-4553-add7-88f3603b338f,2024-12-21,67cd5ef9-f41c-440c-b61d-b5f5b845829e,53,Pinto do Campo,25,Beleza,349.23,5,1746.15,Boleto
+c3e7cef6-7378-4898-a752-bd8a8ea0720e,2025-01-09,c091cf43-6b2b-43f1-9bcb-22ebd76f3a04,24,Silva,31,Eletrônicos,35.3,1,35.3,Boleto
+7824229d-0e49-40c0-8730-ccb66ec4f93b,2025-01-03,cca665ad-98b8-4197-80ca-79dea8f7b1df,24,Monteiro do Campo,19,Roupas,214.44,5,1072.2,Boleto
+d723569f-938f-406c-a10d-90dfd816261b,2024-09-29,d5ad8bd5-ced6-4dde-ae41-af8272cdf09b,53,da Conceição,17,Beleza,223.41,5,1117.05,Cartão de Crédito
+e05b93c3-e3c7-40f1-9cd7-e269b9cc478c,2024-08-26,8e20d62b-4ea0-4f92-b57b-8616398fb6ba,45,Gonçalves de Cardoso,18,Roupas,56.53,3,169.59,Transferência Bancária
+7ba43240-66e5-40b7-a709-11f2b56b2446,2024-03-05,890e79e3-05ec-4c8a-b3e9-c5129d6dbf9c,64,Moraes de Minas,23,Esportes,201.01,3,603.03,Transferência Bancária
+93577a52-4141-4749-9a9f-bcd1f2355cfc,2024-11-10,fdee8bb9-2192-4c44-8c04-c5f9b71f2ec0,65,da Cruz,40,Livros,427.83,2,855.66,Cartão de Débito
+fa308abb-f31c-4dbb-8eba-fec823d9d159,2024-08-08,d9d9da18-61dc-4d21-9a95-c22f9f99b697,22,Santos,14,Esportes,272.71,4,1090.84,Boleto
+f20bdfa6-4c21-4d64-af7b-f1fe255c22f4,2024-05-31,f37a9736-9722-42b5-ad36-b938c6e2c3eb,50,Martins,37,Beleza,244.22,5,1221.1,Cartão de Débito
+3adedfc6-941b-450a-9c1d-4a8566733111,2025-01-09,c2a80d98-30f5-4d65-aafc-ad79ccaa3138,31,Campos,26,Roupas,24.28,2,48.56,Transferência Bancária
+37fac5da-32e7-4616-8f56-35b669c48d43,2024-03-28,4c637753-2f99-4447-b47b-588548793671,52,Costa de Campos,20,Alimentos,53.11,4,212.44,Transferência Bancária
+43080cc2-15f6-4ccd-9118-bd9e95fedc75,2024-10-17,0ccddf32-d4d8-462c-bc4a-76a738ec94df,33,Cardoso,40,Livros,427.83,5,2139.15,Pix
+c804fc1f-6828-4822-b94a-c8a6508501ab,2024-09-04,34f53997-805f-478c-aebd-13250972de63,32,Araújo,44,Eletrônicos,127.27,3,381.81,Boleto
+44ceba03-d626-4e72-841c-1a2d755a0290,2024-11-13,3973ea80-1d7e-473a-b830-0980b85e249c,54,Aragão,21,Beleza,28.07,3,84.21,Boleto
+c37efbbd-0235-4539-a797-5fe1976b8cb0,2025-02-13,7206b9ee-ecbb-454d-bf80-288bff70a6c4,51,Lima,8,Alimentos,476.04,2,952.08,Transferência Bancária
+68ab63cb-0d8d-4df7-9dc7-b217387b0dbd,2024-02-18,bfe178a3-223e-4f31-b117-bba3e6fa2ec7,49,Fernandes do Galho,36,Eletrônicos,189.35,4,757.4,Boleto
+cb7e25d4-3c50-4f01-8c76-e7f40eb60329,2024-09-27,d1758fba-9be3-4ea7-a0c4-789d8e29d1e8,27,Aragão Paulista,27,Alimentos,406.38,5,2031.9,Cartão de Débito
+776ef481-f34f-41bc-b3c7-2d7bc8ba8e2e,2024-12-01,4ee49787-d590-4390-88a3-7cc34989f4ba,22,Silveira,25,Beleza,349.23,1,349.23,Cartão de Crédito
+24359cf8-8e1f-4bfe-9b6d-0213ab31dee6,2024-09-21,8f550549-fe8f-4f60-873a-946455feee3a,40,da Mata,39,Roupas,275.85,4,1103.4,Cartão de Crédito
+cd66b843-4eaf-4173-8d7a-fad7ee7700f2,2024-11-30,355b6352-156f-4460-b41a-c69fd4e15bcb,46,da Conceição,48,Beleza,103.8,2,207.6,Pix
+1c0e0a0a-fd16-4b60-8721-85b885498c75,2024-10-12,cf0bdcb0-47f3-4478-b7cb-fbc60cbd216b,28,Cunha,37,Beleza,244.22,2,488.44,Transferência Bancária
+4cae62fe-0bf7-42b3-8bf7-86026de6dddd,2024-04-17,ba4ee923-0809-4380-88b1-4ab5a69493b4,47,da Costa,14,Esportes,272.71,4,1090.84,Transferência Bancária
+fff34d78-c44e-410c-86cc-b92f9e410aac,2024-03-03,0792af2f-5ef9-4d5e-8826-d420004e446d,33,Castro da Mata,3,Livros,425.62,4,1702.48,Boleto
+93e88ba9-c6af-401d-8f3f-9700fcab4131,2024-05-09,49c85d93-ed68-47c9-be2c-dda6045984b4,19,Moraes do Amparo,13,Alimentos,12.53,1,12.53,Cartão de Débito
+2b122842-2339-4275-8bb0-053bdc615dd1,2024-03-21,6a4132d1-b273-4a81-b8a3-25b30ab3391b,24,Pereira,35,Esportes,282.62,2,565.24,Cartão de Débito
+71e33fa0-1619-4e80-a1c7-89ec5aca1cfc,2024-11-06,a5fce7c9-b3c7-43ea-8a2e-94b3d22b24c8,37,Oliveira,48,Beleza,103.8,2,207.6,Pix
+187e72e2-9dc1-40da-b147-033542a91022,2024-04-06,d20ca502-f2a1-4e09-8f19-4743ca1572be,51,Sales Verde,50,Esportes,185.85,5,929.25,Cartão de Débito
+a25c7b90-b861-4eec-b222-c774860ae52e,2024-06-27,b5c548b4-d91f-4123-8fc7-7ee9f9ada2ef,35,Santos do Galho,13,Alimentos,12.53,1,12.53,Transferência Bancária
+0e0936b4-7a56-43e2-bd46-3e253ef61935,2024-08-20,bc20230f-433a-4593-bcf5-e8937ef1e01a,24,Azevedo Paulista,4,Livros,242.76,4,971.04,Transferência Bancária
+6b23d763-db73-4840-b3ff-55c6249396d8,2024-06-04,a3af0195-bfd7-43b8-ad52-e3ae2df58405,48,Melo,30,Beleza,421.37,3,1264.11,Pix
+9752691f-a3ee-424f-a535-97b3ab4e2a3e,2024-11-29,ab3ebaba-534a-4fbd-941d-532f23b95dce,62,da Cruz de Minas,16,Roupas,167.91,5,839.55,Boleto
+3e9b95ba-a3a9-4eab-a08c-1f089e211542,2024-12-21,57a62568-3988-4a46-ac90-4d42117ff158,22,Ribeiro,29,Esportes,363.33,4,1453.32,Transferência Bancária
+d29db2ad-3576-49ef-8e7b-13b54f03f688,2024-12-10,74a80e1b-7392-40e4-b536-9f5ed1f74397,55,Nogueira de Souza,25,Beleza,349.23,3,1047.69,Transferência Bancária
+919d84c3-67ce-4666-8286-b20428e7de38,2024-04-07,1d18c1ba-1c5f-43bc-9858-6df4cd976daa,45,Ferreira,8,Alimentos,476.04,5,2380.2,Cartão de Débito
+2f3cb72b-c04f-4834-83f7-d00f2c9b9be0,2024-08-13,16110edc-351b-4b26-b012-57d2c760e879,50,Ribeiro,21,Beleza,28.07,4,112.28,Transferência Bancária
+ffb7fc1e-763a-4c04-89f9-6f500a38211a,2024-07-16,77e8242e-858e-46ef-825c-617a79b250b6,25,Melo do Norte,21,Beleza,28.07,4,112.28,Boleto
+4861182c-b096-422e-9386-49a2edf321a4,2024-06-29,8f2af62a-9eea-4ddf-8118-f7c64d057af1,40,Pinto do Oeste,27,Alimentos,406.38,4,1625.52,Pix
+6562858d-2c39-45e7-be8e-1e3826ce768c,2025-01-03,6d70dd2c-bc51-4c46-af08-c244edd1be8b,38,da Cunha,2,Esportes,244.18,5,1220.9,Cartão de Débito
+5e77566a-a549-4e77-9bab-dcd0c88b46da,2024-05-31,5bf35f95-b6ff-4074-8a47-1196691757e9,58,Oliveira,35,Esportes,282.62,3,847.86,Cartão de Débito
+673b2033-3140-4352-aae7-1ee22acd5af4,2024-09-07,919ee34c-9407-4801-a27e-f8c112f16845,65,Rodrigues de Minas,15,Beleza,367.19,5,1835.95,Transferência Bancária
+5fffd7c2-0a23-4f92-abac-87b961e3141f,2024-04-10,6236b61c-55c1-4d7f-a385-3f5d3f097a5c,37,Jesus das Flores,31,Eletrônicos,35.3,1,35.3,Cartão de Crédito
+c99ca07b-2117-4060-a3a1-5bf07768266f,2024-06-24,4b8d990b-e512-4870-b31b-92c7d3eaff1f,24,Barros de Monteiro,49,Eletrônicos,368.59,5,1842.95,Boleto
+ed22bbcd-3d2c-4a30-abb0-8bdc2cb9e8bb,2024-05-10,6a0a00db-3d05-40e2-b800-6a80e1e95657,22,Sales de Peixoto,45,Livros,467.68,5,2338.4,Cartão de Crédito
+4b1199d2-e4c9-4bab-a7ec-6d98f96e3c81,2024-08-24,c17e5c22-68e4-42b5-ae6c-c1694f5cc95c,24,das Neves do Norte,39,Roupas,275.85,2,551.7,Cartão de Crédito
+90cfc144-005a-4df2-8d18-ab32e8e078ec,2024-05-27,fb7d45e9-1d1a-4e32-8430-c8d7c431bc86,34,Barbosa,23,Esportes,201.01,4,804.04,Transferência Bancária
+6189d663-2d89-41fc-8b84-5951977dd10d,2024-06-01,3e5af3b2-b4f7-4b19-a674-0a2d0faf2502,51,Gomes da Serra,15,Beleza,367.19,4,1468.76,Pix
+91376fe0-82ed-441a-adc6-acc9345225c4,2024-08-06,bc013182-e254-41b7-8fcf-113494c88d8d,51,Vieira,6,Livros,372.96,3,1118.88,Cartão de Crédito
+c536d116-2ae2-4fc5-ace6-7e3ad502aba4,2024-12-08,1797b0fa-e952-4f35-88b0-a7587598d98f,37,da Rocha,4,Livros,242.76,3,728.28,Transferência Bancária
+9dfbc2fe-49f0-4c82-a2ba-6fbd2ff383b5,2024-09-23,1843d529-ee39-453a-954a-5a3aef7e31d2,32,Nunes,40,Livros,427.83,4,1711.32,Boleto
+f7433af6-b15e-4b7f-a050-6721e3eac99f,2024-10-19,86294924-4321-4126-af84-255d46eda068,35,Cardoso do Oeste,21,Beleza,28.07,5,140.35,Cartão de Crédito
+ee77dbdc-2a91-4da5-9d31-ce287aa610ea,2024-12-02,726599bc-c16b-4eea-9e2d-b2cc650543a7,53,Barbosa de Fogaça,48,Beleza,103.8,1,103.8,Boleto
+9f2732ce-93ca-41f1-8fec-d5a7f92e27d1,2024-11-20,e483043d-ffd8-4115-a800-9cbd5f7ded89,50,Ferreira,39,Roupas,275.85,4,1103.4,Cartão de Crédito
+4295349e-2912-4ea5-ad2e-6a8d34fbb9be,2024-06-20,d29776f9-001e-417f-84bb-dbbc04bcc589,26,Gomes,1,Alimentos,220.3,4,881.2,Transferência Bancária
+70b7ce41-878d-4a37-ac0a-4a2b44ffda1d,2024-10-20,0a4cb33a-cf94-4418-af73-8f5906f21bab,37,Moraes,16,Roupas,167.91,5,839.55,Cartão de Débito
+eae5a405-2ab4-4bb9-a965-acd98023360e,2024-03-10,0648ad9a-8d27-4789-ab55-033b40ca140c,31,Pinto da Prata,38,Beleza,296.32,5,1481.6,Cartão de Crédito
+acfc1232-83cd-48a1-be06-3a3fd4e2571c,2024-03-27,0be5f623-e916-4515-ade5-14b2cd982c3c,19,da Mata,41,Roupas,74.54,1,74.54,Cartão de Crédito
+9f03d0cc-ebb5-400c-93ec-61b94ca70509,2024-05-27,af392e73-974c-4e6e-b4fa-4ff2d093c183,22,Rezende de Sales,26,Roupas,24.28,4,97.12,Pix
+35a2a34c-131b-4df0-aa7c-b013679777de,2024-08-19,36555634-7758-4394-a56e-1a7c6fe3b31e,27,Alves,13,Alimentos,12.53,5,62.65,Cartão de Débito
+c71c5f6a-c3c0-4182-8402-896db36573e0,2024-12-25,57791278-86a7-49b8-bc74-31d6500a0503,62,da Mata,44,Eletrônicos,127.27,2,254.54,Cartão de Débito
+91a5836e-059e-475c-8872-a2b1080dad9c,2024-05-29,8a9bd19f-a243-4eb6-9e08-dc1b4bd92285,54,da Luz,37,Beleza,244.22,5,1221.1,Transferência Bancária
+070e614a-4657-4b16-a2cf-e409021040fb,2024-04-15,32d65d22-ed1f-4796-a6b2-8fc565a9fcd7,59,Monteiro,15,Beleza,367.19,1,367.19,Cartão de Crédito
+85a4fa99-0462-4358-baaa-a55e013e15fc,2024-08-30,4c91acb0-2194-418c-8280-a7b93062a495,63,das Neves do Sul,39,Roupas,275.85,5,1379.25,Pix
+5a8b0efe-be47-46ff-b0cb-dd6b8e09e439,2024-10-09,a27ad1d1-7cc5-419b-914d-eeb879e7af29,18,Barbosa do Amparo,18,Roupas,56.53,4,226.12,Transferência Bancária
+291c62be-eddb-438c-a79a-9d5735bf2175,2024-11-28,78667b2d-5e89-465c-b83b-c4e51bd742b7,39,Nunes de Vieira,33,Roupas,203.62,1,203.62,Transferência Bancária
+458113eb-a303-4fe7-a681-32be6f700bf0,2024-06-14,69afd70c-0aa5-44ec-9b7f-515582afae04,20,Nogueira,26,Roupas,24.28,5,121.4,Transferência Bancária
+c08e07a5-fdfc-4fb8-b6f1-9ec96ce8dded,2024-10-26,d947ddb2-4a58-4e07-968f-c7d932b7fcc5,65,Ramos,1,Alimentos,220.3,3,660.9,Cartão de Crédito
+4dba8cbc-91a3-4277-a841-03114369126e,2024-06-16,37d5bae1-23f6-4d7c-93bd-e6a696b1a632,19,Fogaça,3,Livros,425.62,1,425.62,Pix
+c481223a-bda0-4ec1-92ac-64bb5ba7ce0e,2025-01-25,411f6c84-0dcb-46bb-9951-2fb7e671c379,63,Duarte de Araújo,48,Beleza,103.8,5,519.0,Transferência Bancária
+5c6d7b50-3719-4c00-97f2-48f5fdc52fb9,2024-04-02,38a6ac9b-0c86-4d3b-b0e8-daddbe5272b0,30,Farias,13,Alimentos,12.53,2,25.06,Cartão de Crédito
+a662e2b1-8d8d-4cb5-86a9-032c622c2c8d,2024-06-16,9536372d-0954-4db2-99d3-69654a8145bf,64,Mendes,27,Alimentos,406.38,2,812.76,Transferência Bancária
+6f5a9a01-6b3a-4fba-9520-233755eaebc2,2024-03-13,9acb9495-731f-40a7-bf7c-8abd4ad204ce,30,Cardoso de Viana,9,Roupas,486.11,2,972.22,Transferência Bancária
+e0942787-5d64-4f46-9eea-8db6489c91fb,2025-01-07,8ea8856e-6f4b-41ad-a6d8-89fdf1d96021,25,Pereira de Freitas,2,Esportes,244.18,5,1220.9,Pix
+805ddbe0-63b1-465e-81f5-0e7dc22c97d3,2024-03-14,267a4422-b0bc-4410-b517-cfd923e837ee,64,Moreira de Goiás,48,Beleza,103.8,4,415.2,Pix
+b56f158e-754e-40e4-b638-8a2c63ef06af,2024-03-24,deeb4e85-ba68-419e-9bcd-148cfa5c7be8,57,Pereira,15,Beleza,367.19,1,367.19,Transferência Bancária
+483e0dc5-8f0b-4940-b16d-a261d9fa3a48,2024-10-17,bcd48cca-fdef-4924-8ce3-1aa26479e523,59,Lopes de Sales,44,Eletrônicos,127.27,5,636.35,Pix
+aed29e04-17c3-46e0-8e9a-42db7c45497f,2024-12-05,bbc2a638-f79e-42b7-bd53-e185f08d31df,27,da Costa de da Conceição,42,Esportes,156.52,3,469.56,Pix
+f663dc0c-bc17-44de-8d38-ca8284725d95,2024-11-08,155ed9b3-1857-499e-8be8-8287edb93e6f,47,Porto do Campo,6,Livros,372.96,5,1864.8,Cartão de Crédito
+16c89487-3a1b-45c9-b716-818e4ad1b140,2024-02-26,0674b3f5-127b-4eb0-8eb2-29c005f7f8bd,24,Jesus,49,Eletrônicos,368.59,3,1105.77,Transferência Bancária
+bb7a04ad-65ae-4540-aaba-b7aed1b72cd4,2024-10-13,88ca1b04-5a33-41ea-b58f-d8d5c38a8a2c,65,Barbosa do Oeste,39,Roupas,275.85,4,1103.4,Cartão de Crédito
+a3c7dd99-cea9-4487-9a6c-4940e707befb,2024-04-09,79be83f6-83a4-4431-ae2a-067cd9177216,31,Fernandes de Goiás,40,Livros,427.83,4,1711.32,Cartão de Crédito
+321eff25-4fe0-48c2-8ac2-1bc2a9d73395,2025-01-22,4970e8ef-70fd-479c-8cee-3758c23f9387,37,Vieira da Praia,20,Alimentos,53.11,4,212.44,Cartão de Crédito
+3f9f2e2e-a90a-45ab-a2bb-e6c3e8c7018e,2024-04-22,781b36b6-67ce-48ef-8f25-de7ec527510a,29,Viana de Barbosa,49,Eletrônicos,368.59,5,1842.95,Transferência Bancária
+2e9d9692-9ec8-4cce-a2ca-560bf4eefa1d,2024-10-14,23e57709-0b66-48f0-ae76-bd40aea6de5e,23,Nunes,21,Beleza,28.07,4,112.28,Cartão de Crédito
+cd0d6038-3110-4880-84d9-aae454e060e3,2024-10-30,e1662bb5-6fa3-4a48-b151-2967de916f5c,52,Carvalho,5,Beleza,16.78,1,16.78,Boleto
+2e57526b-1827-41c0-a483-cec960e4ac18,2024-11-15,3658256d-3e5c-417a-b4a1-4d300523c73f,24,Ribeiro das Pedras,44,Eletrônicos,127.27,3,381.81,Cartão de Débito
+0bfabcea-64d7-4bbd-95e1-08ba8b03c9a6,2024-02-24,6867d439-185e-4fb1-87cf-766c13e16070,31,Fogaça,49,Eletrônicos,368.59,5,1842.95,Pix
+f3018e76-1a10-4629-bacc-2732dd5405ec,2024-08-19,cc2cb918-a190-4647-bf6d-414cfb549713,57,Lopes do Galho,42,Esportes,156.52,4,626.08,Pix
+2086195e-a017-4019-a43b-53b64b34a541,2024-11-02,a0ca2255-7cf2-4432-84e9-71d2597ca388,31,das Neves de Aragão,26,Roupas,24.28,3,72.84,Transferência Bancária
+1c5e5b01-e095-480e-a972-fcaaf112de38,2025-01-10,b3db09d6-fd85-4423-89d3-ad695932bca0,59,Nogueira de Dias,25,Beleza,349.23,3,1047.69,Transferência Bancária
+7b750f91-e444-4bb8-a44e-a30ba8b81685,2024-04-22,494b09e6-a5b3-4d5f-9203-1a0f126b52b6,60,Araújo,32,Livros,214.06,4,856.24,Boleto
+dfde06f8-b907-4480-bdbb-ad8f834652ad,2024-10-02,84400a95-7031-4fa9-abc6-534edaab848e,55,Pereira,46,Beleza,135.55,1,135.55,Transferência Bancária
+a53e8003-0ba8-48f6-9ca0-6ff0a076adc4,2024-06-08,04da4210-7636-4fba-a7df-045e0f4dec2a,63,da Cunha,44,Eletrônicos,127.27,4,509.08,Pix
+69f4e583-3021-4d18-a3dd-391af864ff28,2025-02-09,2b465138-3af0-43f0-9bf7-d49c07ec78de,51,Aragão de Porto,30,Beleza,421.37,5,2106.85,Pix
+7ad06739-2fca-4060-bc26-26228f4ddda5,2024-08-04,caa45167-d77e-468d-8b59-6f5d7e3c8edf,31,da Rocha da Serra,31,Eletrônicos,35.3,2,70.6,Pix
+e4474742-d5d3-44de-b571-79ca6d9a6db4,2024-10-13,4301a949-6ed3-4559-ae7a-1089a18cdd17,35,Nogueira,22,Eletrônicos,22.63,4,90.52,Pix
+ffd50b07-2ac4-4ca1-8dcf-b9324f0155f1,2024-11-03,b771de3e-e286-48a0-a0e2-c7f383fe7132,30,da Conceição,32,Livros,214.06,3,642.18,Transferência Bancária
+50d01969-d6e9-4e48-862a-2e315067c010,2024-09-16,fa2cecd4-46ea-4744-88cd-7ea6eb3d75d1,36,Monteiro de Mendes,11,Beleza,116.28,2,232.56,Boleto
+96ecc4dc-d136-44b9-a65c-375488d275ca,2024-11-10,8a915c3d-6610-4867-a0a5-9916436345d2,65,Dias,16,Roupas,167.91,4,671.64,Transferência Bancária
+7dd3e69f-5165-4e1a-9e54-5096f8f45402,2024-03-07,44ef6062-443b-448a-89ea-123cc97cc658,44,Souza,33,Roupas,203.62,1,203.62,Boleto
+777386b8-7519-4cde-a7f1-d3dfb5d045f7,2024-03-18,439cbdd9-ca39-49d9-b30c-0a741c052e5b,29,Azevedo Verde,30,Beleza,421.37,3,1264.11,Transferência Bancária
+14cacf8d-8e68-4f50-8047-5292bd55deb3,2024-12-16,cda7b409-3bea-4b05-ba9b-77dc32efcc8b,43,Caldeira,48,Beleza,103.8,2,207.6,Cartão de Crédito
+63e6feef-98ee-4637-8931-bd71733654de,2024-04-12,5fe32452-1338-4fc7-8096-6a009f5bf76d,58,Lima,10,Eletrônicos,457.68,1,457.68,Boleto
+0d9aa3ab-eb43-4b5a-9646-3787f2351929,2024-10-22,30f2238a-d15f-4fc7-b810-52ea5dfd63d6,57,Alves,43,Alimentos,255.56,2,511.12,Cartão de Crédito
+144c4945-159e-4a1c-9a67-f47c50a53c3e,2024-05-22,5c34de45-9765-460d-b269-57b8b8a30921,50,Nogueira,37,Beleza,244.22,5,1221.1,Boleto
+85660d41-bbd6-479e-a2e4-8c8cbccb891c,2024-07-09,533ad130-4905-4110-885a-0f4872ba65ab,59,Peixoto,3,Livros,425.62,1,425.62,Pix
+fe6bb5b0-ffbe-41cf-80cd-661ef84adb6f,2024-11-08,0b88a619-3f9e-4991-9032-c4ada7b3653a,33,Silva das Flores,49,Eletrônicos,368.59,3,1105.77,Cartão de Crédito
+8ddb7445-96ad-487b-927e-cdf5b24d6678,2024-07-28,9a4c22eb-593d-4a98-bc30-42a112c523b4,62,Rodrigues do Norte,32,Livros,214.06,5,1070.3,Cartão de Crédito
+309854b2-3c9e-40ee-bcbd-0820a2ec1090,2024-11-07,5eb853d2-5f59-4ebd-8e81-b69050eb0b38,42,da Rocha de Minas,8,Alimentos,476.04,2,952.08,Cartão de Débito
+18faf35b-5b98-40db-81d6-d03e9ecb2ac5,2025-02-09,f2a323ce-5660-4825-88ea-d754d8611363,33,Ribeiro,30,Beleza,421.37,5,2106.85,Pix
+29acc569-4a8d-445b-84bc-8585114b3816,2024-06-18,fa6ddff9-a9fb-4173-9c1d-8b3568d5c9c3,23,Costela do Campo,27,Alimentos,406.38,5,2031.9,Cartão de Crédito
+1625077c-78cf-41b6-8406-863987d173c3,2024-11-16,676a1339-5720-47a1-a349-19a446041727,41,Dias,19,Roupas,214.44,4,857.76,Cartão de Débito
+0d7faf42-e054-42d7-98b5-762ca189b179,2024-08-06,b028dab3-b9fc-4d91-9830-c792bd73a73b,57,Costa de Cardoso,45,Livros,467.68,5,2338.4,Cartão de Débito
+a4c92a67-fd41-4664-b1bd-03f0bafadef8,2024-06-04,f0bc04f0-ac5e-4c01-aa90-5a2c560268d8,56,Freitas das Flores,20,Alimentos,53.11,2,106.22,Transferência Bancária
+892a70fa-b12b-4b89-a009-d38b1fd3c53f,2024-06-21,caaf8976-c7e6-442f-9bac-236dbf6e5ef5,29,Gomes,32,Livros,214.06,3,642.18,Transferência Bancária
+ef848c87-8772-4ba9-9b39-329ccdb2924c,2024-04-15,5019f5b5-7a82-4c28-bc7b-f284154d0b1f,38,Silva,8,Alimentos,476.04,3,1428.12,Pix
+f34d9b8b-5349-463f-8810-cf269550aaca,2024-12-20,92b538dd-caaa-42fc-9cc9-b311eb7457ed,46,Dias,42,Esportes,156.52,5,782.6,Transferência Bancária
+e1fd3461-dc6a-4257-860e-1bc2a8e05501,2024-11-20,c6711ae2-a090-4e40-8d87-4942cc19a5e0,38,Caldeira,26,Roupas,24.28,2,48.56,Cartão de Débito
+ded57838-0409-48d2-87a8-b2bf335f0903,2024-09-17,a65b13f0-3069-435e-a6b4-d456db2de59a,27,Gonçalves,11,Beleza,116.28,5,581.4,Cartão de Crédito
+a7c6e6e2-0f2c-47ce-aacd-73c57f081043,2024-12-03,75c2cccc-ce74-4886-b6cf-1ed528970a12,42,Cunha,1,Alimentos,220.3,3,660.9,Cartão de Crédito
+2fd2e670-7d1f-4300-ba9f-e6ce75c5905f,2024-11-25,6f8c8a23-411b-4e1c-a6ea-335d7dab7782,20,Ferreira das Flores,9,Roupas,486.11,2,972.22,Boleto
+121e7127-a0a9-43d3-8f9c-8e13bbf6aa4d,2024-09-04,5573f1c8-8408-43c3-8e86-9c0fe56fa85b,31,da Rocha de Alves,37,Beleza,244.22,3,732.66,Pix
+3bdf8232-f8cf-458f-92a5-484a42556b6a,2024-11-07,0223ef3b-633e-443b-b29c-123eaffa5db7,56,Correia dos Dourados,29,Esportes,363.33,2,726.66,Cartão de Débito
+bd36f4c7-ab18-4802-a6e9-cbc6b994b5da,2024-06-01,34056a2e-16dd-4642-be8c-69eb3d0eb833,38,Cardoso,41,Roupas,74.54,1,74.54,Cartão de Crédito
+e8958f3a-e4aa-4a48-8a34-03bc7af484af,2024-03-12,6ed7027b-7c2f-4e95-b8c5-456087bcdc01,25,Pereira,29,Esportes,363.33,5,1816.65,Transferência Bancária
+6168f422-403d-4292-9c40-373d49fa198a,2024-07-11,2322cc74-1544-47af-9c20-86e571af2167,55,Dias da Mata,44,Eletrônicos,127.27,5,636.35,Cartão de Crédito
+3c6468a7-08e9-4cc3-9101-5e179ddf9c12,2024-11-01,5f05f389-b9fd-4982-80a9-5df8acc59876,60,Cardoso,27,Alimentos,406.38,5,2031.9,Pix
+e9f4d7a0-e05e-47c6-9893-59c049bfb1a7,2025-01-10,61d688a1-f651-4649-8c9a-9902d58f8913,26,Duarte da Mata,21,Beleza,28.07,1,28.07,Transferência Bancária
+8371cccd-8f7b-4a90-9429-f2ee6d68a62e,2024-09-14,3b871d7e-8a1e-4744-9df3-2db9172c026d,30,Fogaça,10,Eletrônicos,457.68,3,1373.04,Cartão de Débito
+f143784e-3f8b-4624-8aae-620b4870710a,2024-06-15,7a6b88e8-afc9-4d3e-a602-cf9b6fddc11f,45,Ribeiro,20,Alimentos,53.11,1,53.11,Cartão de Débito
+da1e6134-41fb-4dc3-b0ee-494e99aa6d81,2024-03-02,df47dee5-19c9-4738-ae0d-627c1a228e4a,38,Fernandes,16,Roupas,167.91,2,335.82,Pix
+d528170c-12ed-4ee1-a6fd-146ffebd6d18,2024-03-14,9d763f34-2ea4-4c2f-a7a9-9c8a4002faa2,18,Costa de Goiás,49,Eletrônicos,368.59,3,1105.77,Boleto
+bb1470e5-2199-4136-8e36-0df4ffd23014,2024-10-20,9456c921-6226-4e03-b598-c37d52df2d3f,49,Freitas,23,Esportes,201.01,1,201.01,Transferência Bancária
+2f68178c-bc70-417a-b5de-4f5970c8902c,2024-04-06,9ba40d80-2c70-48fd-88ac-ce0e9881b40f,42,Nogueira,31,Eletrônicos,35.3,2,70.6,Transferência Bancária
+6ab7dbd4-2f16-4fc4-8395-4d3211e816e6,2024-04-25,5e4743a1-aec6-40b3-beca-ad908184398a,56,Moraes,43,Alimentos,255.56,2,511.12,Transferência Bancária
+cdac9d59-1770-4f6e-b6e3-2b8069fcbc48,2025-01-30,9b01e4d5-969d-486e-b76c-ea3a619e5a1b,42,da Cunha da Prata,21,Beleza,28.07,2,56.14,Boleto
+a45d7a2a-59c9-4109-a9e5-21fbd4c70031,2024-07-08,dc3e55f9-056b-433a-8518-88596618c081,44,Gonçalves da Prata,47,Esportes,132.19,5,660.95,Transferência Bancária
+ad50a174-17e6-421f-b678-4769018aefe9,2025-01-16,d3709805-e31c-4abe-bf95-ba7dbd848f42,49,da Mota,42,Esportes,156.52,5,782.6,Boleto
+658df24f-734e-4541-a666-eb92b1e289ca,2024-10-22,8df96099-c2fe-4c62-be06-6287689ba68a,36,da Costa,24,Esportes,495.6,2,991.2,Cartão de Crédito
+36a66d8a-75a6-403e-8282-4588a21defd8,2025-01-17,7340e6bd-61ab-4d47-9cc3-e11f796ca413,45,Aragão do Amparo,27,Alimentos,406.38,5,2031.9,Pix
+551fd783-aa0a-459b-b16d-26a178727c43,2024-12-17,904258dc-365d-450a-b906-95b912302d9a,53,Silveira,32,Livros,214.06,5,1070.3,Boleto
+ead38e63-838b-4452-8639-d2bff86a35f1,2024-04-07,a6c72f67-6879-446e-b8c9-be321b79f301,45,Lopes das Pedras,47,Esportes,132.19,1,132.19,Cartão de Crédito
+6c341a7f-0745-4fe1-a94d-3c2302d1e3b2,2024-03-17,2357ea08-83c5-48d2-956e-4fcc799b9a4f,61,Santos do Amparo,1,Alimentos,220.3,5,1101.5,Transferência Bancária
+86bf26c0-5e4f-4d7d-a73d-ffb815dc8c7b,2024-07-21,47793dd1-e557-4c3a-a78b-39928535dfe0,57,Costa do Campo,48,Beleza,103.8,3,311.4,Cartão de Crédito
+6349c365-42db-4e30-872f-876f854966ca,2024-05-04,388d44d4-3892-492f-9961-c98d03d0c596,60,Silveira,39,Roupas,275.85,4,1103.4,Cartão de Débito
+03250c93-399b-4ca2-900f-47ff57ed4d25,2024-06-11,2ab43a77-cc83-4cda-b890-e91a3771706e,57,Nogueira,7,Eletrônicos,112.96,5,564.8,Boleto
+ba80b03a-a9a3-4b28-b86e-80f1ac5b395b,2024-11-27,1b04a2db-14fd-4c17-9220-1c51f632d4ff,23,Pires do Amparo,19,Roupas,214.44,2,428.88,Transferência Bancária
+4d1eafe4-d31f-46a6-8db8-602695b94bde,2024-05-17,03f59ccc-95dd-4761-8d71-fe0a6ed18a5e,38,Nascimento,2,Esportes,244.18,4,976.72,Boleto
+e891b683-d48f-4a0a-9c51-9b8b4c247de2,2024-09-13,a350ca9d-f631-45d0-838a-877c3b85f303,36,da Conceição,42,Esportes,156.52,4,626.08,Cartão de Débito
+b7d50213-c54b-4c83-8cdf-93e5f48b99cd,2024-12-03,1fee272c-a413-4095-bf87-3a92b278c92d,31,Rodrigues,44,Eletrônicos,127.27,1,127.27,Transferência Bancária
+f3b46a7d-79a9-44c8-bcc6-e52de0a2407c,2025-01-09,71f384ba-9ab6-42bc-a62f-742549f7aec5,26,Cavalcanti,43,Alimentos,255.56,2,511.12,Transferência Bancária
+0a4413e5-fa00-4fef-b950-4d893cc5dbb9,2024-08-11,4e4d3b2d-7c75-4819-a1bb-f1032798bbef,32,Novaes,5,Beleza,16.78,4,67.12,Boleto
+37627c9e-2e52-4c6b-967d-d2dfd174350e,2024-08-31,bf10d751-8b52-4112-a844-68a6b5f7bf77,31,Aragão das Flores,24,Esportes,495.6,3,1486.8,Pix
+85d957dd-3054-4808-b098-8b9c45858854,2024-10-24,2c8d634c-99bf-443a-ba0f-e3b79cccdb45,60,Duarte de Azevedo,6,Livros,372.96,4,1491.84,Boleto
+97af860e-0f9d-47ff-9050-c1159965b0d9,2024-03-15,3bd933fc-b1eb-4586-aeaa-143d9bc850ac,52,Aragão de Campos,45,Livros,467.68,4,1870.72,Cartão de Crédito
+c2cffca9-3700-4763-bfdb-7263c5fb326d,2024-05-02,db1858ed-4cc1-479d-b2bc-44ca81d83511,19,Melo Verde,15,Beleza,367.19,4,1468.76,Transferência Bancária
+b0175b8d-ee66-4ed6-8b46-86b8d1806398,2024-09-29,879224ce-f35d-4af3-ad77-f4ba5c85a9e0,27,Porto de Ribeiro,9,Roupas,486.11,2,972.22,Pix
+09988318-f2ed-4feb-b7f8-11b8a719c483,2024-07-27,c23526d7-ce1c-4b15-86f5-87dbad15fa3b,57,Teixeira das Pedras,36,Eletrônicos,189.35,4,757.4,Pix
+80579c26-8750-4105-b48e-4bfbff0cdaca,2024-10-12,8fb388c1-fe50-4527-a2f5-e787e5742c02,56,Porto de Lima,15,Beleza,367.19,5,1835.95,Cartão de Débito
+e2d36200-ff1f-41ba-ba34-733ec0b796e9,2024-02-26,8061ebf4-d4cd-48d1-bb3d-1a1ee0f07e5f,47,Nunes,27,Alimentos,406.38,1,406.38,Pix
+4b204f7d-cdd7-487f-9c55-ffcb5b846728,2024-12-25,3ddfe02e-dff9-4280-99ce-852229b4840d,34,Cunha da Mata,50,Esportes,185.85,3,557.55,Transferência Bancária
+06f88369-b5ea-44fe-a242-db2562f718b0,2025-02-12,61116a81-db39-4502-9b9e-5f88a9234cbc,35,Barbosa Alegre,44,Eletrônicos,127.27,2,254.54,Cartão de Crédito
+ffb9f055-33e2-4c5c-858d-9ebbcab503d2,2024-11-16,3697488e-653c-44e9-92df-4177dcb97f5e,27,Novaes,46,Beleza,135.55,5,677.75,Cartão de Débito
+acbabff6-f9f7-4574-be96-a3070a09bc31,2024-07-08,70f8d2f7-0ba5-4031-9f31-3ad97c07fda7,62,Cardoso do Norte,39,Roupas,275.85,2,551.7,Cartão de Crédito
+96746e77-6a6b-4353-9f22-e78a6d7e7660,2024-03-17,659d228e-eb1d-4889-a34e-99e80ce242ca,53,Costela,24,Esportes,495.6,1,495.6,Pix
+c5b12caf-fbd6-4869-96bf-f8b2bf477df0,2024-10-15,311d9397-d722-48df-847a-0634516f029d,36,Nunes,39,Roupas,275.85,4,1103.4,Boleto
+60ecc246-ff5d-4255-bd69-1cc069bcf2f7,2024-07-22,84d97950-1ade-4ffa-9c2d-084d4ef0d4e3,61,Dias,20,Alimentos,53.11,1,53.11,Pix
+a327a3bb-c631-4996-af57-4139634b3387,2025-02-15,242bcfe3-3373-4772-a4ed-c59cdff3377c,61,Rocha dos Dourados,4,Livros,242.76,1,242.76,Cartão de Débito
+997831e4-22b1-4a92-aa82-f9fbf4233986,2024-03-21,c9729d2c-0c1a-4393-9810-9524f4be3f68,48,Nascimento,42,Esportes,156.52,3,469.56,Cartão de Crédito
+2e2da2df-90a3-4e3f-9b6f-4a97e2eb6de4,2025-01-13,fca3c11f-846e-451e-995e-264066c8e2b6,44,Novaes Grande,46,Beleza,135.55,1,135.55,Boleto
+fcd16a18-4409-4729-ac91-eb98d9e19a36,2024-07-22,25ca4b21-36f4-4428-bc51-f415399856e6,57,Lopes das Pedras,43,Alimentos,255.56,2,511.12,Boleto
+f2a6a0e6-8053-4b10-8bc3-326a1270ec01,2024-09-15,4172af81-531c-4a29-bd2c-36b99f520733,59,da Costa de Costela,2,Esportes,244.18,3,732.54,Transferência Bancária
+ee7803cd-f97d-4061-b76c-5c8f5ce180c4,2024-07-20,bfc016b3-3bb8-4e61-bec0-e26375101cea,58,Martins,34,Beleza,192.75,4,771.0,Pix
+d38103de-faae-428b-838c-b35ea396f821,2024-12-11,41a53b95-989d-4ba3-882c-65743981d6f6,45,Duarte,27,Alimentos,406.38,1,406.38,Boleto
+dd405ba4-6180-4da6-8a03-8044fc973f62,2024-07-01,b4143c2d-ef67-41a1-8a64-c51199641ba6,49,Caldeira,5,Beleza,16.78,2,33.56,Boleto
+b15c936a-bb36-44b4-be47-331ca6530ddf,2024-08-14,e31e953b-1352-4ce8-a365-ef79b4ad305a,35,Peixoto de Campos,3,Livros,425.62,5,2128.1,Boleto
+7b210386-a1af-4e6a-ba60-ab7609fccd99,2024-09-16,4a87e53b-800e-4900-978b-5e026c033a7a,22,Silva do Campo,2,Esportes,244.18,1,244.18,Cartão de Crédito
+a6639859-b436-41ae-a621-713d27f74b40,2024-08-31,e4695377-3e3a-4e96-a621-813c7724c814,41,Rocha,33,Roupas,203.62,2,407.24,Boleto
+f5ff4df1-749f-4942-a4cf-d1fa0c3ba9ba,2025-01-09,e38d313c-d87d-435f-9d34-2def17614aa1,23,Rocha,34,Beleza,192.75,3,578.25,Boleto
+678c2e27-7a12-4bdf-94e7-b98787e3400b,2024-06-28,adc7ad7c-cf94-4896-9a18-ab2898333b3c,28,Costa,14,Esportes,272.71,2,545.42,Transferência Bancária
+b7c6e319-66c8-4add-8f87-b4704a813c4d,2024-12-13,93bb9e88-5029-40a0-8790-b69863292d1b,59,Barros do Amparo,21,Beleza,28.07,1,28.07,Transferência Bancária
+88cdfdd3-aaf3-452c-a54f-cce7d6a6fc18,2024-10-15,d5155b5a-cc62-4c51-a1a3-8bad1fccd88a,48,da Mota das Flores,35,Esportes,282.62,4,1130.48,Pix
+26373995-6bff-45e5-9454-5560c4284fcf,2024-10-08,50542e96-0fce-4cf8-9095-5271f046568d,52,Nascimento,50,Esportes,185.85,2,371.7,Transferência Bancária
+1d4610b3-6f70-4dc3-b354-03c46939cdd1,2024-08-07,6ad50d49-4569-487c-bb7f-a7c12a754446,27,Cardoso,6,Livros,372.96,2,745.92,Boleto
+3dfe3a48-cb53-4c5f-8ae6-ea0c69c46a94,2024-12-12,4205f3b1-15ef-4d86-8664-d70f51bc370d,64,Costa de Minas,25,Beleza,349.23,5,1746.15,Cartão de Débito
+3168897c-88e6-4ee7-9e8e-dbf583100021,2025-01-12,1dc6e0ba-732b-440a-b6f3-0cd4f35cba80,22,Rodrigues,50,Esportes,185.85,1,185.85,Pix
+3f5af5b6-4564-49ee-b8b4-f816262df346,2024-03-14,c1542e4d-a8d9-4441-935e-92a0718d24bb,47,Nunes do Galho,7,Eletrônicos,112.96,5,564.8,Boleto
+420c71c1-5553-4450-a88e-8c17fc548402,2024-12-12,dc0da178-aa30-4722-a4fc-97da419752f8,53,das Neves Grande,29,Esportes,363.33,2,726.66,Cartão de Débito
+aea27710-50ad-43db-bb50-29cc4ec2445a,2024-03-09,4bfc8003-7e27-4ac6-ad88-341a46c60574,24,Souza,15,Beleza,367.19,2,734.38,Pix
+4235bc96-7bcf-4b6c-a712-5c78d197d66b,2025-01-01,03dce3ca-8305-4894-bfba-454fc38f021f,52,Alves da Serra,10,Eletrônicos,457.68,1,457.68,Cartão de Débito
+466ef979-44fc-400c-afec-204844c6d0d1,2024-04-16,77bab2dc-f783-452f-bd49-18afa63d48b8,19,Rocha da Praia,4,Livros,242.76,5,1213.8,Pix
+2867dd8a-0ca3-4e40-b1ba-a7e34856e0ed,2025-01-11,00883942-f073-4a8e-a8b1-5abc6eed5bf9,25,Pinto de Mendes,37,Beleza,244.22,5,1221.1,Cartão de Débito
+08552890-ef36-4a93-98d4-0831e6328f80,2024-08-09,991b3b92-ac1e-4d78-8731-e1644ee4c122,22,Fernandes de Vieira,35,Esportes,282.62,5,1413.1,Cartão de Crédito
+c1bdb517-1b8f-4870-9cc3-e66af3099155,2024-12-29,308ea4b9-f1e5-4d68-a60d-f066846faf6e,38,da Costa,37,Beleza,244.22,2,488.44,Transferência Bancária
+093a5f32-433e-4015-a3e6-2366ed1c5eef,2024-07-09,704292d2-82a4-476a-baec-b53cea8a9e28,32,Rodrigues do Oeste,12,Roupas,498.33,4,1993.32,Cartão de Débito
+ccaf194d-6951-467a-8db4-58ab9ce12c26,2024-04-05,195c7600-2c67-415d-b1bd-37bc4f9d67ce,38,Nascimento,7,Eletrônicos,112.96,2,225.92,Boleto
+88945c97-1c90-49ba-85cc-e713cf0cc668,2024-10-12,82aed685-87ab-4efc-950e-7113e6e63ad2,62,Ramos da Mata,22,Eletrônicos,22.63,5,113.15,Cartão de Crédito
+226ce938-1f2c-4cec-84b2-6653b5bdd00b,2024-12-29,161e4cc5-9db9-4514-9800-34f496ade7d1,18,Sales,39,Roupas,275.85,1,275.85,Cartão de Crédito
+82f33aca-a01f-412e-a0ce-d027cd0a80ad,2025-01-23,763f0347-a6d0-450d-b417-cffd6774a977,43,da Conceição,42,Esportes,156.52,2,313.04,Transferência Bancária
+185c11d8-90a9-4f73-b920-58dc09c6ca6d,2025-01-06,de1e96cb-2f51-4106-a49d-61c0fefc1098,59,Costa do Amparo,10,Eletrônicos,457.68,2,915.36,Boleto
+abe90ee4-1385-4a87-89b6-81c2ad7e4042,2024-09-22,6ce8ad9a-74b8-4d29-a406-e7e8bad588d9,26,Carvalho,33,Roupas,203.62,1,203.62,Pix
+bbdc7586-1206-4779-a7ca-0161cd711c89,2025-01-04,b552fc2e-99ed-4237-93ac-6f15527de5db,59,Pereira de Minas,23,Esportes,201.01,3,603.03,Pix
+2c1e6f5f-9b58-4be1-9c6e-7e61bd284c41,2024-02-26,46068902-4886-4394-8edd-be084a58d8e3,24,Dias Verde,22,Eletrônicos,22.63,4,90.52,Transferência Bancária
+487e4b8a-9f6a-49c4-b2ae-5736f9ae4965,2024-07-14,8d29cad9-feff-48d7-8956-3c93647c57e1,59,Castro de Santos,38,Beleza,296.32,5,1481.6,Cartão de Crédito
+ec0559ac-8c1e-4347-847b-694953aa442a,2024-07-07,9cd22f52-75f5-426a-bc79-4b4015013f63,65,Freitas das Flores,30,Beleza,421.37,5,2106.85,Transferência Bancária
+ce07162d-3172-4e38-b78d-b857ce2d61f8,2024-12-19,83a8d37e-6faf-4214-a5d9-6c5c1dedffbf,37,Ferreira do Norte,48,Beleza,103.8,5,519.0,Transferência Bancária
+1f265f7b-7910-400d-a0b2-add44426e692,2024-06-09,b2a8726c-c52a-46dc-97fa-5c3bd79dc9ef,28,Campos,18,Roupas,56.53,3,169.59,Boleto
+9e347170-7dd8-47cd-8052-12d0d7591a73,2024-11-05,3562c834-6f66-4f07-b972-0614c771e894,43,Alves do Galho,13,Alimentos,12.53,1,12.53,Cartão de Crédito
+7f61dca4-937d-44ab-940a-c02d1ac43db1,2024-07-13,b3da5e3b-bcc8-4a6b-aaf8-8601e39d7fd3,53,Fogaça,38,Beleza,296.32,2,592.64,Cartão de Débito
+76cfc596-e97d-4e15-9038-37d93989a5cb,2024-03-29,e1bdbf12-59f9-4397-b8d0-44e8a1ab5db2,40,Lopes,14,Esportes,272.71,4,1090.84,Boleto
+9be227ba-cb34-40e5-ae09-4cea80f533da,2024-03-04,d1ecda1d-78f6-4711-8232-7e9ccd53f004,56,das Neves,29,Esportes,363.33,4,1453.32,Cartão de Débito
+64347526-78a2-4ee4-85e8-23acff258bc3,2024-09-08,f1a79ada-8c7d-4fb3-898a-18dbf942ffe4,51,Sales,13,Alimentos,12.53,2,25.06,Cartão de Crédito
+af6ef046-04ba-4d27-bedf-1f3d8a7adc6f,2024-03-24,5d86b900-ae69-4846-8552-546b388ab042,56,Costa Paulista,8,Alimentos,476.04,1,476.04,Cartão de Crédito
+d4668b11-9f2b-4c09-8da7-9042779d4bf1,2024-10-12,2a0946b1-40e4-4539-8ef3-f60a1fddd33c,32,da Rocha,24,Esportes,495.6,3,1486.8,Pix
+d0352a80-0871-4b65-9c75-8d241bb389ae,2024-03-09,ed2a9b56-a742-41c8-87ba-e82c9026112b,65,Fernandes,6,Livros,372.96,5,1864.8,Cartão de Débito
+d3624ff6-bfab-4181-9eeb-25d755a192be,2025-01-29,cec9cfe7-4640-4386-9ba6-97818e4e4152,40,Lima,47,Esportes,132.19,3,396.57,Cartão de Crédito
+e0cc9a68-7973-4afb-8b63-bae9744b2e56,2024-09-14,faddea75-f812-4300-956c-41d42d2b458b,59,da Mota Alegre,2,Esportes,244.18,3,732.54,Transferência Bancária
+01b74341-cde6-4706-9835-ee5a5a5836e8,2024-11-15,15bbc99e-e67a-4508-8265-50fac9d8e11c,42,Costa,25,Beleza,349.23,4,1396.92,Transferência Bancária
+b523acc1-d0e8-41ec-9f88-a6d596a36e4d,2024-03-29,0ca7603e-39e2-44d4-8e43-d3c2a9ad30e7,54,Pires,47,Esportes,132.19,1,132.19,Cartão de Débito
+8bb599f6-555c-468d-b145-597aee083a16,2025-01-04,043b9d5b-cb28-47aa-bc78-654873c291c5,32,Almeida do Oeste,22,Eletrônicos,22.63,3,67.89,Cartão de Crédito
+02d179f6-aa51-4179-a979-000aaf772910,2024-06-11,edcdd3d6-600e-4819-8cdd-7c1cf206241f,57,Pinto,10,Eletrônicos,457.68,5,2288.4,Boleto
+1baf2b7d-e77f-4a16-9134-771249e42c9a,2024-04-27,370a3c7b-af44-442a-8d3b-62d586e664f9,48,Alves da Prata,25,Beleza,349.23,4,1396.92,Cartão de Débito
+74a9ef80-61c0-48ba-b86e-10c0f350958a,2024-12-25,7581b2c0-bf89-4d04-abcf-0c97bc621ada,53,Correia das Flores,5,Beleza,16.78,1,16.78,Cartão de Débito
+c1b90ce6-a368-43b0-b1a0-de72196bcaf5,2024-09-13,74552891-ce31-41c6-8f2d-5d0780755676,48,Barbosa,32,Livros,214.06,4,856.24,Cartão de Débito
+f4ba1838-e1b8-483c-b735-6b6024b3771c,2024-04-09,c8975a55-645a-4dfe-8d70-1e45321b32f5,55,Gomes de da Costa,50,Esportes,185.85,4,743.4,Boleto
+824e6e71-1998-4a39-a8ed-99374084e9f4,2024-03-02,6f9f59e9-bbf8-4590-b14c-ad705d7bcf35,18,Mendes de da Costa,48,Beleza,103.8,5,519.0,Cartão de Crédito
+7f3b9c94-bd71-48f9-8a39-993a549af99f,2024-10-18,e60d7056-9923-4bda-8226-d068bf8e024c,36,Melo,10,Eletrônicos,457.68,5,2288.4,Cartão de Débito
+69d79648-e41a-4278-89e9-70ef928e1195,2024-04-06,830b7b30-d6c1-42e9-ad20-0f8ecbcfc262,26,Gomes,8,Alimentos,476.04,5,2380.2,Boleto
+e0a861ef-4fe4-4e2b-87a9-178aff81643d,2024-05-08,5bc50837-ba34-4eea-a335-440d99e9a7a1,61,Carvalho Alegre,14,Esportes,272.71,1,272.71,Transferência Bancária
+a42d397a-d670-4e5d-9bd9-dbe7f32bae83,2024-10-10,70ea3220-1a28-4690-80cc-42598bd8deb8,28,Monteiro,1,Alimentos,220.3,3,660.9,Cartão de Crédito
+124b9968-6459-4e02-b744-c482324860d4,2025-01-16,639bc66d-5a36-4968-b637-cc261dac2b55,33,Sales do Galho,27,Alimentos,406.38,4,1625.52,Cartão de Débito
+2e16400b-7b60-409e-8c49-85ac06957e85,2024-08-05,76625e61-33e1-41a7-992a-00f712da0df0,27,da Cruz,29,Esportes,363.33,1,363.33,Cartão de Débito
+1b7e292f-ae4a-4b6b-bd33-81f5dce125a8,2024-12-27,a5d4fcd1-c3fc-476c-a5b6-f3c016d35611,22,da Conceição de Peixoto,15,Beleza,367.19,2,734.38,Pix
+3f2ef38a-05b9-48cb-8b47-07ded058b599,2024-06-29,ac67a02f-b31a-4c47-b416-131c18ee1dc1,18,Jesus,11,Beleza,116.28,2,232.56,Cartão de Débito
+3c3182a4-095b-46e8-9ea3-8778f131cc56,2024-04-13,1bb30cf8-5e70-4044-8baf-10c93c2c1fa9,26,Gomes do Norte,8,Alimentos,476.04,5,2380.2,Pix
+727a6b09-4711-49bf-b05a-cebd287c70eb,2024-10-23,55d36ca4-9f0d-4322-acd4-8eebf8cf871b,60,Silva,4,Livros,242.76,2,485.52,Cartão de Crédito
+e6e829ed-4e8f-4ace-8308-72a3aea28f8d,2024-11-04,96324a54-983e-4c6d-b65f-5ce513985c6b,63,Oliveira,8,Alimentos,476.04,1,476.04,Cartão de Crédito
+0f557c44-6f21-46c2-bb88-8de6e18c2353,2024-04-09,48f8720d-6684-408e-9e43-06ef31729349,44,Barros,18,Roupas,56.53,4,226.12,Pix
+2b197f7a-a732-46b3-bf76-e58740a12cfe,2024-04-07,532f26c9-d9e8-4d6d-b72d-7c7a8465cc42,38,Martins do Norte,3,Livros,425.62,5,2128.1,Cartão de Débito
+cb17524c-1bbb-4fcc-bb25-f433674d122a,2024-08-12,0f0921ed-17a0-41ab-b1c7-4f0c78a5c7c3,21,Lima,22,Eletrônicos,22.63,4,90.52,Cartão de Crédito
+2ef577cc-5c66-4d19-8fd5-ea179fdbdd59,2024-05-15,b24e2a41-dae9-4aee-81f4-b529ef25967e,51,Cunha de Goiás,20,Alimentos,53.11,3,159.33,Cartão de Crédito
+1faa5f0c-a194-4563-b6c0-9ec347cdfa1d,2024-05-05,d6c5d514-864a-4b7d-aedc-f94d5d375ac1,56,Freitas do Galho,8,Alimentos,476.04,1,476.04,Boleto
+94d22272-bd77-45e0-9151-6d2d70a8b455,2024-07-12,0dad4062-5f00-4fbd-96c2-b2dcc7d58f3d,53,Porto de Cavalcanti,12,Roupas,498.33,3,1494.99,Transferência Bancária
+066334e7-4b34-4ce3-b766-39a5b276beb7,2024-12-31,164d9fc6-ba2d-4c71-af20-b0583edaacd7,58,Ramos Alegre,2,Esportes,244.18,5,1220.9,Boleto
+84dfa103-9bb5-49f8-beac-9aa3ff2f0c0a,2024-11-13,3a147be2-b56c-459f-af58-91c090498b3a,28,Souza,3,Livros,425.62,4,1702.48,Pix
+8f9066b6-d78d-4ebb-81a3-4801f7d3070c,2024-09-21,3b44306e-795c-453b-aab0-735cb006d106,22,Cardoso,7,Eletrônicos,112.96,3,338.88,Boleto
+37d5574c-8857-4ad4-bf3a-2478eb412440,2024-04-24,dadda517-70a3-41bf-827d-76b3f71d56f6,61,Porto,3,Livros,425.62,3,1276.86,Cartão de Crédito
+1a71b475-2b71-43f8-b42f-6501629018d0,2025-01-03,b3c8fff3-5382-46e7-a806-68dd6fc23a60,30,Nascimento,30,Beleza,421.37,3,1264.11,Transferência Bancária
+bd405a4a-c49c-4dac-8a8f-895717dc5aa7,2024-07-04,b52c3434-62d6-47a9-89c3-5d3ed50b9722,35,Lima de Gonçalves,28,Alimentos,165.47,3,496.41,Pix
+363e644e-3262-4904-9089-3a59530a3670,2024-06-10,f33b1b17-319c-4a04-b7c0-abb049bea9e1,47,Castro Grande,34,Beleza,192.75,5,963.75,Transferência Bancária
+f75481fb-d2ae-49b7-8fc1-5c9ad2dd1d15,2024-10-31,fe6ce49c-c2dd-4aa2-9034-46617f61dca5,47,Aragão Alegre,43,Alimentos,255.56,5,1277.8,Pix
+4b217a5f-7599-435f-a183-673888063b25,2025-01-11,4b019fa3-472b-46d2-a1b9-1c0944546751,45,Dias de Caldeira,49,Eletrônicos,368.59,2,737.18,Pix
+1b7e4c7b-11fa-486e-91a1-9ab45f54454a,2024-05-17,0c1e61d8-ce0c-4f5f-871e-884cec48ca71,46,Rocha da Prata,9,Roupas,486.11,1,486.11,Boleto
+7f9b2fdd-4c09-4008-a658-426be69f56aa,2024-09-11,48b81fc0-47fa-484a-b3ba-39eb53f8436e,43,Moraes,32,Livros,214.06,1,214.06,Cartão de Crédito
+305b4c46-ae6c-4052-9736-d0884809f683,2024-02-19,86dfe282-ff19-4823-baa7-8b938b161968,36,Viana,17,Beleza,223.41,2,446.82,Cartão de Débito
+df7f6f75-2090-465c-91bc-d773de1c5711,2024-09-16,8d812d13-dd25-4286-8c49-4a73081e85dd,46,Ramos,17,Beleza,223.41,3,670.23,Pix
+c891f8db-af05-4031-ae47-577f0ad3323c,2024-08-26,495c9486-b914-4d61-a9cc-016c578459dd,54,Teixeira do Campo,41,Roupas,74.54,4,298.16,Pix
+ab7d6347-28eb-4184-ab1f-949db143ee1f,2024-12-29,be9dffca-4219-472f-879b-064fedef4024,63,Souza das Pedras,10,Eletrônicos,457.68,5,2288.4,Transferência Bancária
+b9239c25-514f-4d6f-ac4e-cf53a73177cf,2024-06-24,164955f9-c8c9-4577-8a6a-5e440c7ea9d3,57,Campos,49,Eletrônicos,368.59,4,1474.36,Transferência Bancária
+6212f9f2-f208-451f-9239-087eca66b5ac,2024-12-20,de150e87-88e0-4840-81f2-3a3d7a257a34,36,Farias de das Neves,37,Beleza,244.22,2,488.44,Cartão de Débito
+94c03380-a3fc-40c9-ac39-4b8293518de1,2024-03-22,9ff8ae94-86ff-4ac7-b2be-d6ed2899dbac,36,Gonçalves,22,Eletrônicos,22.63,4,90.52,Cartão de Débito
+ced7899b-f3e4-43c2-98f1-ed68688aabd1,2024-05-21,e913c64d-a8c8-4e67-be6e-029f36e6e468,45,Santos,3,Livros,425.62,5,2128.1,Cartão de Crédito
+984d1669-44a1-45aa-820b-36f5b0516d69,2025-02-11,2b095830-59ba-43f2-a58a-3f12aebdd024,62,Oliveira Verde,23,Esportes,201.01,4,804.04,Pix
+bd43366f-0cc0-4d7a-ac8c-a82b4735c944,2024-06-16,758d5b43-dcbe-4da0-9949-65cb7f092324,24,Martins do Sul,33,Roupas,203.62,1,203.62,Pix
+0b576110-8702-4b01-aac0-c40ad128acd7,2024-06-17,125699f5-b43f-43d4-83cb-b1be1c9a026f,42,Moreira de Almeida,29,Esportes,363.33,3,1089.99,Transferência Bancária
+44ee3d41-3f84-4069-8ac0-617b128aa346,2024-08-24,ad5533de-299d-4ba9-8c1d-70195ec4386d,56,Sales,24,Esportes,495.6,1,495.6,Transferência Bancária
+47c32e6b-92e7-4a4d-8818-5072a5df4ee8,2024-12-11,4a6e3458-5f62-4cbe-b65a-294cb537458e,29,Castro do Sul,33,Roupas,203.62,2,407.24,Boleto
+6d71c7f9-0d79-465e-9fe3-5e5dec5739bd,2024-09-29,24e7ef0d-653f-4f95-beda-6ce1ccf34917,18,Correia,27,Alimentos,406.38,1,406.38,Pix
+678191f3-16d3-41ba-bd15-669afd061b4f,2024-11-17,4e19730c-241c-4e65-b9d7-4e090afccf45,57,Peixoto de da Paz,42,Esportes,156.52,2,313.04,Transferência Bancária
+1293f216-2251-474e-a0fe-52d93d75095e,2024-05-11,c39d56a4-ebac-46d2-94c7-8717a78fd9af,42,Cardoso,45,Livros,467.68,5,2338.4,Boleto
+db978413-08cb-4a51-803e-a4863bcde79c,2024-07-25,cf968be2-9c30-47e9-99db-18fb9ec5d79c,54,Freitas,10,Eletrônicos,457.68,2,915.36,Cartão de Débito
+77bb4bbe-022d-4e0c-a451-4430dc350b1b,2024-11-24,6981fa8e-102f-4d98-b8bd-8794b605410a,58,Costela do Galho,8,Alimentos,476.04,4,1904.16,Cartão de Crédito
+70dece22-b2ff-47f4-b35e-0e5eaa4443fe,2025-01-17,322083f2-741b-4748-ad1d-5851ba7fe1e8,33,Lima dos Dourados,13,Alimentos,12.53,2,25.06,Pix
+616f2a12-54c1-4ec4-9c93-38cc157b856c,2024-04-10,3129b44e-9a35-4332-97e4-4cec5b5738de,29,Cunha,46,Beleza,135.55,2,271.1,Cartão de Crédito
+007a0c08-c109-4225-8ad3-6fcf0bbc0b18,2025-01-18,cd722629-7281-480b-af5d-353e34ce6dbe,26,Porto da Serra,47,Esportes,132.19,1,132.19,Cartão de Crédito
+ac793f85-7810-443b-b767-00588339e758,2024-11-30,2a7a9c98-1d01-4ad7-b59d-d63c65a1a3ca,56,Correia,50,Esportes,185.85,2,371.7,Cartão de Crédito
+1d90da66-32a0-4542-b503-703a082fa6fb,2024-07-05,b2f53ad7-caf1-4f5f-b505-54607dbfbddc,35,Barros de Santos,1,Alimentos,220.3,5,1101.5,Cartão de Crédito
+fcde5aea-0e3b-4ce1-9e19-a1507c7e059d,2024-04-08,d1a62a62-d62a-4dcc-8347-4b6aec696f1b,50,Teixeira de Ribeiro,2,Esportes,244.18,2,488.36,Cartão de Débito
+baa18ff4-ae11-41fa-813d-0ba9f02641ae,2024-04-10,64faf77d-04dd-4295-b855-1957ddd4abf9,64,da Cruz,46,Beleza,135.55,4,542.2,Cartão de Crédito
+4866ec21-e3ad-4cd4-919a-c0e3a06a2acc,2024-08-14,a2d636ce-f8bb-4259-9d3b-0f1f0561563b,49,Santos,49,Eletrônicos,368.59,5,1842.95,Boleto
+db2391a0-7a97-42e6-b984-fa88bb0a0ee7,2024-04-25,135ab570-0b67-4203-a908-108b5e9b642f,29,Santos Verde,29,Esportes,363.33,2,726.66,Transferência Bancária
+d7e255d5-00ff-4558-a944-d49029a6a713,2024-10-09,f3ddba4d-c6b5-427c-9b63-1544faffc6f3,48,Caldeira,41,Roupas,74.54,5,372.7,Transferência Bancária
+859a7127-a9cd-4019-be54-0c216f7fcadb,2025-01-25,bd3dfe88-b174-485c-b061-acdf105dad06,49,Costela do Amparo,35,Esportes,282.62,1,282.62,Cartão de Crédito
+c00f4a3d-3276-49c5-8ebf-3342289cae37,2024-09-04,63f3bdc9-cbb4-4a57-a0bc-a9aff28f70b7,49,Mendes,46,Beleza,135.55,4,542.2,Pix
+8ae48697-8983-402c-8512-d402f90ee0cf,2024-05-21,bdb23546-a953-4214-9904-d2b6091e773a,40,Nunes de Souza,42,Esportes,156.52,3,469.56,Cartão de Débito
+2b40b157-0b07-48c2-bef3-61bc360f9ad7,2024-10-10,ce7b403e-cb4b-4f71-adcb-79c9dff606c1,42,Costela Paulista,1,Alimentos,220.3,5,1101.5,Boleto
+1a99720f-4bb4-4d1b-a890-916844436ff3,2024-07-01,e26e4b25-aba9-4d14-aa73-8d2496f5b309,60,Nogueira,50,Esportes,185.85,1,185.85,Cartão de Crédito
+80d6d0ce-1bee-475c-abf0-0772b1e908c8,2024-07-02,07fc10a4-5500-455e-909f-6fe5e1d9a149,18,Pires de da Rosa,29,Esportes,363.33,2,726.66,Boleto
+b27747ef-4943-4fb5-a60f-e91166cd46d2,2024-08-19,e39d84fd-a331-4332-8863-2602e9585ca8,51,Alves de Pinto,40,Livros,427.83,5,2139.15,Pix
+810a4155-1306-4aa6-bf8b-e0612fb85989,2025-01-31,ff7d3c2f-9a89-4b48-a890-3b42ab595528,51,Peixoto,10,Eletrônicos,457.68,3,1373.04,Transferência Bancária
+8eb1672c-1233-42d0-a6b9-f5e77643ca64,2024-07-29,6fbbd29a-7936-41e2-bcc6-c70fa385f7c9,22,Cardoso da Mata,40,Livros,427.83,5,2139.15,Boleto
+811b9a01-aad5-4fb0-8a4d-d7252d6d0b78,2024-08-29,5c13b422-030d-4e91-bd74-85bc0621d328,51,Farias Paulista,7,Eletrônicos,112.96,5,564.8,Pix
+583dda84-91f1-4c3f-9c2a-97e5bbd040fe,2024-08-25,f6c91a44-6e42-441d-9004-f2ffffe9dd2e,23,Ribeiro de Goiás,20,Alimentos,53.11,5,265.55,Transferência Bancária
+4cf0733d-d711-4a85-9d39-2e6cb0c20581,2024-05-06,e67a9b17-75a8-4872-91ec-4c53f349066e,40,Barbosa de Rodrigues,16,Roupas,167.91,3,503.73,Cartão de Débito
+9ac0a081-0058-4530-b8a5-2f28af0ad93a,2024-07-29,f909c1e7-d70b-4761-bc8f-4125e6c7afb2,28,Lopes dos Dourados,10,Eletrônicos,457.68,5,2288.4,Transferência Bancária
+6d8cf125-cb80-465e-843b-7406f4ff3c51,2025-01-05,5c6d7c3f-bb43-49b2-8b5c-6d068d11a0b5,45,da Luz da Praia,15,Beleza,367.19,5,1835.95,Transferência Bancária
+16d85a20-030c-4e83-bdf5-ac6ee2b54169,2024-04-04,78f8d813-f56a-425e-ada6-dc241967f257,49,Costa,4,Livros,242.76,2,485.52,Cartão de Débito
+36f30059-a27e-4017-b35e-14dbcc6c476b,2024-12-25,23a5ea91-7067-4c94-8fa3-069120e060af,37,Ramos,5,Beleza,16.78,5,83.9,Cartão de Débito
+f15e649b-ca29-4ebc-8463-0704ff4f419b,2024-06-19,17ea6c26-131e-47de-b6e7-980b40dab9b1,46,Carvalho Paulista,29,Esportes,363.33,4,1453.32,Cartão de Crédito
+0420dfa7-f1e8-49b5-8f8f-f746224930a9,2024-09-04,0cbc3da3-d153-4f6f-b565-58bf0273f6b7,55,Barros do Sul,21,Beleza,28.07,1,28.07,Cartão de Débito
+e872ba62-19a9-42f8-975b-bf1f435c6691,2024-04-17,2a439ac3-2730-4dd0-9e03-23a404496b97,59,Oliveira,18,Roupas,56.53,1,56.53,Cartão de Débito
+76785843-beac-43d3-a77c-b721d22fc6d9,2024-11-08,1d3467ed-f773-4f10-bba3-a1e197fb6f7f,23,Jesus de Martins,28,Alimentos,165.47,3,496.41,Boleto
+4bc4d98f-76c5-401c-aae0-0ed90616d43b,2024-06-14,eb44dddd-5d3c-454f-8b0c-0077f81c125a,51,Aragão,23,Esportes,201.01,5,1005.05,Transferência Bancária
+7defd19f-122c-479c-a5e7-b169f8946bba,2024-05-05,aa0959c8-05e9-4558-a5c5-51e991170e13,32,Gonçalves,41,Roupas,74.54,3,223.62,Transferência Bancária
+56a0186b-a9d9-4a1b-a6de-187deef05f9d,2025-01-11,c1725a02-60ed-4a88-b878-5371a843d50e,33,Nascimento,11,Beleza,116.28,4,465.12,Transferência Bancária
+38dd3465-cdcc-4bf2-9206-f5492934fc46,2024-10-22,f6e1af3b-9d78-4d54-a33a-8b5f9fce71e6,38,Castro dos Dourados,27,Alimentos,406.38,3,1219.14,Transferência Bancária
+ddacd026-cd44-4b7a-bafa-18f0caac7236,2024-10-06,8aa1d361-a215-4464-bb5a-b9bfcd8f9040,20,Moreira,34,Beleza,192.75,1,192.75,Boleto
+e449c0bd-c163-42a6-9a6f-e79fbf10c216,2024-05-16,d74467a9-7bf8-4e03-8aa8-5130922f2d09,30,Moura,20,Alimentos,53.11,4,212.44,Cartão de Débito
+fd14383d-9ef2-477f-8893-d554f4729344,2024-10-04,ca517b44-e4a7-44ec-8730-94615b6a46ab,33,Ferreira da Mata,19,Roupas,214.44,5,1072.2,Cartão de Crédito
+592529b7-5877-4623-a30c-5d5da9921cf2,2025-02-08,989e8443-4e8c-4943-ac74-c8aed1626457,30,Gonçalves dos Dourados,1,Alimentos,220.3,1,220.3,Boleto
+09e7193e-df53-4c3d-87d3-803b101ecb83,2024-05-29,0b13d3fe-3512-485f-8a58-1bcbb05eb00a,46,da Rocha do Campo,27,Alimentos,406.38,4,1625.52,Transferência Bancária
+84e1e4de-ad7a-4737-ab41-9a51e92ed989,2024-10-10,b1598635-2527-4f62-adc3-225ee730b151,63,Rodrigues de Minas,24,Esportes,495.6,2,991.2,Cartão de Crédito
+a395b22f-c881-49bf-ad51-8a1d1bf63078,2024-06-08,5a8faad6-d2f7-41c8-b199-14e254b64363,56,Santos,2,Esportes,244.18,3,732.54,Cartão de Débito
+a973bb49-8036-4580-a6f2-40e89e2c775b,2025-02-16,b79f7af3-16ee-49e9-a346-81e4bb34f561,41,Sales,9,Roupas,486.11,5,2430.55,Cartão de Débito
+a26e1085-cf50-4192-a546-96c9d12252ab,2024-05-22,80b93e4c-863a-49ae-9859-adf0c55f0b21,37,Freitas,38,Beleza,296.32,3,888.96,Cartão de Crédito
+f4307d8f-ac19-4eee-a7d3-347193d3b7e1,2024-05-14,64ec7533-8b38-4888-83ae-be5f42c1f042,54,Pinto,29,Esportes,363.33,4,1453.32,Pix
+7d1088e8-c958-46fa-b7d7-0bee8ef73e29,2024-07-14,06f2c625-b370-466d-b0b7-888637f2800d,46,Correia,9,Roupas,486.11,4,1944.44,Transferência Bancária
+29251d36-05ac-4280-95ab-6279638dca0c,2024-08-12,deb3a6ef-7b42-45dc-a1a3-312738acd9f5,57,Gomes,37,Beleza,244.22,5,1221.1,Transferência Bancária
+6e6cb4d5-378e-481a-85d0-fe0a602de4ee,2024-10-13,3b8d6411-b19f-4ee3-84a2-f2c0c4c3e881,65,Novaes de Silveira,40,Livros,427.83,4,1711.32,Pix
+7bfae52e-0735-486c-ad01-3420ce7a9c72,2025-01-18,b67a1a8d-ebf9-4ae5-adfc-91a9340483db,37,da Luz,20,Alimentos,53.11,4,212.44,Cartão de Débito
+638ad2c5-a47b-47ee-9ad9-3da0a0ebecd0,2024-10-14,75fd8ae8-d8ee-4d64-987c-cd0af0d2302d,37,Farias,41,Roupas,74.54,3,223.62,Boleto
+5463a1c6-3fa3-4e59-9987-55ce12112f01,2024-07-11,089c6d41-0a89-4779-8112-92439db78063,27,Campos de da Rosa,34,Beleza,192.75,3,578.25,Pix
+e9f5b9e1-6c21-4eff-b46c-bc20f032dde5,2024-07-10,64f8e141-a82c-4e46-9413-10fdb7dd4b6a,49,Cunha de Costela,46,Beleza,135.55,5,677.75,Transferência Bancária
+7dfd79a6-a36f-4ab0-a24f-acfa6c043822,2024-10-21,ce067a6f-c745-451e-afd5-324eb3db64e9,41,Pinto Grande,15,Beleza,367.19,4,1468.76,Cartão de Débito
+ace13228-4994-48a9-bbe9-c1d54de337a9,2024-12-02,fcd059eb-2fe5-4317-b21c-2c3d946ae7c3,26,Ferreira,17,Beleza,223.41,2,446.82,Boleto
+5e3bb870-2d07-420b-b5cd-3eb66407ccf7,2024-11-22,4c331175-753f-49ca-bc5e-dfc307f72e55,21,Lima da Mata,30,Beleza,421.37,1,421.37,Pix
+dfb4271d-b015-42b0-b495-754842afbe6f,2024-02-25,0892731f-50fb-466f-a997-38746ad5ba2f,64,Rezende,18,Roupas,56.53,3,169.59,Cartão de Crédito
+190d9edb-e0eb-45c4-ae12-0ff28e5d0216,2024-12-06,409d03e0-e433-41c3-b2e6-45653f5eeb8c,43,da Luz,46,Beleza,135.55,4,542.2,Cartão de Débito
+20324cd7-2774-444d-8696-02e5bc9d0b4c,2024-10-19,b3125f92-9bab-4960-9f43-04e1cb83decf,38,Melo,36,Eletrônicos,189.35,1,189.35,Cartão de Débito
+01b8b358-fd81-4921-97f9-16665f084bb4,2024-10-18,fedf3a3f-852a-4554-a6e6-a85a1c3e46a2,63,Duarte das Pedras,7,Eletrônicos,112.96,1,112.96,Boleto
+d313b30c-9fcd-4f81-a899-f4a8f1a97571,2024-08-23,d5e4144b-75ab-406f-a0ad-5cb1cfedb283,23,Aragão,6,Livros,372.96,3,1118.88,Transferência Bancária
+52eeecc8-91b4-4499-b3b0-27dd172621a3,2024-11-29,2de36a05-8780-46b6-b2af-0f9e94164919,51,Costela,39,Roupas,275.85,5,1379.25,Pix
+d90b3f2a-caa6-4401-9651-ac3bf644cf06,2024-09-12,2ffc3fa1-d25a-4cc8-8b22-08d3ad3e1318,54,Aragão,10,Eletrônicos,457.68,2,915.36,Boleto
+0ed22568-8562-407c-bb5f-7e471c32f0c0,2024-06-29,c0e331bb-3bc3-43d5-b781-28c3801ca239,19,Ribeiro,39,Roupas,275.85,4,1103.4,Cartão de Crédito
+0a44dba1-99c6-426b-9371-c49f7abbd9ec,2024-12-03,2c2de082-fcaa-419f-8d76-9eeb7cc75d14,36,Duarte das Flores,13,Alimentos,12.53,1,12.53,Transferência Bancária
+7740cf56-d9ca-4369-a843-99e96ec2f564,2024-11-24,1f5979b9-45f3-44c4-b775-50e4a3f08b27,27,Jesus,1,Alimentos,220.3,2,440.6,Cartão de Débito
+267ff89b-cfd6-4ae3-a6c4-d0022ee21cf0,2024-07-10,5868ed53-ae63-479f-9a05-b9a1c2159c5c,62,Moura Paulista,10,Eletrônicos,457.68,3,1373.04,Cartão de Crédito
+e79dffc6-2676-4274-a00b-389c480e4604,2024-11-12,e169a71c-fb93-4765-b5ac-dd917c2facab,42,Dias do Norte,50,Esportes,185.85,3,557.55,Boleto
+4e207063-2ecf-487f-b20d-7b24fcf1346e,2024-12-17,a0bf73cf-d361-4304-9b52-10c3202fc3a4,46,da Rosa do Galho,14,Esportes,272.71,5,1363.55,Cartão de Crédito
+1832dd08-e8eb-47f9-9a95-2f715f58dd11,2025-02-09,aff4b695-e06e-406a-ba63-0b21ab77c3a0,54,Farias,7,Eletrônicos,112.96,3,338.88,Cartão de Débito
+54a39fe1-2e1d-4e80-90be-415b84e1ebef,2024-09-24,9a195d11-650f-4ea2-9e0e-62150bcdd718,39,Barbosa do Norte,12,Roupas,498.33,2,996.66,Pix
+0d9bed9b-9665-4a55-8bbd-628fdbbf04a9,2024-07-26,a096ded3-fa95-49fc-b328-b66b87f9fd62,30,Caldeira,39,Roupas,275.85,4,1103.4,Cartão de Débito
+32377641-2ee0-425d-bcf2-ab755460d772,2024-09-17,e98e75c0-c147-4924-b821-d3e5f09da496,45,Aragão do Norte,43,Alimentos,255.56,3,766.68,Pix
+a31890d6-7eb9-4662-af2f-16fd3cf54b72,2024-09-22,99fa7fc7-32b1-4125-9f08-f50e43c5a87f,57,Souza,29,Esportes,363.33,1,363.33,Cartão de Débito
+d2f7052a-cd4f-40ba-8209-d303dff1d36c,2024-10-06,2549e5ae-9886-4007-8795-6155368f0288,27,Lopes Verde,44,Eletrônicos,127.27,5,636.35,Cartão de Débito
+c263a683-dac5-40ac-a8e8-bb59ac0b1e9b,2024-10-11,3d15e766-fc66-46a2-a7cc-b5b0d8ff144e,53,Caldeira,10,Eletrônicos,457.68,1,457.68,Pix
+f7317a40-5adb-41b3-9cb2-e70520dbcc65,2024-10-27,d882ca90-1785-4314-b3d2-122c71115446,24,Caldeira,35,Esportes,282.62,1,282.62,Cartão de Crédito
+254c1b34-6334-4ed8-84a2-3aa911e8afb3,2024-11-09,a2d3e398-f10e-4092-a39f-9a732cffbe65,38,Costela,43,Alimentos,255.56,1,255.56,Cartão de Crédito
+217e511d-07f1-493c-97cf-24b60b47bcdb,2024-06-29,9548300a-142a-4b99-a50b-2c3bdd11208e,25,Aragão,48,Beleza,103.8,5,519.0,Cartão de Débito
+99fe9d66-636b-4885-9509-033d3b81209d,2024-12-20,0b75cf44-30b0-4eb3-885c-d1bcb50c9071,26,Moraes,29,Esportes,363.33,5,1816.65,Cartão de Crédito
+871d96ed-8486-470a-acb9-1a7886733d08,2024-05-24,bf500cd9-9898-4618-9957-66365f87bd25,56,Gomes,22,Eletrônicos,22.63,1,22.63,Cartão de Débito
+051c92bb-e037-4f89-b155-11347ab8a39e,2024-12-03,8719779c-d0f8-4735-9f9c-d8ef72f3bab0,39,Aragão da Praia,39,Roupas,275.85,1,275.85,Cartão de Crédito
+f2f639ab-8de6-4d35-82dd-2196c92b5bb6,2025-01-16,74f96c5c-50c8-46f8-815a-d58b9317488b,18,Pereira Alegre,45,Livros,467.68,3,1403.04,Cartão de Débito
+5cf9e4a9-f6a1-4ee9-a38d-07eb11923783,2024-08-31,50f3ff83-29f1-46d2-b476-6ec023a72766,56,Gonçalves de Pinto,29,Esportes,363.33,4,1453.32,Transferência Bancária
+ce52d344-03dd-44b7-894e-6c9dca7b3cc2,2024-03-20,4f57d1bd-201f-4339-91c5-95e5f896453f,18,Sales,40,Livros,427.83,2,855.66,Transferência Bancária
+6583e655-154d-4fb3-a52d-60299968edde,2024-06-02,e165bd9c-e6d4-4862-81fb-ffc1d2007879,19,Moura da Prata,4,Livros,242.76,1,242.76,Cartão de Débito
+1a33e691-e6cb-48db-8d2b-6299bf7ba920,2024-09-25,0cc700f8-e0d4-4ed4-bde0-857983cb43f1,53,da Costa,6,Livros,372.96,2,745.92,Pix
+8cf8dfd7-38fc-46e7-b963-4282046a3031,2024-09-23,02507886-9b25-4221-84dc-d2bcaf5d3f1a,25,da Mata,27,Alimentos,406.38,5,2031.9,Transferência Bancária
+fbb8034d-4bd2-4919-a5f0-34845fc78e47,2024-09-07,20bf1e21-400d-43e4-951b-5f8ed32bb248,26,Fernandes da Prata,4,Livros,242.76,4,971.04,Boleto
+1cd8110e-eef8-40b5-b6f7-bdc9517f26ff,2024-07-06,b4694e20-6f70-4149-895f-a321fca45651,64,Pereira de Correia,12,Roupas,498.33,5,2491.65,Transferência Bancária
+1be38be8-f79e-4ed6-9ad6-57819638f757,2024-11-14,11e1e4f5-b00e-4664-ae46-f8cf43750dba,31,da Cunha,21,Beleza,28.07,2,56.14,Cartão de Crédito
+ebd214a7-375d-4267-9d8b-d2a7fdcdb534,2024-02-24,8c452b16-4968-4c7e-9841-a90511c081cc,26,Azevedo das Pedras,9,Roupas,486.11,4,1944.44,Cartão de Crédito
+e31d34c0-5f6d-4d54-aa2b-c01eece04c17,2024-03-30,c684c60a-d392-4c3b-9b5f-50f78d46bac8,19,Pereira da Mata,44,Eletrônicos,127.27,3,381.81,Cartão de Crédito
+cc168767-5b8d-4073-91d1-db9613111093,2024-07-03,81d5eea3-8cb1-4b87-a6ce-8cad64be7cda,38,Rocha do Galho,33,Roupas,203.62,3,610.86,Transferência Bancária
+e0c6aa03-a80c-4ea3-b604-30b2aac8616d,2025-01-21,74e8440c-8f39-497e-8481-5f73a3d3cb42,29,Peixoto de Goiás,49,Eletrônicos,368.59,3,1105.77,Cartão de Débito
+6c7900bf-34b1-4409-ba28-4cc63d561ac7,2024-07-22,df4c2cd6-215f-4f81-b452-9e8ba29c5650,39,Novaes,25,Beleza,349.23,4,1396.92,Pix
+1d6ab650-e884-49a8-b2bb-a3222ac214ec,2024-03-01,41a4a375-3230-4f37-ad96-ded0efe6d213,19,Almeida,37,Beleza,244.22,4,976.88,Pix
+5fc14fc3-76b9-47ff-a032-6385b1356149,2024-02-20,6f90233c-8442-4001-921b-779bfea362f6,49,Moura da Prata,34,Beleza,192.75,5,963.75,Cartão de Débito
+c393c244-5d61-403a-aa2b-88de00f82207,2024-12-09,0dedbef8-e675-40e2-b775-bb91291208f6,42,Fogaça de Barros,30,Beleza,421.37,4,1685.48,Transferência Bancária
+c071314b-e4e2-40e5-bef9-35ca7bc355f4,2024-04-05,f9e6cf18-fa21-4108-938e-d83e6adc83a7,30,Gomes de Moraes,15,Beleza,367.19,1,367.19,Transferência Bancária
+21a116c2-a63c-440c-90ee-fb391ede963a,2024-08-14,97c86129-3dd5-4e34-8223-e87097c65b00,56,Monteiro,22,Eletrônicos,22.63,1,22.63,Boleto
+acfc0e3a-b1a1-44f5-818d-d549be585bb1,2024-12-23,24b21a86-a70a-4181-9247-0dc6187363a1,32,Farias,28,Alimentos,165.47,4,661.88,Cartão de Crédito
+8d1adff0-eef0-42b0-a68b-cde15e53669c,2024-07-22,80d035a3-ae2a-4472-916f-86c8aa5aca95,48,Gonçalves das Pedras,28,Alimentos,165.47,1,165.47,Cartão de Débito
+724b8ef3-523f-4d59-a6a5-a4cef6f77a8a,2024-10-06,cb29c794-45eb-4212-b037-2d7519ea251c,36,Azevedo do Campo,11,Beleza,116.28,3,348.84,Transferência Bancária
+15621a7a-442a-440b-bca4-235fb59dc044,2024-09-08,7ac86c9e-89f6-44e8-8f5e-57b935c5c939,18,da Mota da Serra,21,Beleza,28.07,3,84.21,Cartão de Débito
+3e88047e-8ea3-44ca-8cfe-83eb833271c1,2025-01-24,c5be8095-ac5d-4398-95ba-fcefa3fc4a8e,25,das Neves,17,Beleza,223.41,3,670.23,Boleto
+8dd665ff-3fca-4519-999f-369a6a61d993,2024-05-30,6c211247-29aa-46a0-b3bd-881d76c6a195,56,Martins de Monteiro,38,Beleza,296.32,5,1481.6,Cartão de Débito
+fe82942a-7b1e-4cb6-9d4f-6684c07adef7,2024-02-29,bb524224-5fdf-432b-bf34-b63461b61013,55,Viana,45,Livros,467.68,1,467.68,Cartão de Crédito
+099bacf8-d6ee-47dc-bda8-ed332731652e,2024-11-06,56424dae-58fa-433f-90bb-81177d0167ed,36,da Rosa,36,Eletrônicos,189.35,4,757.4,Transferência Bancária
+4e3df753-930f-4085-9c39-96abd2737d5e,2024-10-14,d50fa76c-12bf-42ca-8ba8-6a2b95d5b9a8,27,Oliveira,37,Beleza,244.22,4,976.88,Pix
+815d9862-edbc-409b-ac2e-5031c29010ae,2024-10-24,28b5b48a-f61d-4c7f-b1e4-0ead0e14a0db,42,Jesus Paulista,48,Beleza,103.8,2,207.6,Boleto
+40c91d06-9809-4ac4-a40c-7618f200ba7e,2024-02-26,8c6273f4-fc56-47a8-b58e-61f5f320503a,59,Nogueira Alegre,41,Roupas,74.54,5,372.7,Pix
+81a68b2c-b98d-43df-9060-6b26e1132287,2024-12-31,9cbdcb60-250f-4bc0-8431-34c12f1b706d,45,Silva das Pedras,23,Esportes,201.01,3,603.03,Transferência Bancária
+38d1d24d-1a7b-453c-a818-6a2488c5447a,2024-11-15,83221ec6-4056-4e07-81c4-7bca54cd0a19,54,Oliveira,49,Eletrônicos,368.59,5,1842.95,Pix
+3914c196-d721-49d8-82da-18a663bdd818,2024-10-13,14676a3e-cbdf-403a-9ba9-d78291e1c996,52,Pires do Campo,1,Alimentos,220.3,3,660.9,Cartão de Débito
+be9740ca-cd35-40f8-a7f2-3904985fe7df,2024-09-14,0b498f70-ae3a-45dd-8e7e-fd5f3d900019,54,Rocha,21,Beleza,28.07,2,56.14,Transferência Bancária
+a2581102-c64e-46ae-a29f-6055081f6fa4,2024-06-06,1ce6bf13-658f-4970-84df-1461da6dcffd,54,Caldeira,12,Roupas,498.33,4,1993.32,Transferência Bancária
+245a705c-5a1e-451a-849e-9e29554ed0b1,2025-01-13,146efb2f-b8b5-4849-b563-98ff50653240,51,Sales,15,Beleza,367.19,3,1101.57,Pix
+3054f97c-b98a-44e0-b042-cdcaa09e814f,2024-04-17,5fe25b15-67f5-4364-aa5c-6816a8cf7623,24,Novaes de Correia,40,Livros,427.83,2,855.66,Cartão de Crédito
+640c0b8d-e378-466a-92f3-4482407b2971,2024-11-08,aa391e43-4b89-40b6-9205-2eec11c277bc,65,Gonçalves,15,Beleza,367.19,3,1101.57,Boleto
+45dcddf8-c5d4-4ec8-8ffa-658409924126,2025-01-31,3fc864a1-a990-450f-8354-274454fe46e8,55,Carvalho,3,Livros,425.62,3,1276.86,Pix
+c191fba4-9158-4c21-844f-d7ac26a60dbf,2024-11-16,9db5203a-9950-48f4-b273-76e2a315f302,41,Pinto,23,Esportes,201.01,3,603.03,Cartão de Débito
+f991ff1d-a636-4c6a-9227-0239c22675ae,2024-05-09,cf4e444d-ea09-40e3-9dad-53fc44c37b51,51,Fernandes da Serra,36,Eletrônicos,189.35,2,378.7,Pix
+bd55ee3c-3970-4cbe-bcdf-68b929735c0c,2024-02-21,c90dc03d-546d-43ed-9255-9f422b8cb393,45,da Mata de Moraes,24,Esportes,495.6,2,991.2,Cartão de Débito
+758a1816-7028-47da-a963-4833ffc086b1,2024-06-05,82b070f9-36bc-4462-9cd5-bbd1ae2dcd51,25,Jesus do Sul,1,Alimentos,220.3,4,881.2,Cartão de Crédito
+648c5faa-f759-468a-aa6e-4a4599754943,2024-07-06,9807ef79-15e8-4356-94e4-8ad7acdf87b3,47,Nunes,20,Alimentos,53.11,4,212.44,Boleto
+12fb30f9-9357-4379-b538-fff5a0915b46,2024-03-02,585b8a25-3dbe-4660-827e-cbb98523d0c5,20,Ribeiro Verde,19,Roupas,214.44,2,428.88,Cartão de Débito
+8d080ddc-ecf8-4b9c-9dba-71666931d759,2024-06-26,7d5ae8dd-fdd7-4dd6-ab2d-65d2e0362825,62,Alves,32,Livros,214.06,3,642.18,Boleto
+e47fea31-948a-4eb4-90aa-f2c1f2587632,2025-02-01,8cbf656b-8628-4048-95ee-dda30b13bccd,32,Nascimento,15,Beleza,367.19,5,1835.95,Boleto
+b3cf3771-e296-46f7-b6e9-3861df1a5ca1,2024-12-24,72c03e16-82ba-451b-8683-b16a9492fcf0,51,Ribeiro de da Luz,46,Beleza,135.55,3,406.65,Pix
+252db360-738a-4d8d-8f24-56d37fb62956,2024-05-23,32e44fde-af3e-45ed-a6dd-c380196ed39c,33,Teixeira do Amparo,27,Alimentos,406.38,3,1219.14,Cartão de Débito
+3fcf168e-5186-4abb-aa31-356312ca2aa3,2024-08-27,8aa58f43-6251-493b-814b-db6ec4c766f4,30,Lopes Grande,41,Roupas,74.54,4,298.16,Cartão de Crédito
+d889da06-455b-47b3-a076-a328b6266a5b,2024-06-14,9c89c006-e608-4470-bbc0-f91ddd500c17,46,Costa da Mata,23,Esportes,201.01,3,603.03,Pix
+706ee072-3b4f-46f5-b1c6-d411e3d89cf0,2024-06-10,4f618482-6fd1-461c-8619-f4c260adea40,33,Silva da Mata,39,Roupas,275.85,2,551.7,Cartão de Crédito
+02dcefb2-79e2-4c5c-906e-b703b9a0ae5e,2024-09-06,78b0a7b6-92c3-4f54-933c-f72f4773af6c,21,da Conceição,25,Beleza,349.23,4,1396.92,Cartão de Débito
+5d068b12-05e0-4c3f-ad1f-9ddae7c9bce0,2024-07-26,2897ee47-5937-41b5-84a4-ddc0dc5a0f03,63,Vieira do Sul,2,Esportes,244.18,1,244.18,Transferência Bancária
+293e9693-d8a2-4660-b73d-b6c57e82c993,2024-04-19,7164728a-ec9f-4900-8ef3-2227708faa23,56,Ramos do Norte,27,Alimentos,406.38,4,1625.52,Cartão de Débito
+de9387c7-27f7-4158-9660-3e91efd19473,2024-02-19,92c13f99-cc49-45c3-b1b7-ac7abcfebdfa,61,Alves de Campos,20,Alimentos,53.11,2,106.22,Pix
+88df9c9c-d241-494c-9ba0-bcf3470aeb9b,2024-05-10,46797d87-7c2c-4383-9bf7-1ddbf9657367,43,das Neves de Rodrigues,49,Eletrônicos,368.59,5,1842.95,Cartão de Crédito
+94da4a9e-162c-4d92-8d66-8fd3318abbd2,2024-09-22,80f7580b-6d4d-4794-9cf4-a2ebec4b3feb,44,Araújo de Nunes,50,Esportes,185.85,5,929.25,Boleto
+127ac1b9-28ff-4a54-9de2-b7effb256e1b,2024-09-28,1c413fd9-80e4-4550-97d6-259c8d76af17,45,Porto Paulista,37,Beleza,244.22,4,976.88,Boleto
+2be0492e-2e32-4732-bf5f-5d9527970ede,2024-09-12,b12875fc-4b36-4fee-8401-8258588b369f,20,Araújo da Serra,48,Beleza,103.8,1,103.8,Boleto
+e98afe4c-cbc8-452f-b919-16d3b84f8455,2024-06-25,7f853877-2ac5-4bb7-8007-8b660e49be51,49,Melo de Lima,3,Livros,425.62,3,1276.86,Boleto
+6592fb96-3276-4374-aa1c-d56fa175c176,2024-07-19,bee82a34-0867-41ad-add6-e30e03ffbafb,51,da Cunha,25,Beleza,349.23,3,1047.69,Transferência Bancária
+a28cbfa9-3d2a-4f5c-97d6-a16a9408743c,2024-08-24,3bba71a4-8716-48ab-b652-c2bbf9e90546,34,Farias,8,Alimentos,476.04,5,2380.2,Pix
+f305a55b-d719-4a2b-8b59-ca6174bc8be0,2024-11-17,bfbf0f86-d429-4799-9ac0-4b6a60737e66,59,Dias,24,Esportes,495.6,3,1486.8,Boleto
+553464b2-1b8a-495c-875e-58b36a649eb8,2024-03-21,b91ce411-a28f-4113-b020-31c46c7de9d5,41,Souza de Minas,23,Esportes,201.01,2,402.02,Transferência Bancária
+fbe09a0b-6998-4678-9962-a44c508a3a88,2024-12-12,2f7be461-16ce-414f-b918-9f7f678a8429,24,Costela Alegre,38,Beleza,296.32,4,1185.28,Cartão de Débito
+994c3dd8-f157-4328-ad11-a32abc60d563,2024-10-24,e59bfa16-c7fc-40d5-b68a-fe95413dd35d,40,Gonçalves,43,Alimentos,255.56,3,766.68,Transferência Bancária
+d71e7708-4715-4105-98fa-1b63e2029521,2024-07-06,0a860732-61d1-4705-819c-17736d1d4d23,51,Gonçalves,8,Alimentos,476.04,1,476.04,Boleto
+662d99b0-25c2-4f47-9c9f-2d4577e52938,2024-09-13,1533d5ab-fd0a-4b4c-a989-91090a370927,55,da Mata,35,Esportes,282.62,5,1413.1,Pix
+1bd9f215-e150-418f-b04c-4ef5427b489c,2024-05-19,72376a32-2d11-4c36-9a0f-2dd02455b183,37,Rodrigues,16,Roupas,167.91,2,335.82,Boleto
+e4451079-8de0-455d-b80b-c300f4b63016,2024-05-06,1fe2144d-f723-46bb-8606-e4b7b5c679bb,29,da Mata de Melo,44,Eletrônicos,127.27,5,636.35,Transferência Bancária
+74d7ac7e-5c4e-4a42-93ed-37855f32ae3a,2024-11-30,9524e54e-e59a-4633-ac3b-a93ee0884144,59,Jesus,40,Livros,427.83,3,1283.49,Cartão de Débito
+8ebbe283-a3a7-4093-bcda-13e031459dc1,2025-01-19,db635ff5-afcc-469c-9181-2e9f3a4173c9,38,Monteiro da Mata,42,Esportes,156.52,2,313.04,Cartão de Débito
+85077b7f-7a86-40f9-bafa-42ebb6716fc0,2024-07-30,e342742c-a0d7-4a77-ab06-a4ca66758504,53,da Paz do Amparo,22,Eletrônicos,22.63,4,90.52,Cartão de Débito
+e10eb3ab-0d2a-4592-8908-ff7cebe1cd9d,2024-10-09,adca1816-55af-44b1-b8f8-874764918a2e,29,Sales de Alves,26,Roupas,24.28,5,121.4,Transferência Bancária
+17f49671-6bb0-4682-8e2a-b70d5ab646c3,2024-12-05,5da820e7-4de1-4b1f-b310-f1883d84cef9,48,Rezende das Pedras,30,Beleza,421.37,2,842.74,Pix
+2208d584-204a-435d-b940-c4adde049c6a,2024-03-28,4874ba25-50a3-4b53-bd6b-908cdb1fd4a5,55,Porto da Mata,25,Beleza,349.23,5,1746.15,Pix
+6b91e88e-46eb-4d62-898a-a375724b3238,2024-05-27,c0c49db3-e77c-4be1-8337-0236795cc9ec,34,Santos,19,Roupas,214.44,5,1072.2,Pix
+6ab86a75-04a1-443f-a7be-967189f50521,2025-02-14,514da79d-a50e-465e-b986-1c9ed996f779,22,Duarte,6,Livros,372.96,3,1118.88,Cartão de Débito
+a2488b57-aeb3-4e1d-8024-f8eafa6b7388,2024-05-11,f23d9d55-f653-41df-b363-24894392c509,27,Novaes Verde,15,Beleza,367.19,2,734.38,Transferência Bancária
+c0bb5812-0cd2-4d93-b968-a074a5948e89,2024-12-01,dde2e0b8-2d37-43cc-9e23-8fdf864bdb78,27,da Paz,8,Alimentos,476.04,4,1904.16,Boleto
+3b5c7547-bb63-4738-9d00-39311d002bce,2024-04-09,816212a2-ceb1-486a-a6e3-54c943c5cb06,43,Rodrigues do Sul,47,Esportes,132.19,5,660.95,Cartão de Débito
+b92c2061-3bb1-43f1-a9f1-44a29becd33f,2024-06-08,767eb47e-b67a-4957-985e-407dea8a3f80,39,Vieira da Serra,37,Beleza,244.22,3,732.66,Pix
+e1ae6f3b-6156-460a-8493-58d2ee2051f8,2024-06-26,7725630e-c3cf-45ab-93e2-ba5c7bae0032,31,Freitas da Prata,13,Alimentos,12.53,4,50.12,Cartão de Crédito
+b1cf2d87-6119-413a-8bc0-4e09cf94f412,2025-01-08,f8e127c1-1141-456d-acd1-91b15ac247be,36,Cardoso,3,Livros,425.62,3,1276.86,Boleto
+72f9545d-b81a-4e06-ba90-79c8a67655aa,2024-11-30,a3534fba-0780-4392-9aae-aff3469236a3,47,Araújo Paulista,38,Beleza,296.32,3,888.96,Boleto
+88f00b81-cbcd-4933-bfe0-d071a5b41a0d,2024-03-17,4694bced-3d53-41bf-a9d8-57a9c9f1a161,59,da Cruz do Galho,26,Roupas,24.28,5,121.4,Transferência Bancária
+b6ff86ed-bba0-4b18-9fc3-bb152097d2ce,2024-04-28,8c505df7-365b-4416-9715-4cadc8acb795,29,Cunha,16,Roupas,167.91,2,335.82,Boleto
+0cac0cf9-6cde-4209-8550-05970b7fac0e,2024-05-07,dea350a2-932b-46cc-ab82-3ddae8d0d912,48,Cavalcanti,21,Beleza,28.07,4,112.28,Cartão de Débito
+a763b4f0-94a4-4f8c-a883-bf1a636c1a07,2024-08-26,46437c3e-0fa2-48f7-9f36-578bdb71cd06,40,Lopes dos Dourados,8,Alimentos,476.04,3,1428.12,Pix
